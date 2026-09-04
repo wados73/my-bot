@@ -19,9 +19,15 @@
   .search{position:relative;margin:12px 16px;}
   .search input{width:100%;padding:10px 12px 10px 34px;border-radius:10px;border:1px solid var(--border);background:var(--card);font-size:15px;}
   .search span{position:absolute;left:11px;top:50%;transform:translateY(-50%);color:var(--muted);}
-  .cats{display:flex;gap:8px;overflow-x:auto;padding:0 16px 12px;}
-  .cat{flex:none;padding:8px 14px;border-radius:999px;border:1px solid var(--border);background:var(--card);font-size:13px;white-space:nowrap;}
-  .cat.active{background:var(--text);color:#fff;border-color:var(--text);}
+
+  .catlist{padding:0 16px;}
+  .catrow{display:flex;align-items:center;justify-content:space-between;padding:14px 4px;border-bottom:1px solid var(--border);font-size:14.5px;}
+  .catrow .cnt{font-size:12px;color:var(--muted);}
+  .catrow .arrow{color:var(--muted);margin-left:8px;}
+
+  .backbar{display:flex;align-items:center;gap:8px;padding:4px 16px 8px;}
+  .backbar button{border:none;background:none;font-size:14px;color:var(--text);padding:6px 0;}
+
   .grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;padding:0 16px;}
   .card{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:10px;}
   .swatch{width:100%;aspect-ratio:1;border-radius:10px;overflow:hidden;margin-bottom:8px;background:var(--bg);display:flex;align-items:center;justify-content:center;}
@@ -52,7 +58,11 @@
   <input id="search" placeholder="Знайти товар">
 </div>
 
-<div class="cats" id="cats"></div>
+<div id="backbar" class="backbar" style="display:none;">
+  <button id="backBtn">← Всі категорії</button>
+</div>
+
+<div class="catlist" id="catlist"></div>
 <div class="grid" id="grid"></div>
 <p class="empty" id="empty" style="display:none;">Нічого не знайдено</p>
 
@@ -68,43 +78,68 @@
 const tg = window.Telegram?.WebApp;
 tg?.ready(); tg?.expand();
 
+const STEP = 100;
 let DATA = { categories: {}, products: [] };
-const state = { cat: 'all', q: '', w: {} };
+const state = { view: 'categories', cat: null, q: '', w: {} };
 
 fetch('products.json')
   .then(r => r.json())
   .then(data => {
     DATA = data;
     DATA.products.forEach(p => state.w[p.id] = 0);
-    renderCats();
-    renderGrid();
-    renderCart();
+    render();
   });
 
-function renderCats(){
-  const catIds = [...new Set(DATA.products.map(p => p.category_id))];
-  const items = [{id:'all', name:'Всі'}].concat(
-    catIds.map(id => ({id, name: DATA.categories[id] || 'Інше'}))
-  );
-  document.getElementById('cats').innerHTML = items.map(c =>
-    `<div class="cat ${state.cat===c.id?'active':''}" data-id="${c.id}">${c.name}</div>`
+function catCounts(){
+  const counts = {};
+  DATA.products.forEach(p => {
+    if (!p.available) return;
+    counts[p.category_id] = (counts[p.category_id] || 0) + 1;
+  });
+  return counts;
+}
+
+function render(){
+  const isSearching = state.q.trim().length > 0;
+  document.getElementById('backbar').style.display = (state.view === 'products' && !isSearching) ? 'flex' : 'none';
+  document.getElementById('catlist').style.display = (state.view === 'categories' && !isSearching) ? 'block' : 'none';
+  document.getElementById('grid').style.display = (state.view === 'products' || isSearching) ? 'grid' : 'none';
+
+  if (state.view === 'categories' && !isSearching) {
+    renderCatList();
+  } else {
+    renderGrid();
+  }
+  renderCart();
+}
+
+function renderCatList(){
+  const counts = catCounts();
+  const catIds = Object.keys(DATA.categories).filter(id => counts[id]);
+  const el = document.getElementById('catlist');
+  el.innerHTML = catIds.map(id =>
+    `<div class="catrow" data-id="${id}">
+      <span>${DATA.categories[id]}</span>
+      <span><span class="cnt">${counts[id]}</span><span class="arrow">›</span></span>
+    </div>`
   ).join('');
-  document.querySelectorAll('.cat').forEach(el=>el.onclick=()=>{
-    state.cat = el.dataset.id; renderCats(); renderGrid();
+  el.querySelectorAll('.catrow').forEach(row => row.onclick = () => {
+    state.view = 'products';
+    state.cat = row.dataset.id;
+    render();
   });
 }
 
 function filtered(){
   const q = state.q.trim().toLowerCase();
-  return DATA.products.filter(p =>
-    p.available &&
-    (state.cat === 'all' || p.category_id === state.cat) &&
-    (!q || p.name.toLowerCase().includes(q))
-  );
+  if (q) {
+    return DATA.products.filter(p => p.available && p.name.toLowerCase().includes(q));
+  }
+  return DATA.products.filter(p => p.available && p.category_id === state.cat);
 }
 
 function renderGrid(){
-  const list = filtered().slice(0, 60); // ограничение для скорости рендера
+  const list = filtered().slice(0, 100);
   const grid = document.getElementById('grid');
   const empty = document.getElementById('empty');
   empty.style.display = list.length ? 'none' : 'block';
@@ -127,7 +162,7 @@ function renderGrid(){
   }).join('');
   grid.querySelectorAll('.stepper button').forEach(b=>b.onclick=()=>{
     const id=b.dataset.id, d=+b.dataset.d;
-    state.w[id]=Math.max(0,(state.w[id]||0)+d*50);
+    state.w[id]=Math.max(0,(state.w[id]||0)+d*STEP);
     renderGrid(); renderCart();
   });
 }
@@ -140,7 +175,11 @@ function renderCart(){
 }
 
 document.getElementById('search').addEventListener('input', e=>{
-  state.q = e.target.value; renderGrid();
+  state.q = e.target.value; render();
+});
+
+document.getElementById('backBtn').addEventListener('click', ()=>{
+  state.view = 'categories'; state.cat = null; render();
 });
 
 document.getElementById('checkout').onclick = ()=>{
