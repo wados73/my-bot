@@ -208,7 +208,7 @@ document.getElementById('checkout').onclick = ()=>{
     items: items.map(p=>({name:p.name, weight:state.w[p.id], sum:+(p.price*state.w[p.id]/100).toFixed(0)})),
     total: items.reduce((s,p)=>s+p.price*state.w[p.id]/100,0).toFixed(0)
   };
-  if(tg){ tg.sendData(JSON.stringify(order)); tg.close(); }
+  if(tg){ tg.sendData(JSON.stringify(order)); }
   else alert('Замовлення: '+JSON.stringify(order,null,2));
 };
 </script>
