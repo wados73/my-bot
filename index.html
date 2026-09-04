@@ -39,7 +39,7 @@
   .weight{font-size:13px;font-variant-numeric:tabular-nums;}
   .sub-total{font-size:13px;font-weight:600;margin:6px 0 0;color:var(--muted);}
   .sub-total.active{color:var(--text);}
-  .cartbar{position:fixed;left:0;right:0;bottom:0;background:var(--card);border-top:1px solid var(--border);padding:12px 16px;display:flex;align-items:center;justify-content:space-between;}
+  .cartbar{position:fixed;left:0;right:0;bottom:0;background:var(--card);border-top:1px solid var(--border);padding:12px 16px;display:flex;align-items:center;justify-content:space-between;z-index:10;}
   .cartbar .count{font-size:12px;color:var(--muted);margin:0;}
   .cartbar .total{font-size:18px;font-weight:700;margin:2px 0 0;}
   .cartbar button{background:var(--text);color:#fff;border:none;padding:12px 18px;border-radius:10px;font-size:14px;font-weight:600;}
@@ -72,30 +72,30 @@
     <p class="count" id="cartCount">Кошик порожній</p>
     <p class="total" id="cartTotal">0 ₴</p>
   </div>
-  <button id="checkout">Оформити →</button>
+  <button id="checkout" type="button">Оформити →</button>
 </div>
 
 <script>
-const tg = window.Telegram?.WebApp;
-tg?.ready(); tg?.expand();
+var tg = window.Telegram ? window.Telegram.WebApp : null;
+if (tg) { tg.ready(); tg.expand(); }
 
-const STEP = 100;
-const PAGE_SIZE = 20;
-let DATA = { categories: {}, products: [] };
-const state = { view: 'categories', cat: null, q: '', w: {}, shown: PAGE_SIZE };
-let searchTimer = null;
+var WEIGHT_STEP = 100;
+var PAGE_SIZE = 20;
+var DATA = { categories: {}, products: [] };
+var state = { view: 'categories', cat: null, q: '', qty: {}, shown: PAGE_SIZE };
+var searchTimer = null;
 
 fetch('products.json')
-  .then(r => r.json())
-  .then(data => {
+  .then(function(r){ return r.json(); })
+  .then(function(data){
     DATA = data;
-    DATA.products.forEach(p => state.w[p.id] = 0);
+    DATA.products.forEach(function(p){ state.qty[p.id] = 0; });
     render();
   });
 
 function catCounts(){
-  const counts = {};
-  DATA.products.forEach(p => {
+  var counts = {};
+  DATA.products.forEach(function(p){
     if (!p.available) return;
     counts[p.category_id] = (counts[p.category_id] || 0) + 1;
   });
@@ -103,7 +103,7 @@ function catCounts(){
 }
 
 function render(){
-  const isSearching = state.q.trim().length > 0;
+  var isSearching = state.q.trim().length > 0;
   document.getElementById('backbar').style.display = (state.view === 'products' && !isSearching) ? 'flex' : 'none';
   document.getElementById('catlist').style.display = (state.view === 'categories' && !isSearching) ? 'block' : 'none';
   document.getElementById('grid').style.display = (state.view === 'products' || isSearching) ? 'grid' : 'none';
@@ -117,102 +117,136 @@ function render(){
 }
 
 function renderCatList(){
-  const counts = catCounts();
-  const catIds = Object.keys(DATA.categories).filter(id => counts[id]);
-  const el = document.getElementById('catlist');
-  el.innerHTML = catIds.map(id =>
-    `<div class="catrow" data-id="${id}">
-      <span>${DATA.categories[id]}</span>
-      <span><span class="cnt">${counts[id]}</span><span class="arrow">›</span></span>
-    </div>`
-  ).join('');
-  el.querySelectorAll('.catrow').forEach(row => row.onclick = () => {
-    state.view = 'products';
-    state.cat = row.dataset.id;
-    state.shown = PAGE_SIZE;
-    render();
-  });
+  var counts = catCounts();
+  var catIds = Object.keys(DATA.categories).filter(function(id){ return counts[id]; });
+  var el = document.getElementById('catlist');
+  el.innerHTML = catIds.map(function(id){
+    return '<div class="catrow" data-id="' + id + '"><span>' + DATA.categories[id] + '</span><span><span class="cnt">' + counts[id] + '</span><span class="arrow">›</span></span></div>';
+  }).join('');
+  var rows = el.querySelectorAll('.catrow');
+  for (var i = 0; i < rows.length; i++) {
+    rows[i].addEventListener('click', function(){
+      state.view = 'products';
+      state.cat = this.getAttribute('data-id');
+      state.shown = PAGE_SIZE;
+      render();
+    });
+  }
 }
 
 function filtered(){
-  const q = state.q.trim().toLowerCase();
+  var q = state.q.trim().toLowerCase();
   if (q) {
-    return DATA.products.filter(p => p.available && p.name.toLowerCase().includes(q));
+    return DATA.products.filter(function(p){ return p.available && p.name.toLowerCase().indexOf(q) !== -1; });
   }
-  return DATA.products.filter(p => p.available && p.category_id === state.cat);
+  return DATA.products.filter(function(p){ return p.available && p.category_id === state.cat; });
+}
+
+function unitLabel(p){
+  return p.unit_type === 'weight' ? 'г' : 'шт';
+}
+
+function priceLabel(p){
+  if (p.unit_type === 'weight') {
+    return p.price_per_100g + ' ₴ / 100 г';
+  }
+  return p.price + ' ₴ / шт';
+}
+
+function calcStep(p){
+  return p.unit_type === 'weight' ? WEIGHT_STEP : 1;
+}
+
+function calcSum(p, qty){
+  if (p.unit_type === 'weight') {
+    return (p.price_per_100g * qty / 100);
+  }
+  return p.price * qty;
 }
 
 function renderGrid(){
-  const all = filtered();
-  const list = all.slice(0, state.shown);
-  const grid = document.getElementById('grid');
-  const empty = document.getElementById('empty');
+  var all = filtered();
+  var list = all.slice(0, state.shown);
+  var grid = document.getElementById('grid');
+  var empty = document.getElementById('empty');
   empty.style.display = list.length ? 'none' : 'block';
   grid.style.display = list.length ? 'grid' : 'none';
 
-  let html = list.map(p => {
-    const w = state.w[p.id];
-    const sub = (p.price * w / 100).toFixed(0);
-    const img = p.picture ? `<img src="${p.picture}" loading="lazy">` : '📦';
-    return `<div class="card">
-      <div class="swatch">${img}</div>
-      <p class="name">${p.name}</p>
-      <p class="price">${p.price} ₴ / 100 г</p>
-      <div class="stepper">
-        <button data-id="${p.id}" data-d="-1">−</button>
-        <span class="weight">${w} г</span>
-        <button data-id="${p.id}" data-d="1">+</button>
-      </div>
-      <p class="sub-total ${w>0?'active':''}">${sub} ₴</p>
-    </div>`;
+  var html = list.map(function(p){
+    var qty = state.qty[p.id];
+    var sub = calcSum(p, qty).toFixed(0);
+    var img = p.picture ? ('<img src="' + p.picture + '" loading="lazy">') : '📦';
+    return '<div class="card">' +
+      '<div class="swatch">' + img + '</div>' +
+      '<p class="name">' + p.name + '</p>' +
+      '<p class="price">' + priceLabel(p) + '</p>' +
+      '<div class="stepper">' +
+        '<button data-id="' + p.id + '" data-d="-1">−</button>' +
+        '<span class="weight">' + qty + ' ' + unitLabel(p) + '</span>' +
+        '<button data-id="' + p.id + '" data-d="1">+</button>' +
+      '</div>' +
+      '<p class="sub-total ' + (qty>0?'active':'') + '">' + sub + ' ₴</p>' +
+    '</div>';
   }).join('');
 
   if (all.length > state.shown) {
-    html += `<div class="loadmore" id="loadmoreBtn">Показати ще (${all.length - state.shown})</div>`;
+    html += '<div class="loadmore" id="loadmoreBtn">Показати ще (' + (all.length - state.shown) + ')</div>';
   }
 
   grid.innerHTML = html;
-  grid.querySelectorAll('.stepper button').forEach(b=>b.onclick=()=>{
-    const id=b.dataset.id, d=+b.dataset.d;
-    state.w[id]=Math.max(0,(state.w[id]||0)+d*STEP);
-    renderGrid(); renderCart();
-  });
-  const lm = document.getElementById('loadmoreBtn');
-  if (lm) lm.onclick = () => { state.shown += PAGE_SIZE; renderGrid(); };
+  var btns = grid.querySelectorAll('.stepper button');
+  for (var i = 0; i < btns.length; i++) {
+    btns[i].addEventListener('click', function(){
+      var id = this.getAttribute('data-id');
+      var d = parseInt(this.getAttribute('data-d'), 10);
+      var product = DATA.products.filter(function(p){ return p.id === id; })[0];
+      var step = calcStep(product);
+      state.qty[id] = Math.max(0, (state.qty[id] || 0) + d * step);
+      renderGrid(); renderCart();
+    });
+  }
+  var lm = document.getElementById('loadmoreBtn');
+  if (lm) lm.addEventListener('click', function(){ state.shown += PAGE_SIZE; renderGrid(); });
 }
 
 function renderCart(){
-  const items = DATA.products.filter(p => state.w[p.id] > 0);
-  const total = items.reduce((s,p)=>s+p.price*state.w[p.id]/100,0);
-  document.getElementById('cartCount').textContent = items.length ? `${items.length} товар(и)` : 'Кошик порожній';
-  document.getElementById('cartTotal').textContent = total.toFixed(0)+' ₴';
+  var items = DATA.products.filter(function(p){ return state.qty[p.id] > 0; });
+  var total = items.reduce(function(s,p){ return s + calcSum(p, state.qty[p.id]); }, 0);
+  document.getElementById('cartCount').textContent = items.length ? (items.length + ' товар(и)') : 'Кошик порожній';
+  document.getElementById('cartTotal').textContent = total.toFixed(0) + ' ₴';
 }
 
-document.getElementById('search').addEventListener('input', e=>{
+document.getElementById('search').addEventListener('input', function(e){
   clearTimeout(searchTimer);
-  const val = e.target.value;
-  searchTimer = setTimeout(()=>{
+  var val = e.target.value;
+  searchTimer = setTimeout(function(){
     state.q = val; state.shown = PAGE_SIZE; render();
   }, 250);
 });
 
-document.getElementById('backBtn').addEventListener('click', ()=>{
+document.getElementById('backBtn').addEventListener('click', function(){
   state.view = 'categories'; state.cat = null; render();
 });
 
 document.getElementById('checkout').addEventListener('click', function(){
-  const items = DATA.products.filter(function(p){ return state.w[p.id] > 0; });
+  var items = DATA.products.filter(function(p){ return state.qty[p.id] > 0; });
   if (items.length === 0) { alert('Кошик порожній'); return; }
-  const order = {
+  var order = {
     source: 'miniapp',
     items: items.map(function(p){
-      return { name: p.name, weight: state.w[p.id], sum: +(p.price * state.w[p.id] / 100).toFixed(0) };
+      var qty = state.qty[p.id];
+      return {
+        name: p.name,
+        qty: qty,
+        unit: unitLabel(p),
+        sum: +calcSum(p, qty).toFixed(0)
+      };
     }),
-    total: items.reduce(function(s,p){ return s + p.price * state.w[p.id] / 100; }, 0).toFixed(0)
+    total: items.reduce(function(s,p){ return s + calcSum(p, state.qty[p.id]); }, 0).toFixed(0)
   };
-  const payload = JSON.stringify(order);
+  var payload = JSON.stringify(order);
   if (payload.length > 4000) {
-    alert('Забагато товарів у кошику (' + payload.length + ' байт). Зменшіть кількість позицій і спробуйте ще раз.');
+    alert('Забагато товарів у кошику. Зменшіть кількість позицій.');
     return;
   }
   try {
