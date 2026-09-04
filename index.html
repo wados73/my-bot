@@ -44,6 +44,7 @@
   .cartbar .total{font-size:18px;font-weight:700;margin:2px 0 0;}
   .cartbar button{background:var(--text);color:#fff;border:none;padding:12px 18px;border-radius:10px;font-size:14px;font-weight:600;}
   .empty{padding:24px 16px;color:var(--muted);font-size:13px;text-align:center;}
+  .loadmore{grid-column:1/-1;padding:12px;text-align:center;border:1px solid var(--border);border-radius:10px;background:var(--card);font-size:13px;color:var(--text);margin-top:4px;}
 </style>
 </head>
 <body>
@@ -79,8 +80,10 @@ const tg = window.Telegram?.WebApp;
 tg?.ready(); tg?.expand();
 
 const STEP = 100;
+const PAGE_SIZE = 20;
 let DATA = { categories: {}, products: [] };
-const state = { view: 'categories', cat: null, q: '', w: {} };
+const state = { view: 'categories', cat: null, q: '', w: {}, shown: PAGE_SIZE };
+let searchTimer = null;
 
 fetch('products.json')
   .then(r => r.json())
@@ -126,6 +129,7 @@ function renderCatList(){
   el.querySelectorAll('.catrow').forEach(row => row.onclick = () => {
     state.view = 'products';
     state.cat = row.dataset.id;
+    state.shown = PAGE_SIZE;
     render();
   });
 }
@@ -139,12 +143,14 @@ function filtered(){
 }
 
 function renderGrid(){
-  const list = filtered().slice(0, 100);
+  const all = filtered();
+  const list = all.slice(0, state.shown);
   const grid = document.getElementById('grid');
   const empty = document.getElementById('empty');
   empty.style.display = list.length ? 'none' : 'block';
   grid.style.display = list.length ? 'grid' : 'none';
-  grid.innerHTML = list.map(p => {
+
+  let html = list.map(p => {
     const w = state.w[p.id];
     const sub = (p.price * w / 100).toFixed(0);
     const img = p.picture ? `<img src="${p.picture}" loading="lazy">` : '📦';
@@ -160,11 +166,19 @@ function renderGrid(){
       <p class="sub-total ${w>0?'active':''}">${sub} ₴</p>
     </div>`;
   }).join('');
+
+  if (all.length > state.shown) {
+    html += `<div class="loadmore" id="loadmoreBtn">Показати ще (${all.length - state.shown})</div>`;
+  }
+
+  grid.innerHTML = html;
   grid.querySelectorAll('.stepper button').forEach(b=>b.onclick=()=>{
     const id=b.dataset.id, d=+b.dataset.d;
     state.w[id]=Math.max(0,(state.w[id]||0)+d*STEP);
     renderGrid(); renderCart();
   });
+  const lm = document.getElementById('loadmoreBtn');
+  if (lm) lm.onclick = () => { state.shown += PAGE_SIZE; renderGrid(); };
 }
 
 function renderCart(){
@@ -175,7 +189,11 @@ function renderCart(){
 }
 
 document.getElementById('search').addEventListener('input', e=>{
-  state.q = e.target.value; render();
+  clearTimeout(searchTimer);
+  const val = e.target.value;
+  searchTimer = setTimeout(()=>{
+    state.q = val; state.shown = PAGE_SIZE; render();
+  }, 250);
 });
 
 document.getElementById('backBtn').addEventListener('click', ()=>{
