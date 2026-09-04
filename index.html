@@ -202,7 +202,7 @@ document.getElementById('backBtn').addEventListener('click', ()=>{
 
 document.getElementById('checkout').addEventListener('click', function(){
   const items = DATA.products.filter(function(p){ return state.w[p.id] > 0; });
-  if (items.length === 0) return;
+  if (items.length === 0) { alert('Кошик порожній'); return; }
   const order = {
     source: 'miniapp',
     items: items.map(function(p){
@@ -210,10 +210,19 @@ document.getElementById('checkout').addEventListener('click', function(){
     }),
     total: items.reduce(function(s,p){ return s + p.price * state.w[p.id] / 100; }, 0).toFixed(0)
   };
-  if (tg) {
-    tg.sendData(JSON.stringify(order));
-  } else {
-    alert('Замовлення: ' + JSON.stringify(order, null, 2));
+  const payload = JSON.stringify(order);
+  if (payload.length > 4000) {
+    alert('Забагато товарів у кошику (' + payload.length + ' байт). Зменшіть кількість позицій і спробуйте ще раз.');
+    return;
+  }
+  try {
+    if (tg) {
+      tg.sendData(payload);
+    } else {
+      alert('Замовлення: ' + payload);
+    }
+  } catch (e) {
+    alert('Помилка відправки: ' + e.message);
   }
 });
 </script>
