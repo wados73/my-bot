@@ -200,17 +200,22 @@ document.getElementById('backBtn').addEventListener('click', ()=>{
   state.view = 'categories'; state.cat = null; render();
 });
 
-document.getElementById('checkout').onclick = ()=>{
-  const items = DATA.products.filter(p => state.w[p.id] > 0);
-  if(!items.length) return;
+document.getElementById('checkout').addEventListener('click', function(){
+  const items = DATA.products.filter(function(p){ return state.w[p.id] > 0; });
+  if (items.length === 0) return;
   const order = {
     source: 'miniapp',
-    items: items.map(p=>({name:p.name, weight:state.w[p.id], sum:+(p.price*state.w[p.id]/100).toFixed(0)})),
-    total: items.reduce((s,p)=>s+p.price*state.w[p.id]/100,0).toFixed(0)
+    items: items.map(function(p){
+      return { name: p.name, weight: state.w[p.id], sum: +(p.price * state.w[p.id] / 100).toFixed(0) };
+    }),
+    total: items.reduce(function(s,p){ return s + p.price * state.w[p.id] / 100; }, 0).toFixed(0)
   };
-  if(tg){ tg.sendData(JSON.stringify(order)); }
-  else alert('Замовлення: '+JSON.stringify(order,null,2));
-};
+  if (tg) {
+    tg.sendData(JSON.stringify(order));
+  } else {
+    alert('Замовлення: ' + JSON.stringify(order, null, 2));
+  }
+});
 </script>
 </body>
 </html>
