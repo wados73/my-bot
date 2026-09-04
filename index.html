@@ -7,40 +7,45 @@
 <script src="https://telegram.org/js/telegram-web-app.js"></script>
 <style>
   :root{
-    --bg:#F7F4EE; --card:#FFFFFF; --text:#2B1D14; --muted:#8A7B6C;
-    --border:#E4D9C6; --amber:#D4930A; --coral:#B4452A; --teal:#3E7C6B;
+    --bg:#F5EFE4; --card:#FFFFFF; --text:#2B1D14; --muted:#8A7B6C;
+    --border:#E4D9C6;
   }
   *{box-sizing:border-box;}
   body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,Roboto,sans-serif;padding-bottom:90px;}
-  .topbar{display:flex;align-items:center;justify-content:space-between;padding:14px 16px 6px;}
-  .logo{font-size:19px;font-weight:700;margin:0;}
-  .search{position:relative;margin:10px 16px 12px;}
-  .search input{width:100%;padding:10px 12px 10px 34px;border:1px solid var(--border);background:var(--card);font-size:15px;}
+  header{padding:16px;}
+  header p{margin:0;}
+  .sub{font-size:13px;color:var(--muted);}
+  .title{font-size:19px;font-weight:600;margin-top:2px;}
+  .search{position:relative;margin:12px 16px;}
+  .search input{width:100%;padding:10px 12px 10px 34px;border-radius:10px;border:1px solid var(--border);background:var(--card);font-size:15px;}
   .search span{position:absolute;left:11px;top:50%;transform:translateY(-50%);color:var(--muted);}
-  .cats{display:flex;gap:8px;overflow-x:auto;padding:0 16px 14px;}
-  .cat{flex:none;padding:8px 14px;border:1px solid var(--border);background:var(--card);font-size:13px;white-space:nowrap;}
+  .cats{display:flex;gap:8px;overflow-x:auto;padding:0 16px 12px;}
+  .cat{flex:none;padding:8px 14px;border-radius:999px;border:1px solid var(--border);background:var(--card);font-size:13px;white-space:nowrap;}
   .cat.active{background:var(--text);color:#fff;border-color:var(--text);}
   .grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;padding:0 16px;}
-  .card{background:var(--card);border:1px solid var(--border);padding:10px;}
-  .swatch{width:100%;aspect-ratio:1;display:flex;align-items:center;justify-content:center;font-size:26px;margin-bottom:8px;background:var(--bg);}
-  .name{font-size:13.5px;font-weight:600;margin:0 0 2px;}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:10px;}
+  .swatch{width:100%;aspect-ratio:1;border-radius:10px;overflow:hidden;margin-bottom:8px;background:var(--bg);display:flex;align-items:center;justify-content:center;}
+  .swatch img{width:100%;height:100%;object-fit:cover;}
+  .name{font-size:13px;font-weight:600;margin:0 0 2px;line-height:1.3;}
   .price{font-size:12px;color:var(--muted);margin:0 0 8px;}
   .stepper{display:flex;align-items:center;justify-content:space-between;}
-  .stepper button{width:28px;height:28px;border:1px solid var(--border);background:#fff;font-size:16px;}
+  .stepper button{width:28px;height:28px;border-radius:8px;border:1px solid var(--border);background:#fff;font-size:16px;}
   .weight{font-size:13px;font-variant-numeric:tabular-nums;}
   .sub-total{font-size:13px;font-weight:600;margin:6px 0 0;color:var(--muted);}
   .sub-total.active{color:var(--text);}
   .cartbar{position:fixed;left:0;right:0;bottom:0;background:var(--card);border-top:1px solid var(--border);padding:12px 16px;display:flex;align-items:center;justify-content:space-between;}
   .cartbar .count{font-size:12px;color:var(--muted);margin:0;}
   .cartbar .total{font-size:18px;font-weight:700;margin:2px 0 0;}
-  .cartbar button{background:var(--text);color:#fff;border:none;padding:12px 18px;font-size:14px;font-weight:600;}
+  .cartbar button{background:var(--text);color:#fff;border:none;padding:12px 18px;border-radius:10px;font-size:14px;font-weight:600;}
+  .empty{padding:24px 16px;color:var(--muted);font-size:13px;text-align:center;}
 </style>
 </head>
 <body>
 
-<div class="topbar">
-  <p class="logo">Пищевик</p>
-</div>
+<header>
+  <p class="sub">Крамниця</p>
+  <p class="title">Пищевик</p>
+</header>
 
 <div class="search">
   <span>🔍</span>
@@ -49,6 +54,7 @@
 
 <div class="cats" id="cats"></div>
 <div class="grid" id="grid"></div>
+<p class="empty" id="empty" style="display:none;">Нічого не знайдено</p>
 
 <div class="cartbar">
   <div>
@@ -62,47 +68,55 @@
 const tg = window.Telegram?.WebApp;
 tg?.ready(); tg?.expand();
 
-// ЗАМІНИ на реальний асортимент з Prom-фіда
-const categories = [
-  {id:'all', name:'Всі'},
-  {id:'spice', name:'Спеції'},
-  {id:'dried', name:'Сухофрукти'},
-  {id:'nuts', name:'Горіхи'}
-];
-const products = [
-  {id:1,name:'Куркума мелена',cat:'spice',price100:45,emoji:'🟡'},
-  {id:2,name:'Паприка копчена',cat:'spice',price100:60,emoji:'🔴'},
-  {id:3,name:'Кориця цейлонська',cat:'spice',price100:78,emoji:'🟤'},
-  {id:4,name:'Курага',cat:'dried',price100:120,emoji:'🍑'},
-  {id:5,name:'Фінік Меджул',cat:'dried',price100:180,emoji:'🌰'},
-  {id:6,name:'Чорнослив',cat:'dried',price100:95,emoji:'🟣'},
-  {id:7,name:'Мигдаль',cat:'nuts',price100:150,emoji:'🥜'},
-  {id:8,name:'Волоський горіх',cat:'nuts',price100:140,emoji:'🌰'}
-];
+let DATA = { categories: {}, products: [] };
+const state = { cat: 'all', q: '', w: {} };
 
-const state = {cat:'all', q:'', w:{}};
-products.forEach(p=>state.w[p.id]=0);
+fetch('products.json')
+  .then(r => r.json())
+  .then(data => {
+    DATA = data;
+    DATA.products.forEach(p => state.w[p.id] = 0);
+    renderCats();
+    renderGrid();
+    renderCart();
+  });
 
 function renderCats(){
-  document.getElementById('cats').innerHTML = categories.map(c=>
+  const catIds = [...new Set(DATA.products.map(p => p.category_id))];
+  const items = [{id:'all', name:'Всі'}].concat(
+    catIds.map(id => ({id, name: DATA.categories[id] || 'Інше'}))
+  );
+  document.getElementById('cats').innerHTML = items.map(c =>
     `<div class="cat ${state.cat===c.id?'active':''}" data-id="${c.id}">${c.name}</div>`
   ).join('');
-  document.querySelectorAll('.cat').forEach(el=>el.onclick=()=>{state.cat=el.dataset.id;renderCats();renderGrid();});
+  document.querySelectorAll('.cat').forEach(el=>el.onclick=()=>{
+    state.cat = el.dataset.id; renderCats(); renderGrid();
+  });
 }
 
 function filtered(){
   const q = state.q.trim().toLowerCase();
-  return products.filter(p=>(state.cat==='all'||p.cat===state.cat)&&(!q||p.name.toLowerCase().includes(q)));
+  return DATA.products.filter(p =>
+    p.available &&
+    (state.cat === 'all' || p.category_id === state.cat) &&
+    (!q || p.name.toLowerCase().includes(q))
+  );
 }
 
 function renderGrid(){
-  document.getElementById('grid').innerHTML = filtered().map(p=>{
+  const list = filtered().slice(0, 60); // ограничение для скорости рендера
+  const grid = document.getElementById('grid');
+  const empty = document.getElementById('empty');
+  empty.style.display = list.length ? 'none' : 'block';
+  grid.style.display = list.length ? 'grid' : 'none';
+  grid.innerHTML = list.map(p => {
     const w = state.w[p.id];
-    const sub = (p.price100*w/100).toFixed(0);
+    const sub = (p.price * w / 100).toFixed(0);
+    const img = p.picture ? `<img src="${p.picture}" loading="lazy">` : '📦';
     return `<div class="card">
-      <div class="swatch">${p.emoji}</div>
+      <div class="swatch">${img}</div>
       <p class="name">${p.name}</p>
-      <p class="price">${p.price100} ₴ / 100 г</p>
+      <p class="price">${p.price} ₴ / 100 г</p>
       <div class="stepper">
         <button data-id="${p.id}" data-d="-1">−</button>
         <span class="weight">${w} г</span>
@@ -111,34 +125,35 @@ function renderGrid(){
       <p class="sub-total ${w>0?'active':''}">${sub} ₴</p>
     </div>`;
   }).join('');
-  document.querySelectorAll('.stepper button').forEach(b=>b.onclick=()=>{
-    const id=+b.dataset.id, d=+b.dataset.d;
-    state.w[id]=Math.max(0,state.w[id]+d*50);
+  grid.querySelectorAll('.stepper button').forEach(b=>b.onclick=()=>{
+    const id=b.dataset.id, d=+b.dataset.d;
+    state.w[id]=Math.max(0,(state.w[id]||0)+d*50);
     renderGrid(); renderCart();
   });
 }
 
 function renderCart(){
-  const items = products.filter(p=>state.w[p.id]>0);
-  const total = items.reduce((s,p)=>s+p.price100*state.w[p.id]/100,0);
-  document.getElementById('cartCount').textContent = items.length? `${items.length} товар(и)` : 'Кошик порожній';
+  const items = DATA.products.filter(p => state.w[p.id] > 0);
+  const total = items.reduce((s,p)=>s+p.price*state.w[p.id]/100,0);
+  document.getElementById('cartCount').textContent = items.length ? `${items.length} товар(и)` : 'Кошик порожній';
   document.getElementById('cartTotal').textContent = total.toFixed(0)+' ₴';
 }
 
-document.getElementById('search').addEventListener('input', e=>{state.q=e.target.value;renderGrid();});
+document.getElementById('search').addEventListener('input', e=>{
+  state.q = e.target.value; renderGrid();
+});
 
 document.getElementById('checkout').onclick = ()=>{
-  const items = products.filter(p=>state.w[p.id]>0);
+  const items = DATA.products.filter(p => state.w[p.id] > 0);
   if(!items.length) return;
   const order = {
-    items: items.map(p=>({name:p.name, weight:state.w[p.id], sum:+(p.price100*state.w[p.id]/100).toFixed(0)})),
-    total: items.reduce((s,p)=>s+p.price100*state.w[p.id]/100,0).toFixed(0)
+    source: 'miniapp',
+    items: items.map(p=>({name:p.name, weight:state.w[p.id], sum:+(p.price*state.w[p.id]/100).toFixed(0)})),
+    total: items.reduce((s,p)=>s+p.price*state.w[p.id]/100,0).toFixed(0)
   };
   if(tg){ tg.sendData(JSON.stringify(order)); tg.close(); }
   else alert('Замовлення: '+JSON.stringify(order,null,2));
 };
-
-renderCats(); renderGrid(); renderCart();
 </script>
 </body>
 </html>
