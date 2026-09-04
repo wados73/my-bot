@@ -1,0 +1,4761 @@
+{
+  "categories": {
+    "75262432": "Натуральный шоколад",
+    "84274419": "Формы пластиковые",
+    "84304920": "Кокосовый сахар и тростниковый",
+    "84308336": "Растительные сливки и молоко",
+    "86688526": "Кондитерская мука",
+    "87720145": "Масла растительные",
+    "89326089": "Натуральные ореховые пасты",
+    "93725288": "Сиропы",
+    "93810767": "Ароматизаторы",
+    "97601300": "Специи и пряности",
+    "4754901": "Красители пищевые",
+    "4758936": "Подсластители синтетические",
+    "4801510": "Какао бобы",
+    "4876472": "Какао порошок",
+    "5268576": "Агар-Агар, Альбумин, Желатин, Пектин.",
+    "5434236": "Кокосовое масло",
+    "7474477": "Кэроб натуральный заменитель кофе, какао",
+    "13895369": "Сухофрукты и ягоды",
+    "23546082": "Сухое молоко, сливки",
+    "30881085": "Пропиленгликоль / глицерин",
+    "32910780": "Масло жожоба",
+    "34593334": "Кунжут",
+    "60399313": "Все для кондитера",
+    "61424714": "Суперфуды",
+    "93760388": "Подарочный сертификат",
+    "4834758": "Какао масло",
+    "4876295": "Мальтодекстрин",
+    "4833828": "Какао тертое",
+    "36468700": "Миндальная мука",
+    "38508653": "Кокосовая мука",
+    "34619899": "Кокосовая стружка",
+    "66335282": "Водоросли и морская капуста",
+    "92868476": "Глазурь Кондитерская",
+    "13894011": "Орехи",
+    "4754926": "Консерванты пищевые",
+    "4758971": "Усилители вкуса",
+    "4843101": "Ванилин и специи",
+    "96168789": "Продукты для приготовления суши",
+    "87239778": "Подсластители натуральные"
+  },
+  "products": [
+    {
+      "id": "54284230",
+      "name": "Барвник Діоксид титану (білий) (харчовий) (Китай).Вага:1кг.",
+      "price": 350.0,
+      "category_id": "4754901",
+      "category_name": "Красители пищевые",
+      "picture": "https://images.prom.ua/3167868202_krasitel-dioksid-titana.jpg",
+      "available": true
+    },
+    {
+      "id": "54285187",
+      "name": "Мальтодекстрін E-1400 (Китай).Вага:1кг.",
+      "price": 100.0,
+      "category_id": "4876295",
+      "category_name": "Мальтодекстрин",
+      "picture": "https://images.prom.ua/6276222036_maltodekstrin-e-1400-kitajves1kg.jpg",
+      "available": true
+    },
+    {
+      "id": "54881094",
+      "name": "Бензоат натрію Е-211 (Китай).Вага:1кг.",
+      "price": 140.0,
+      "category_id": "4754926",
+      "category_name": "Консерванты пищевые",
+      "picture": "https://images.prom.ua/6276261720_benzoat-natriya-e-211.jpg",
+      "available": true
+    },
+    {
+      "id": "54881650",
+      "name": "Сорбінова кислота Е-200 (Китай).Вага:1кг.",
+      "price": 350.0,
+      "category_id": "4754926",
+      "category_name": "Консерванты пищевые",
+      "picture": "https://images.prom.ua/6276346196_sorbinovaya-kislota-e-200.jpg",
+      "available": true
+    },
+    {
+      "id": "54884388",
+      "name": "Цикламат натрію Е-952 (Китай).Вага:1кг.",
+      "price": 300.0,
+      "category_id": "4758936",
+      "category_name": "Подсластители синтетические",
+      "picture": "https://images.prom.ua/6484954539_tsiklamat-natriya-e-952.jpg",
+      "available": true
+    },
+    {
+      "id": "54889106",
+      "name": "Ванілін порошковий (Україна).Вага:1кг.",
+      "price": 300.0,
+      "category_id": "4843101",
+      "category_name": "Ванилин и специи",
+      "picture": "https://images.prom.ua/6276346196_vanilin-poroshkovyj-ukrainaves1kg.jpg",
+      "available": true
+    },
+    {
+      "id": "54890255",
+      "name": "Барвник карамельний Е150 (Китай).Вага:1кг.",
+      "price": 130.0,
+      "category_id": "4754901",
+      "category_name": "Красители пищевые",
+      "picture": "https://images.prom.ua/1155503906_krasitel-karamelnyj-e150.jpg",
+      "available": true
+    },
+    {
+      "id": "54894977",
+      "name": "Глутамат натрію Е-621(Китай).Вага:1кг.",
+      "price": 140.0,
+      "category_id": "4758971",
+      "category_name": "Усилители вкуса",
+      "picture": "https://images.prom.ua/1154063222_glutamat-natriya-e-621kitajves1kg.jpg",
+      "available": true
+    },
+    {
+      "id": "54896945",
+      "name": "Аскорбінова кислота Е300 (Китай).Вага:1кг.",
+      "price": 300.0,
+      "category_id": "4754926",
+      "category_name": "Консерванты пищевые",
+      "picture": "https://images.prom.ua/6276346196_askorbinovaya-kislota-e300.jpg",
+      "available": true
+    },
+    {
+      "id": "54899409",
+      "name": "Сорбат калію Е-202 (Китай).Вага:1кг.",
+      "price": 300.0,
+      "category_id": "4754926",
+      "category_name": "Консерванты пищевые",
+      "picture": "https://images.prom.ua/6486134671_sorbat-kaliya-e-202.jpg",
+      "available": true
+    },
+    {
+      "id": "56024611",
+      "name": "Какао боби сирі ТМ Ghana Premium (Гана).Вага:1кг.",
+      "price": 750.0,
+      "category_id": "4801510",
+      "category_name": "Какао бобы",
+      "picture": "https://images.prom.ua/6295676512_kakao-boby-syrye.jpg",
+      "available": true
+    },
+    {
+      "id": "63847214",
+      "name": "Какао терте (моноліт) ТМ Gerkens Cacao.Вага:1кг.",
+      "price": 850.0,
+      "category_id": "4833828",
+      "category_name": "Какао тертое",
+      "picture": "https://images.prom.ua/6300096621_kakao-tertoe-monolit.jpg",
+      "available": true
+    },
+    {
+      "id": "71282573",
+      "name": "Агар агар (1200) Іспанія.Вага:1кг..",
+      "price": 1100.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276213551_agar-agar1200-ispaniyaves1kg.jpg",
+      "available": true
+    },
+    {
+      "id": "71287087",
+      "name": "Пектин цитрусовий ТМ Grindsted (Чехія).Вага:1кг.",
+      "price": 730.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276263135_pektin-tsitrusovyj-tm.jpg",
+      "available": true
+    },
+    {
+      "id": "74096832",
+      "name": "Пропіленгліколь 99.9% BASF (Німеччина).Вага:1кг.",
+      "price": 325.0,
+      "category_id": "30881085",
+      "category_name": "Пропиленгликоль / глицерин",
+      "picture": "https://images.prom.ua/6486133924_propilenglikol-999-basf.jpg",
+      "available": true
+    },
+    {
+      "id": "91196196",
+      "name": "Какао масло дезодороване (Нідерланди) ТМ DeZaan.Вага:1кг.",
+      "price": 1150.0,
+      "category_id": "4834758",
+      "category_name": "Какао масло",
+      "picture": "https://images.prom.ua/6300185855_kakao-maslo-dezodorirovannoe.jpg",
+      "available": true
+    },
+    {
+      "id": "91858314",
+      "name": "Сахаринат натрію Е-954 (Китай).Вага:1кг.",
+      "price": 500.0,
+      "category_id": "4758936",
+      "category_name": "Подсластители синтетические",
+      "picture": "https://images.prom.ua/6484954539_saharinat-natriya-e-954.jpg",
+      "available": true
+    },
+    {
+      "id": "102131864",
+      "name": "Какао боби сирі ТМ Ghana Premium (Гана).Вага:150г.",
+      "price": 125.0,
+      "category_id": "4801510",
+      "category_name": "Какао бобы",
+      "picture": "https://images.prom.ua/6295676512_kakao-boby-syrye.jpg",
+      "available": true
+    },
+    {
+      "id": "112945846",
+      "name": "Гліцерин ТМ BASF (Німеччина) 99.9%.Вага:1кг.",
+      "price": 210.0,
+      "category_id": "30881085",
+      "category_name": "Пропиленгликоль / глицерин",
+      "picture": "https://images.prom.ua/6362634093_glitserin-tm-basf.jpg",
+      "available": true
+    },
+    {
+      "id": "112946033",
+      "name": "Фруктоза (Туреччина)Вага:1кг.",
+      "price": 150.0,
+      "category_id": "87239778",
+      "category_name": "Подсластители натуральные",
+      "picture": "https://images.prom.ua/6484954539_fruktoza-turtsiyaves1-kg.jpg",
+      "available": true
+    },
+    {
+      "id": "123010890",
+      "name": "Барвник Тартразин (жовтий) Е-102 (Індія).Вага:1кг.",
+      "price": 650.0,
+      "category_id": "4754901",
+      "category_name": "Красители пищевые",
+      "picture": "https://images.prom.ua/1155506485_krasitel-tartrazin-zheltyj.jpg",
+      "available": true
+    },
+    {
+      "id": "123687298",
+      "name": "Барвник Сонячний захід (помаранчевий) Е-110 (Індія).Вага:1кг.",
+      "price": 700.0,
+      "category_id": "4754901",
+      "category_name": "Красители пищевые",
+      "picture": "https://images.prom.ua/1155509060_krasitel-solnechnyj-zakat.jpg",
+      "available": true
+    },
+    {
+      "id": "123687519",
+      "name": "Барвник Кармоїзин (червоний) Е-122 (Індія).Вага:1кг.",
+      "price": 1000.0,
+      "category_id": "4754901",
+      "category_name": "Красители пищевые",
+      "picture": "https://images.prom.ua/1155510832_krasitel-karmoizin-krasnyj.jpg",
+      "available": true
+    },
+    {
+      "id": "123687647",
+      "name": "Барвник Понсо 4R (алий) Е-124 (Індія).Вага:1кг.",
+      "price": 900.0,
+      "category_id": "4754901",
+      "category_name": "Красители пищевые",
+      "picture": "https://images.prom.ua/1155514406_krasitel-ponso-4r.jpg",
+      "available": true
+    },
+    {
+      "id": "123687929",
+      "name": "Барвник Аллюра (червоний) Е-129 (Індія).Вага:1кг.",
+      "price": 1400.0,
+      "category_id": "4754901",
+      "category_name": "Красители пищевые",
+      "picture": "https://images.prom.ua/1987271222_krasitel-allyura-krasnyj.jpg",
+      "available": true
+    },
+    {
+      "id": "123688116",
+      "name": "Барвник Індигокармін (синій) Е-132 (Індія).Вага:1 кг",
+      "price": 1800.0,
+      "category_id": "4754901",
+      "category_name": "Красители пищевые",
+      "picture": "https://images.prom.ua/1155516616_krasitel-indigokarmin-sinij.jpg",
+      "available": true
+    },
+    {
+      "id": "123688387",
+      "name": "Барвник Діамантовий блакитний Е-133 (Індія).Вага:1кг.",
+      "price": 1500.0,
+      "category_id": "4754901",
+      "category_name": "Красители пищевые",
+      "picture": "https://images.prom.ua/1155518820_krasitel-brilliantovyj-goluboj.jpg",
+      "available": true
+    },
+    {
+      "id": "123688538",
+      "name": "Барвник коричневий: Шоколад-Chocolate brown (Е-155) (Індія).Вага:1кг.",
+      "price": 1000.0,
+      "category_id": "4754901",
+      "category_name": "Красители пищевые",
+      "picture": "https://images.prom.ua/1155521319_krasitel-korichnevyj-shokolad-chocolate.jpg",
+      "available": true
+    },
+    {
+      "id": "124009809",
+      "name": "Какао терте(моноліт) ТМ Gerkens Cacao.Вага:150г.",
+      "price": 200.0,
+      "category_id": "4833828",
+      "category_name": "Какао тертое",
+      "picture": "https://images.prom.ua/6300096621_kakao-tertoe-monolit.jpg",
+      "available": true
+    },
+    {
+      "id": "135824008",
+      "name": "Какао терте(Україна).Вага:1кг.",
+      "price": 750.0,
+      "category_id": "4833828",
+      "category_name": "Какао тертое",
+      "picture": "https://images.prom.ua/6300119766_kakao-tertoe-ukrainaves1kg.jpg",
+      "available": true
+    },
+    {
+      "id": "148462768",
+      "name": "Какао порошок світлий 12% (Нідерланди) ТМ Gerkens Cacao.Вага:1кг.",
+      "price": 575.0,
+      "category_id": "4876472",
+      "category_name": "Какао порошок",
+      "picture": "https://images.prom.ua/6409670901_kakao-poroshok-svetlyj.jpg",
+      "available": true
+    },
+    {
+      "id": "148463019",
+      "name": "Какао порошок темний 12% (Нідерланди) ТМ Gerkens Cacao.Вага:1кг.",
+      "price": 575.0,
+      "category_id": "4876472",
+      "category_name": "Какао порошок",
+      "picture": "https://images.prom.ua/6409671488_kakao-poroshok-temnyj.jpg",
+      "available": true
+    },
+    {
+      "id": "163783362",
+      "name": "Сироп глюкозний (патока) ІГ-42. Україна.Вага:1кг.",
+      "price": 100.0,
+      "category_id": "93725288",
+      "category_name": "Сиропы",
+      "picture": "https://images.prom.ua/248123238_sirop-glyukoznyj-patoka.jpg",
+      "available": true
+    },
+    {
+      "id": "166193861",
+      "name": "Альбумін 85% білка (яєчний білок) (Україна).Вага:1кг.",
+      "price": 950.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276246769_albumin-85-belka.jpg",
+      "available": true
+    },
+    {
+      "id": "172634259",
+      "name": "Барвник Зелене яблуко (зелений) Е-102,Е-133 (Індія).Вага:1кг.",
+      "price": 800.0,
+      "category_id": "4754901",
+      "category_name": "Красители пищевые",
+      "picture": "https://images.prom.ua/1155523078_krasitel-zelenoe-yabloko.jpg",
+      "available": true
+    },
+    {
+      "id": "175693379",
+      "name": "Кероб Лайт (легкого обсмажування) (Іспанія).Вага:1кг.",
+      "price": 175.0,
+      "category_id": "7474477",
+      "category_name": "Кэроб натуральный заменитель кофе, какао",
+      "picture": "https://images.prom.ua/6321676464_kerob-lajt-slaboj.jpg",
+      "available": true
+    },
+    {
+      "id": "201303828",
+      "name": "Агар агар(1200) Іспанія.Вага:100г.",
+      "price": 125.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276213551_agar-agar1200-ispaniyaves100gr.jpg",
+      "available": true
+    },
+    {
+      "id": "229351385",
+      "name": "Пектин яблучний ТМ Andre Pectin (Китай).Вага:1 кг.",
+      "price": 730.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276261720_pektin-yablochnyj-tm.jpg",
+      "available": true
+    },
+    {
+      "id": "243188299",
+      "name": "Какао масло дезодороване (Нідерланди) ТМ DeZaan.Вага:150г.",
+      "price": 200.0,
+      "category_id": "4834758",
+      "category_name": "Какао масло",
+      "picture": "https://images.prom.ua/6300185855_kakao-maslo-dezodorirovannoe.jpg",
+      "available": true
+    },
+    {
+      "id": "259355708",
+      "name": "Желатин 220 bloom TM Gelita (Німеччина).Вага:1 кг.",
+      "price": 570.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276253447_zhelatin-220-bloom.jpg",
+      "available": true
+    },
+    {
+      "id": "300377985",
+      "name": "Какао порошок темний 22% (Нідерланди)ТМ DeZaan.Вага:1кг.",
+      "price": 825.0,
+      "category_id": "4876472",
+      "category_name": "Какао порошок",
+      "picture": "https://images.prom.ua/6409665961_kakao-poroshok-temnyj.jpg",
+      "available": true
+    },
+    {
+      "id": "307795420",
+      "name": "Пектин цитрусовий ТМ Grindsted (Чехія).Вага:100г.",
+      "price": 90.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276263135_pektin-tsitrusovyj-tm.jpg",
+      "available": true
+    },
+    {
+      "id": "307795446",
+      "name": "Пектин яблучний ТМ Andre Pectin (Китай).Вага:100г.",
+      "price": 90.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276261720_pektin-yablochnyj-tm.jpg",
+      "available": true
+    },
+    {
+      "id": "319340657",
+      "name": "Кероб Медіум (обсмажений) (Іспанія).Вага:1кг.",
+      "price": 175.0,
+      "category_id": "7474477",
+      "category_name": "Кэроб натуральный заменитель кофе, какао",
+      "picture": "https://images.prom.ua/6321673892_kerob-medium-obzharennyj.jpg",
+      "available": true
+    },
+    {
+      "id": "526466829",
+      "name": "Альбумін 85% (яєчний білок) (Італія).Вага:1кг.",
+      "price": 1050.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276222036_albumin-85-yaichnyj.jpg",
+      "available": true
+    },
+    {
+      "id": "544618219",
+      "name": "Желатин 220 bloom ТМ Gelita (Німеччина).Вага:100г.",
+      "price": 70.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276253447_zhelatin-220-bloom.jpg",
+      "available": true
+    },
+    {
+      "id": "547033630",
+      "name": "Какао порошок світлий 22% (Нідерланди)ТМ DeZaan.Вага:1кг.",
+      "price": 825.0,
+      "category_id": "4876472",
+      "category_name": "Какао порошок",
+      "picture": "https://images.prom.ua/6409666496_kakao-poroshok-svetlyj.jpg",
+      "available": true
+    },
+    {
+      "id": "576835294",
+      "name": "Сухі вершки 42% ДСТУ (Україна).Вага:1кг.",
+      "price": 450.0,
+      "category_id": "23546082",
+      "category_name": "Сухое молоко, сливки",
+      "picture": "https://images.prom.ua/6276361555_suhie-slivki-42.jpg",
+      "available": true
+    },
+    {
+      "id": "576836980",
+      "name": "Сухе молоко знежирене 1.5% ДСТУ (Україна).Вага:1кг.",
+      "price": 220.0,
+      "category_id": "23546082",
+      "category_name": "Сухое молоко, сливки",
+      "picture": "https://images.prom.ua/6276350123_suhoe-moloko-obezzhirennoe.jpg",
+      "available": true
+    },
+    {
+      "id": "585941011",
+      "name": "Декстроза-глюкоза(Китай). Вага:1кг.",
+      "price": 100.0,
+      "category_id": "4758936",
+      "category_name": "Подсластители синтетические",
+      "picture": "https://images.prom.ua/6276346196_dekstroza-glyukoza-kitajves1kg.jpg",
+      "available": true
+    },
+    {
+      "id": "684367299",
+      "name": "Гліцерин ТМ BASF (Німеччина) 99.9%.Вага:500г.",
+      "price": 120.0,
+      "category_id": "30881085",
+      "category_name": "Пропиленгликоль / глицерин",
+      "picture": "https://images.prom.ua/6362633849_glitserin-tm-basf.jpg",
+      "available": true
+    },
+    {
+      "id": "684381679",
+      "name": "Гліцерин ТМ BASF (Німеччина ) 99.9%.Вага:5кг.",
+      "price": 950.0,
+      "category_id": "30881085",
+      "category_name": "Пропиленгликоль / глицерин",
+      "picture": "https://images.prom.ua/3447522981_glitserin-tm-basf.jpg",
+      "available": true
+    },
+    {
+      "id": "684392628",
+      "name": "Гліцерин ТМ BASF (Німеччина) 99.9%.Вага:10кг.",
+      "price": 1700.0,
+      "category_id": "30881085",
+      "category_name": "Пропиленгликоль / глицерин",
+      "picture": "https://images.prom.ua/3447525403_glitserin-tm-basf.jpg",
+      "available": true
+    },
+    {
+      "id": "684450586",
+      "name": "Пропіленгліколь 99.9% BASF (Німеччина).Вага:5кг.",
+      "price": 1375.0,
+      "category_id": "30881085",
+      "category_name": "Пропиленгликоль / глицерин",
+      "picture": "https://images.prom.ua/3447544302_propilenglikol-999-basf.jpg",
+      "available": true
+    },
+    {
+      "id": "684457991",
+      "name": "Пропіленгліколь 99.9% BASF (Німеччина).Вага:10кг.",
+      "price": 2500.0,
+      "category_id": "30881085",
+      "category_name": "Пропиленгликоль / глицерин",
+      "picture": "https://images.prom.ua/3447542140_propilenglikol-999-basf.jpg",
+      "available": true
+    },
+    {
+      "id": "684480635",
+      "name": "Желатин 220 bloom ТМ Gelita (Німеччина).Вага:250г.",
+      "price": 150.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276253447_zhelatin-220-bloom.jpg",
+      "available": true
+    },
+    {
+      "id": "684484893",
+      "name": "Желатин 220 bloom TM Gelita (Німеччина).Вага:500г.",
+      "price": 285.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276253447_zhelatin-220-bloom.jpg",
+      "available": true
+    },
+    {
+      "id": "684516073",
+      "name": "Агар агар(1200) Іспанія.Вага:250г.",
+      "price": 300.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276213551_agar-agar-1200.jpg",
+      "available": true
+    },
+    {
+      "id": "684516756",
+      "name": "Агар агар(1200) Іспанія.Вага:500г.",
+      "price": 575.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276213551_agar-agar1200-ispaniyaves500gr.jpg",
+      "available": true
+    },
+    {
+      "id": "684529202",
+      "name": "Пектин цитрусовий ТМ Grindsted (Чехія).Вага:250г.",
+      "price": 200.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276263135_pektin-tsitrusovyj-tm.jpg",
+      "available": true
+    },
+    {
+      "id": "684531083",
+      "name": "Пектин цитрусовий ТМ Grindsted (Чехія).Вага:500г.",
+      "price": 400.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276263135_pektin-tsitrusovyj-tm.jpg",
+      "available": true
+    },
+    {
+      "id": "684698481",
+      "name": "Пектин яблучний ТМ Andre Pectin (Китай).Вага:250г.",
+      "price": 200.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276261720_pektin-yablochnyj-tm.jpg",
+      "available": true
+    },
+    {
+      "id": "684699068",
+      "name": "Пектин яблучний ТМ Andre Pectin (Китай).Вага:500г.",
+      "price": 400.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276261720_pektin-yablochnyj-tm.jpg",
+      "available": true
+    },
+    {
+      "id": "684701367",
+      "name": "Альбумін 85% (яєчний білок) (Італія).Вага:500г.",
+      "price": 575.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276222036_albumin-85-yaichnyj.jpg",
+      "available": true
+    },
+    {
+      "id": "684710811",
+      "name": "Альбумін 85% білка (яєчний білок) (Україна).Вага:500г.",
+      "price": 475.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276246769_albumin-85-belka.jpg",
+      "available": true
+    },
+    {
+      "id": "684723382",
+      "name": "Какао терте(моноліт) ТМ Gerkens Cacao.Вага:500г.",
+      "price": 460.0,
+      "category_id": "4833828",
+      "category_name": "Какао тертое",
+      "picture": "https://images.prom.ua/6300096621_kakao-tertoe-monolit.jpg",
+      "available": true
+    },
+    {
+      "id": "684723508",
+      "name": "Какао терте(Україна).Вага:500г.",
+      "price": 375.0,
+      "category_id": "4833828",
+      "category_name": "Какао тертое",
+      "picture": "https://images.prom.ua/6300119766_kakao-tertoe-ukrainaves500gr.jpg",
+      "available": true
+    },
+    {
+      "id": "684723790",
+      "name": "Какао терте(Україна).Вага:250г.",
+      "price": 200.0,
+      "category_id": "4833828",
+      "category_name": "Какао тертое",
+      "picture": "https://images.prom.ua/6300119766_kakao-tertoe-ukrainaves250gr.jpg",
+      "available": true
+    },
+    {
+      "id": "684831149",
+      "name": "Какао боби сирі ТМ Ghana Premium (Гана).Вага:250г.",
+      "price": 200.0,
+      "category_id": "4801510",
+      "category_name": "Какао бобы",
+      "picture": "https://images.prom.ua/6295676512_kakao-boby-syrye.jpg",
+      "available": true
+    },
+    {
+      "id": "684835431",
+      "name": "Какао боби сирі ТМ Ghana Premium (Гана).Вага:500г.",
+      "price": 350.0,
+      "category_id": "4801510",
+      "category_name": "Какао бобы",
+      "picture": "https://images.prom.ua/6295676512_kakao-boby-syrye.jpg",
+      "available": true
+    },
+    {
+      "id": "684852037",
+      "name": "Какао масло дезодороване (Нідерланди) ТМ DeZaan.Вага:250г.",
+      "price": 325.0,
+      "category_id": "4834758",
+      "category_name": "Какао масло",
+      "picture": "https://images.prom.ua/6300185855_kakao-maslo-dezodorirovannoe.jpg",
+      "available": true
+    },
+    {
+      "id": "684853674",
+      "name": "Какао масло дезодороване (Нідерланди) ТМ DeZaan.Вага:500г.",
+      "price": 600.0,
+      "category_id": "4834758",
+      "category_name": "Какао масло",
+      "picture": "https://images.prom.ua/6300185855_kakao-maslo-dezodorirovannoe.jpg",
+      "available": true
+    },
+    {
+      "id": "685575836",
+      "name": "Какао порошок світлий 12%(Нідерланди) ТМ \"Gerkens Cacao\".Вага:500г.",
+      "price": 310.0,
+      "category_id": "4876472",
+      "category_name": "Какао порошок",
+      "picture": "https://images.prom.ua/6409670901_kakao-poroshok-svetlyj.jpg",
+      "available": true
+    },
+    {
+      "id": "685590389",
+      "name": "Какао порошок темний 22% (Нідерланди) ТМ DeZaan.Вага:500г.",
+      "price": 430.0,
+      "category_id": "4876472",
+      "category_name": "Какао порошок",
+      "picture": "https://images.prom.ua/6409665961_kakao-poroshok-temnyj.jpg",
+      "available": true
+    },
+    {
+      "id": "685732760",
+      "name": "Какао порошок темний 12% (Нідерланди) ТМ Gerkens Cacao.Вага:500г.",
+      "price": 310.0,
+      "category_id": "4876472",
+      "category_name": "Какао порошок",
+      "picture": "https://images.prom.ua/6409671488_kakao-poroshok-temnyj.jpg",
+      "available": true
+    },
+    {
+      "id": "685767791",
+      "name": "Кероб Лайт (легкого обсмажування) (Іспанія).Вага:500г.",
+      "price": 90.0,
+      "category_id": "7474477",
+      "category_name": "Кэроб натуральный заменитель кофе, какао",
+      "picture": "https://images.prom.ua/6321676464_kerob-lajt-slaboj.jpg",
+      "available": true
+    },
+    {
+      "id": "685890963",
+      "name": "Кероб Медіум (обсмажений) (Іспанія).Вага:500г.",
+      "price": 90.0,
+      "category_id": "7474477",
+      "category_name": "Кэроб натуральный заменитель кофе, какао",
+      "picture": "https://images.prom.ua/6321673892_kerob-medium-obzharennyj.jpg",
+      "available": true
+    },
+    {
+      "id": "685895611",
+      "name": "Кокосова олія рафінована ТМ \"Cargill\" (Малайзія).Об'єм:500мл.",
+      "price": 150.0,
+      "category_id": "5434236",
+      "category_name": "Кокосовое масло",
+      "picture": "https://images.prom.ua/6885602245_kokosovoe-maslo-rafinirovannoe.jpg",
+      "available": true
+    },
+    {
+      "id": "685896843",
+      "name": "Кокосова олія рафінована ТМ \"Cargill\" (Малайзія).Об'єм:250мл.",
+      "price": 85.0,
+      "category_id": "5434236",
+      "category_name": "Кокосовое масло",
+      "picture": "https://images.prom.ua/6885601967_kokosovoe-maslo-rafinirovannoe.jpg",
+      "available": true
+    },
+    {
+      "id": "697621220",
+      "name": "Молоко сухе незбиране 26% ДСТУ(Україна).Вага:1кг.",
+      "price": 350.0,
+      "category_id": "23546082",
+      "category_name": "Сухое молоко, сливки",
+      "picture": "https://images.prom.ua/6276349438_moloko-suhoe-tselnoe.jpg",
+      "available": true
+    },
+    {
+      "id": "697630108",
+      "name": "КМЦ.(Китай).Вага:1кг.",
+      "price": 350.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276261720_karboksimetiltselyulozakitajves1kg.jpg",
+      "available": true
+    },
+    {
+      "id": "714393783",
+      "name": "Агар агар1200(Китай).Вага:100г.",
+      "price": 120.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276213551_agar-agar-1200.jpg",
+      "available": true
+    },
+    {
+      "id": "714395607",
+      "name": "Агар агар1200 (Китай).Вага:250г.",
+      "price": 275.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276213551_agar-agar-1200.jpg",
+      "available": true
+    },
+    {
+      "id": "714397423",
+      "name": "Агар агар 1200 (Китай).Вага:500г.",
+      "price": 550.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276213551_agar-agar-1200.jpg",
+      "available": true
+    },
+    {
+      "id": "714398381",
+      "name": "Агар агар 1200(Китай).Вага:1кг.",
+      "price": 1050.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276213551_agar-agar-1200.jpg",
+      "available": true
+    },
+    {
+      "id": "714415129",
+      "name": "Какао масло натуральне (Польща).Вага:150г.",
+      "price": 200.0,
+      "category_id": "4834758",
+      "category_name": "Какао масло",
+      "picture": "https://images.prom.ua/6295816827_kakao-maslo-naturalnoe.jpg",
+      "available": true
+    },
+    {
+      "id": "714416703",
+      "name": "Какао масло натуральне (Польща).Вага:250г.",
+      "price": 325.0,
+      "category_id": "4834758",
+      "category_name": "Какао масло",
+      "picture": "https://images.prom.ua/6295816827_kakao-maslo-naturalnoe.jpg",
+      "available": true
+    },
+    {
+      "id": "714419399",
+      "name": "Какао масло натуральне (Польща).Вага:500г.",
+      "price": 600.0,
+      "category_id": "4834758",
+      "category_name": "Какао масло",
+      "picture": "https://images.prom.ua/6295816827_kakao-maslo-naturalnoe.jpg",
+      "available": true
+    },
+    {
+      "id": "714420108",
+      "name": "Какао масло натуральне (Польща).Вага:1кг.",
+      "price": 1150.0,
+      "category_id": "4834758",
+      "category_name": "Какао масло",
+      "picture": "https://images.prom.ua/6295816827_kakao-maslo-naturalnoe.jpg",
+      "available": true
+    },
+    {
+      "id": "714478929",
+      "name": "Лимонна кислота (Китай).Вага:1кг.",
+      "price": 125.0,
+      "category_id": "4754926",
+      "category_name": "Консерванты пищевые",
+      "picture": "https://images.prom.ua/6484954539_limonnaya-kislota-kitajves1kg.jpg",
+      "available": true
+    },
+    {
+      "id": "714492713",
+      "name": "Олія жожоба натуральна (Німеччина).Об'єм:100мл.",
+      "price": 225.0,
+      "category_id": "32910780",
+      "category_name": "Масло жожоба",
+      "picture": "https://images.prom.ua/3943986526_maslo-zhozhoba-naturalnoe.jpg",
+      "available": true
+    },
+    {
+      "id": "714494697",
+      "name": "Олія жожоба натуральна (Німеччина).Об'єм:250мл.",
+      "price": 300.0,
+      "category_id": "32910780",
+      "category_name": "Масло жожоба",
+      "picture": "https://images.prom.ua/3943986526_maslo-zhozhoba-naturalnoe.jpg",
+      "available": true
+    },
+    {
+      "id": "714495235",
+      "name": "Олія жожоба натуральна (Німеччина).Об'єм:500мл.",
+      "price": 500.0,
+      "category_id": "32910780",
+      "category_name": "Масло жожоба",
+      "picture": "https://images.prom.ua/3943986526_maslo-zhozhoba-naturalnoe.jpg",
+      "available": true
+    },
+    {
+      "id": "714495492",
+      "name": "Олія жожоба натуральна (Німеччина).Об'єм:1л.",
+      "price": 900.0,
+      "category_id": "32910780",
+      "category_name": "Масло жожоба",
+      "picture": "https://images.prom.ua/3943986526_maslo-zhozhoba-naturalnoe.jpg",
+      "available": true
+    },
+    {
+      "id": "714527134",
+      "name": "Олія виноградної кісточки натуральна (Німеччина).Об'єм:100мл.",
+      "price": 60.0,
+      "category_id": "87720145",
+      "category_name": "Масла растительные",
+      "picture": "https://images.prom.ua/3944123505_maslo-vinogradnoj-kostochki.jpg",
+      "available": true
+    },
+    {
+      "id": "714529826",
+      "name": "Олія виноградної кісточки натуральна (Німеччина).Об'єм:250мл.",
+      "price": 100.0,
+      "category_id": "87720145",
+      "category_name": "Масла растительные",
+      "picture": "https://images.prom.ua/3944123505_maslo-vinogradnoj-kostochki.jpg",
+      "available": true
+    },
+    {
+      "id": "714530881",
+      "name": "Олія виноградної кісточки натуральна (Німеччина).Об'єм:500мл.",
+      "price": 175.0,
+      "category_id": "87720145",
+      "category_name": "Масла растительные",
+      "picture": "https://images.prom.ua/3944123505_maslo-vinogradnoj-kostochki.jpg",
+      "available": true
+    },
+    {
+      "id": "714531343",
+      "name": "Олія виноградної кісточки натуральна (Німеччина).Об'єм:1л.",
+      "price": 250.0,
+      "category_id": "87720145",
+      "category_name": "Масла растительные",
+      "picture": "https://images.prom.ua/3944123505_maslo-vinogradnoj-kostochki.jpg",
+      "available": true
+    },
+    {
+      "id": "723499863",
+      "name": "Фундук смажений бланшований калібр 13/15.(Туреччина).Вага:150г.",
+      "price": 215.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6464725920_funduk-zharenyj-blanshirovannyj.jpg",
+      "available": true
+    },
+    {
+      "id": "723538852",
+      "name": "Фундук смажений бланшований калібр 13/15.(Туреччина).Вага:250г.",
+      "price": 360.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6464725920_funduk-zharenyj-blanshirovannyj.jpg",
+      "available": true
+    },
+    {
+      "id": "723583335",
+      "name": "Фундук смажений бланшований калібр13/15.(Туреччина).Вага:500г.",
+      "price": 680.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6464725920_funduk-zharenyj-blanshirovannyj.jpg",
+      "available": true
+    },
+    {
+      "id": "723583764",
+      "name": "Фундук смажений бланшований калібр13/15.(Туреччина).Вага:1кг.",
+      "price": 1260.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6464725920_funduk-zharenyj-blanshirovannyj.jpg",
+      "available": true
+    },
+    {
+      "id": "723588763",
+      "name": "Фундук сирий калібр 13/15.(Туреччина).Вага:150г.",
+      "price": 135.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6464727231_funduk-syroj-kalibr.jpg",
+      "available": true
+    },
+    {
+      "id": "723589934",
+      "name": "Фундук сирий калібр 13/15.(Туреччина).Вага:250г.",
+      "price": 215.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6464727231_funduk-syroj-kalibr.jpg",
+      "available": true
+    },
+    {
+      "id": "723589955",
+      "name": "Фундук сирий калібр 13/15.(Туреччина).Вага:500г.",
+      "price": 435.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6464727231_funduk-syroj-kalibr.jpg",
+      "available": true
+    },
+    {
+      "id": "723589982",
+      "name": "Фундук сирий калібр13/15.(Туреччина).Вага:1кг.",
+      "price": 860.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6464727231_funduk-syroj-kalibr.jpg",
+      "available": true
+    },
+    {
+      "id": "724236899",
+      "name": "Кунжут білий (Індія).Вага:250г.",
+      "price": 65.0,
+      "category_id": "34593334",
+      "category_name": "Кунжут",
+      "picture": "https://images.prom.ua/6486129368_kunzhut-belyj-indiyaves250gr.jpg",
+      "available": true
+    },
+    {
+      "id": "724669834",
+      "name": "Кунжут білий (Індія).Вага:500г.",
+      "price": 110.0,
+      "category_id": "34593334",
+      "category_name": "Кунжут",
+      "picture": "https://images.prom.ua/6486129368_kunzhut-belyj-indiyaves500gr.jpg",
+      "available": true
+    },
+    {
+      "id": "724670057",
+      "name": "Кунжут білий (Індія).Вага:1кг.",
+      "price": 200.0,
+      "category_id": "34593334",
+      "category_name": "Кунжут",
+      "picture": "https://images.prom.ua/6486129368_kunzhut-belyj-indiyaves1kg.jpg",
+      "available": true
+    },
+    {
+      "id": "724686971",
+      "name": "Кокосова стружка Медіум (велика) 65% (Індонезія).Вага:500г.",
+      "price": 175.0,
+      "category_id": "34619899",
+      "category_name": "Кокосовая стружка",
+      "picture": "https://images.prom.ua/6276385803_kokosovaya-struzhka-medium.jpg",
+      "available": true
+    },
+    {
+      "id": "724691116",
+      "name": "Кокосова стружка Медіум (велика) 65% (Індонезія).Вага:1кг.",
+      "price": 325.0,
+      "category_id": "34619899",
+      "category_name": "Кокосовая стружка",
+      "picture": "https://images.prom.ua/6276385803_kokosovaya-struzhka-medium.jpg",
+      "available": true
+    },
+    {
+      "id": "724692774",
+      "name": "Кокосова стружка Файн (дрібна) 65% (Індонезія).Вага:500г.",
+      "price": 175.0,
+      "category_id": "34619899",
+      "category_name": "Кокосовая стружка",
+      "picture": "https://images.prom.ua/6276386263_kokosovaya-struzhka-fajn.jpg",
+      "available": true
+    },
+    {
+      "id": "725814107",
+      "name": "Кокосова стружка Файн (дрібна) 65% (Індонезія).Вага:1кг.",
+      "price": 325.0,
+      "category_id": "34619899",
+      "category_name": "Кокосовая стружка",
+      "picture": "https://images.prom.ua/6276386263_kokosovaya-struzhka-fajn.jpg",
+      "available": true
+    },
+    {
+      "id": "727677575",
+      "name": "Фісташка солона Jumbo (Іран).Вага:150г.",
+      "price": 150.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6398760893_fistashka-solenaya-jumbo.jpg",
+      "available": true
+    },
+    {
+      "id": "727679914",
+      "name": "Фісташка солона Jumbo (Іран).Вага:250г.",
+      "price": 225.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6398760893_fistashka-solenaya-jumbo.jpg",
+      "available": true
+    },
+    {
+      "id": "727681288",
+      "name": "Фісташка солона Jumbo (Іран).Вага:500г.",
+      "price": 400.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6398760893_fistashka-solenaya-jumbo.jpg",
+      "available": true
+    },
+    {
+      "id": "727682891",
+      "name": "Фісташка солона Jumbo (Іран).Вага:1кг.",
+      "price": 800.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6398760893_fistashka-solenaya-jumbo.jpg",
+      "available": true
+    },
+    {
+      "id": "727688084",
+      "name": "Кедровий горіх(Китай).Вага:150г.",
+      "price": 360.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/7453513731_kedrovyj-orehkitajves150gr.jpg",
+      "available": true
+    },
+    {
+      "id": "727704985",
+      "name": "Кеш'ю смажений (В'єтнам).Вага:150г.",
+      "price": 100.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6464729457_keshyu-zharenyj-vetnamves150gr.jpg",
+      "available": true
+    },
+    {
+      "id": "727707697",
+      "name": "Кеш'ю смажений(В'єтнам).Вага:250г.",
+      "price": 175.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6464729457_keshyu-zharenyj-vetnamves250gr.jpg",
+      "available": true
+    },
+    {
+      "id": "727708772",
+      "name": "Кеш'ю смажений (В'єтнам).Вага:500г.",
+      "price": 335.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6464729457_keshyu-zharenyj-vetnamves500gr.jpg",
+      "available": true
+    },
+    {
+      "id": "727710374",
+      "name": "Кеш'ю смажений (В'єтнам).Вага:1кг.",
+      "price": 650.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6464729457_keshyu-zharenyj-vetnamves1kg.jpg",
+      "available": true
+    },
+    {
+      "id": "727715687",
+      "name": "Кеш'ю сирий (В'єтнам).Вага:150г.",
+      "price": 100.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6464729139_keshyu-syroj-vetnamves150gr.jpg",
+      "available": true
+    },
+    {
+      "id": "727822230",
+      "name": "Кеш'ю сирий (В'єтнам).Вага:250г.",
+      "price": 175.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6464729139_keshyu-syroj-vetnamves250gr.jpg",
+      "available": true
+    },
+    {
+      "id": "727823345",
+      "name": "Мигдаль Каліфорнійський смажений (Австралія).Вага:150г.",
+      "price": 100.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6464723510_mindal-kalifornijskij-zharenyj.jpg",
+      "available": true
+    },
+    {
+      "id": "727824205",
+      "name": "Мигдаль Каліфорнійський смажений (Австралія).Вага:250г.",
+      "price": 175.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6464723510_mindal-kalifornijskij-zharenyj.jpg",
+      "available": true
+    },
+    {
+      "id": "727825332",
+      "name": "Мигдаль Каліфорнійський смажений (Австралія).Вага:500г.",
+      "price": 335.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6464723510_mindal-kalifornijskij-zharenyj.jpg",
+      "available": true
+    },
+    {
+      "id": "727827475",
+      "name": "Мигдаль Каліфорнійський смажений (Австралія).Вага:1кг.",
+      "price": 650.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6464723510_mindal-kalifornijskij-zharenyj.jpg",
+      "available": true
+    },
+    {
+      "id": "727829994",
+      "name": "Мигдаль каліфорнійський сирий (Австралія).Вага:150г.",
+      "price": 100.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6464723510_mindal-kalifornijskij-syroj.jpg",
+      "available": true
+    },
+    {
+      "id": "727831960",
+      "name": "Мигдаль каліфорнійський сирий (Австралія).Вага:250г.",
+      "price": 175.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6464723510_mindal-kalifornijskij-syroj.jpg",
+      "available": true
+    },
+    {
+      "id": "727833842",
+      "name": "Мигдаль каліфорнійський сирий (Австралія).Вага:500г.",
+      "price": 310.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6464723510_mindal-kalifornijskij-syroj.jpg",
+      "available": true
+    },
+    {
+      "id": "727836469",
+      "name": "Мигдаль каліфорнійський сирий (Австралія).Вага:1кг.",
+      "price": 600.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6464723510_mindal-kalifornijskij-syroj.jpg",
+      "available": true
+    },
+    {
+      "id": "733693017",
+      "name": "Кокосова олія Organic Virgin (Шрі-Ланка).Об'єм:250мл.",
+      "price": 225.0,
+      "category_id": "5434236",
+      "category_name": "Кокосовое масло",
+      "picture": "https://images.prom.ua/1773662872_kokosovoe-maslo-organic.jpg",
+      "available": true
+    },
+    {
+      "id": "733693438",
+      "name": "Кокосова олія Organic Virgin (Шрі-Ланка).Об'єм:500мл.",
+      "price": 400.0,
+      "category_id": "5434236",
+      "category_name": "Кокосовое масло",
+      "picture": "https://images.prom.ua/1773675796_kokosovoe-maslo-organic.jpg",
+      "available": true
+    },
+    {
+      "id": "738112968",
+      "name": "Фісташка сира очищена (Американка).Вага:1кг.",
+      "price": 2000.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6398754977_fistashka-syraya-ochischennaya.jpg",
+      "available": true
+    },
+    {
+      "id": "738113543",
+      "name": "Фісташка сира очищена (Американка).Вага:500г.",
+      "price": 1000.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6398754977_fistashka-syraya-ochischennaya.jpg",
+      "available": true
+    },
+    {
+      "id": "738113871",
+      "name": "Фісташка сира очищена (Американка).Вага:250г.",
+      "price": 500.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6398754977_fistashka-syraya-ochischennaya.jpg",
+      "available": true
+    },
+    {
+      "id": "738115965",
+      "name": "Фісташка сира очищена (Американка).Вага:150г.",
+      "price": 300.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6398754977_fistashka-syraya-ochischennaya.jpg",
+      "available": true
+    },
+    {
+      "id": "744553149",
+      "name": "Мигдальне борошно (Туреччина).Вага:250г.",
+      "price": 200.0,
+      "category_id": "86688526",
+      "category_name": "Кондитерская мука",
+      "picture": "https://images.prom.ua/6276412416_muka-mindalnaya-turtsiyaves250gr.jpg",
+      "available": true
+    },
+    {
+      "id": "744553168",
+      "name": "Мигдальне борошно (Туреччина).Вага:500г.",
+      "price": 350.0,
+      "category_id": "86688526",
+      "category_name": "Кондитерская мука",
+      "picture": "https://images.prom.ua/6276412416_muka-mindalnaya-turtsiyaves500gr.jpg",
+      "available": true
+    },
+    {
+      "id": "744553188",
+      "name": "Мигдальне борошно (Туреччина).Вага:1кг.",
+      "price": 700.0,
+      "category_id": "86688526",
+      "category_name": "Кондитерская мука",
+      "picture": "https://images.prom.ua/6276412416_muka-mindalnaya-turtsiyaves1kg.jpg",
+      "available": true
+    },
+    {
+      "id": "744553959",
+      "name": "Мигдальні слайси сирі (Австралія).Вага:150г.",
+      "price": 110.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/1311009138_mindalnye-slajsy-syrye.jpg",
+      "available": true
+    },
+    {
+      "id": "744553986",
+      "name": "Мигдальні слайси сирі (Австралія).Вага:250г.",
+      "price": 175.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/1311009138_mindalnye-slajsy-syrye.jpg",
+      "available": true
+    },
+    {
+      "id": "744554002",
+      "name": "Мигдальні слайси сирі (Австралія).Вага:500г.",
+      "price": 350.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/1311009138_mindalnye-slajsy-syrye.jpg",
+      "available": true
+    },
+    {
+      "id": "744554014",
+      "name": "Мигдальні слайси сирі (Австралія).Вага:1кг.",
+      "price": 650.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/1311009138_mindalnye-slajsy-syrye.jpg",
+      "available": true
+    },
+    {
+      "id": "744555036",
+      "name": "Арахіс сирий бланширований (Індія).Вага:500г.",
+      "price": 110.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6464773977_arahis-syroj-blanshirovannyj.jpg",
+      "available": true
+    },
+    {
+      "id": "744555212",
+      "name": "Арахіс сирий бланширований (Індія).Вага:1кг.",
+      "price": 200.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6464773977_arahis-syroj-blanshirovannyj.jpg",
+      "available": true
+    },
+    {
+      "id": "744556754",
+      "name": "Арахіс смажений солоний бланширований (Індія).Вага:500г.",
+      "price": 120.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6464776735_arahis-zharenyj-solenyj.jpg",
+      "available": true
+    },
+    {
+      "id": "744556768",
+      "name": "Арахіс смажений солоний бланширований (Індія).Вага:1кг.",
+      "price": 220.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6464776735_arahis-zharenyj-solenyj.jpg",
+      "available": true
+    },
+    {
+      "id": "774894013",
+      "name": "Борошно кокосове 12% (Індонезія).Вага:250г.",
+      "price": 50.0,
+      "category_id": "86688526",
+      "category_name": "Кондитерская мука",
+      "picture": "https://images.prom.ua/6276404822_muka-kokosovaya-12.jpg",
+      "available": true
+    },
+    {
+      "id": "774894584",
+      "name": "Кокосове борошно 12% (Індонезія).Вага:500г.",
+      "price": 85.0,
+      "category_id": "86688526",
+      "category_name": "Кондитерская мука",
+      "picture": "https://images.prom.ua/6276404822_muka-kokosovaya-12.jpg",
+      "available": true
+    },
+    {
+      "id": "774895125",
+      "name": "Кокосове борошно 12% (Індонезія).Вага:1кг.",
+      "price": 150.0,
+      "category_id": "86688526",
+      "category_name": "Кондитерская мука",
+      "picture": "https://images.prom.ua/6276404822_muka-kokosovaya-12.jpg",
+      "available": true
+    },
+    {
+      "id": "804186444",
+      "name": "Ягоди годжі (Китай).Вага:250г.",
+      "price": 175.0,
+      "category_id": "13895369",
+      "category_name": "Сухофрукты и ягоды",
+      "picture": "https://images.prom.ua/6464740884_yagody-godzhi-kitajves250gr.jpg",
+      "available": true
+    },
+    {
+      "id": "804188616",
+      "name": "Ягоди годжі (Китай).Вага:500г.",
+      "price": 350.0,
+      "category_id": "13895369",
+      "category_name": "Сухофрукты и ягоды",
+      "picture": "https://images.prom.ua/6464740884_yagody-godzhi-kitajves500gr.jpg",
+      "available": true
+    },
+    {
+      "id": "804189238",
+      "name": "Ягоди годжі (Китай).Вага:1кг.",
+      "price": 650.0,
+      "category_id": "13895369",
+      "category_name": "Сухофрукты и ягоды",
+      "picture": "https://images.prom.ua/6464740884_yagody-godzhi-kitajves1kg.jpg",
+      "available": true
+    },
+    {
+      "id": "804272951",
+      "name": "Пектин NH Nappage (термозворотний) ТМ \"Louis Francois\" (Франція).Вага:25г.",
+      "price": 125.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276346196_pektin-nh-nappage.jpg",
+      "available": true
+    },
+    {
+      "id": "804274247",
+      "name": "Пектин NH Nappage (термозворотний) ТМ \"Louis Francois\" (Франція).Вага:50г.",
+      "price": 250.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276346196_pektin-nh-nappage.jpg",
+      "available": true
+    },
+    {
+      "id": "804274348",
+      "name": "Пектин NH Nappage (термозворотний) ТМ \"Louis Francois\" (Франція).Вага:100г.",
+      "price": 450.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276346196_pektin-nh-nappage.jpg",
+      "available": true
+    },
+    {
+      "id": "804274365",
+      "name": "Пектин NH Nappage (термозворотний) ТМ \"Louis Francois\" (Франція).Вага:250г.",
+      "price": 1000.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276346196_pektin-nh-nappage.jpg",
+      "available": true
+    },
+    {
+      "id": "804274472",
+      "name": "Пектин NH Nappage (термозворотний) ТМ \"Louis Francois\" (Франція).Вага:500г.",
+      "price": 1700.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276346196_pektin-nh-nappage.jpg",
+      "available": true
+    },
+    {
+      "id": "804274500",
+      "name": "Пектин NH Nappage (термозворотний) ТМ \"Louis Francois\" (Франція).Вага:1 кг.",
+      "price": 3400.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276346196_pektin-nh-nappage.jpg",
+      "available": true
+    },
+    {
+      "id": "804278415",
+      "name": "Пектин фруктовий NH ТМ Sosa Ingredients (Іспанія).Вага:25г.",
+      "price": 150.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276346196_pektin-fruktovyj-nh.jpg",
+      "available": true
+    },
+    {
+      "id": "804279431",
+      "name": "Пектин фруктовий NH ТМ Sosa Ingredients (Іспанія).Вага:50г.",
+      "price": 300.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276346196_pektin-fruktovyj-nh.jpg",
+      "available": true
+    },
+    {
+      "id": "804280201",
+      "name": "Пектин фруктовий NH ТМ Sosa Ingredients (Іспанія).Вага:100г.",
+      "price": 600.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276346196_pektin-fruktovyj-nh.jpg",
+      "available": true
+    },
+    {
+      "id": "804281214",
+      "name": "Пектин фруктовий NH ТМ Sosa Ingredients (Іспанія).Вага:250г.",
+      "price": 1400.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276346196_pektin-fruktovyj-nh.jpg",
+      "available": true
+    },
+    {
+      "id": "804282242",
+      "name": "Пектин фруктовий NH ТМ Sosa Ingredients (Іспанія).Вага:500гр.",
+      "price": 2800.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276346196_pektin-fruktovyj-nh.jpg",
+      "available": true
+    },
+    {
+      "id": "900974941",
+      "name": "Кунжут чорний (Індія).Вага:250г.",
+      "price": 85.0,
+      "category_id": "34593334",
+      "category_name": "Кунжут",
+      "picture": "https://images.prom.ua/6486121298_kunzhut-chernyj-indiyaves250gr.jpg",
+      "available": true
+    },
+    {
+      "id": "900978701",
+      "name": "Кунжут чорний (Індія).Вага:500г.",
+      "price": 165.0,
+      "category_id": "34593334",
+      "category_name": "Кунжут",
+      "picture": "https://images.prom.ua/6486121298_kunzhut-chernyj-indiyaves500gr.jpg",
+      "available": true
+    },
+    {
+      "id": "900978850",
+      "name": "Кунжут чорний (Індія).Вага:1кг.",
+      "price": 300.0,
+      "category_id": "34593334",
+      "category_name": "Кунжут",
+      "picture": "https://images.prom.ua/6486121298_kunzhut-chernyj-indiyaves1kg.jpg",
+      "available": true
+    },
+    {
+      "id": "900984689",
+      "name": "Бразильський горіх.Вага:150г.",
+      "price": 300.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6486118331_brazilskij-orehves150gr.jpg",
+      "available": true
+    },
+    {
+      "id": "900986768",
+      "name": "Бразильський горіх.Вага:250г.",
+      "price": 450.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6486118331_brazilskij-orehves250gr.jpg",
+      "available": true
+    },
+    {
+      "id": "900987543",
+      "name": "Бразильський горіх.Вага:500г.",
+      "price": 850.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6486118331_brazilskij-orehves500gr.jpg",
+      "available": true
+    },
+    {
+      "id": "900988307",
+      "name": "Бразильський горіх.Вага:1кг.",
+      "price": 1700.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6486118331_brazilskij-orehves1kg.jpg",
+      "available": true
+    },
+    {
+      "id": "901390431",
+      "name": "Макадамія в шкаралупі(Австралія).Вага:150г.",
+      "price": 150.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6486116045_makadamiya-v-skorlupeavstraliyaves150gr.jpg",
+      "available": true
+    },
+    {
+      "id": "901393725",
+      "name": "Макадамія в шкаралупі (Австралія).Вага:250г.",
+      "price": 200.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6486116045_makadamiya-v-skorlupeavstraliyaves250gr.jpg",
+      "available": true
+    },
+    {
+      "id": "901413320",
+      "name": "Макадамія в шкаралупі(Австралія).Вага:500г.",
+      "price": 300.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6486116045_makadamiya-v-skorlupeavstraliyaves500gr.jpg",
+      "available": true
+    },
+    {
+      "id": "901415563",
+      "name": "Макадамія в шкаралупі(Австралія).Вага:1кг.",
+      "price": 600.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6486116045_makadamiya-v-skorlupeavstraliyaves1kg.jpg",
+      "available": true
+    },
+    {
+      "id": "901629946",
+      "name": "Макадамія вищий сорт (Австралія).Вага:150г.",
+      "price": 250.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6486114613_makadamiya-vysshij-sort.jpg",
+      "available": true
+    },
+    {
+      "id": "901630158",
+      "name": "Макадамія вищий сорт (Австралія).Вага:250г.",
+      "price": 400.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6486114613_makadamiya-vysshij-sort.jpg",
+      "available": true
+    },
+    {
+      "id": "901630946",
+      "name": "Макадамія вищий сорт (Австралія).Вага:500г.",
+      "price": 800.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6486114613_makadamiya-vysshij-sort.jpg",
+      "available": true
+    },
+    {
+      "id": "901631381",
+      "name": "Макадамія вищий сорт (Австралія).Вага:1кг.",
+      "price": 1600.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6486114613_makadamiya-vysshij-sort.jpg",
+      "available": true
+    },
+    {
+      "id": "919965204",
+      "name": "Какао терте(моноліт) ТМ Gerkens Cacao.Вага:250г.",
+      "price": 250.0,
+      "category_id": "4833828",
+      "category_name": "Какао тертое",
+      "picture": "https://images.prom.ua/6300096621_kakao-tertoe-monolit.jpg",
+      "available": true
+    },
+    {
+      "id": "920000741",
+      "name": "Желатин 180 bloom TM Gelita (Німеччина).Вага:1кг.",
+      "price": 550.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276253447_zhelatin-180-bloom.jpg",
+      "available": true
+    },
+    {
+      "id": "920004335",
+      "name": "Желатин 180 bloom ТМ Gelita (Німеччина).Вага:500г.",
+      "price": 275.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276253447_zhelatin-180-bloom.jpg",
+      "available": true
+    },
+    {
+      "id": "920011840",
+      "name": "Желатин 180 bloom TM Gelita (Німеччина).Вага:250г.",
+      "price": 150.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276253447_zhelatin-180-bloom.jpg",
+      "available": true
+    },
+    {
+      "id": "920013998",
+      "name": "Желатин 180 bloom TM Gelita (Німеччина).Вага:100г.",
+      "price": 70.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276253447_zhelatin-180-bloom.jpg",
+      "available": true
+    },
+    {
+      "id": "934135094",
+      "name": "Пекан в шкаралупі (США).Вага:150г.",
+      "price": 150.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6486107241_pekan-v-skorlupe.jpg",
+      "available": true
+    },
+    {
+      "id": "934147109",
+      "name": "Пекан в шкаралупі (США).Вага:250г.",
+      "price": 225.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6486107241_pekan-v-skorlupe.jpg",
+      "available": true
+    },
+    {
+      "id": "934156341",
+      "name": "Пекан в шкаралупі (США).Вага:500г.",
+      "price": 375.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6486107241_pekan-v-skorlupe.jpg",
+      "available": true
+    },
+    {
+      "id": "934156490",
+      "name": "Пекан в шкаралупі (США).Вага:1кг.",
+      "price": 800.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6486107241_pekan-v-skorlupe.jpg",
+      "available": true
+    },
+    {
+      "id": "934162710",
+      "name": "Пекан сирий очищений(США). Вага:150г.",
+      "price": 150.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6486106188_pekan-syrojochischennyjsshaves150gr.jpg",
+      "available": true
+    },
+    {
+      "id": "934165415",
+      "name": "Пекан сирий очищений(США). Вага:250г.",
+      "price": 250.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6486106188_pekan-syrojochischennyjsshaves250gr.jpg",
+      "available": true
+    },
+    {
+      "id": "934167911",
+      "name": "Пекан сирий очищений(США). Вага:500г.",
+      "price": 475.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6486106188_pekan-syroj-ochischennyjsshaves500gr.jpg",
+      "available": true
+    },
+    {
+      "id": "934170063",
+      "name": "Пекан сирий очищений(США). Вага:1кг.",
+      "price": 950.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6486106188_pekan-syroj-ochischennyj.jpg",
+      "available": true
+    },
+    {
+      "id": "934635434",
+      "name": "Ізомальт ТМ Modecor(Італія)кристали.Вага:100г.",
+      "price": 50.0,
+      "category_id": "4758936",
+      "category_name": "Подсластители синтетические",
+      "picture": "https://images.prom.ua/6484954539_izomalt-tm-modecor.jpg",
+      "available": true
+    },
+    {
+      "id": "934665167",
+      "name": "Ізомальт ТМ Modecor (Італія) кристали.Вага:250г.",
+      "price": 120.0,
+      "category_id": "4758936",
+      "category_name": "Подсластители синтетические",
+      "picture": "https://images.prom.ua/6484954539_izomalt-tm-modecor.jpg",
+      "available": true
+    },
+    {
+      "id": "934667064",
+      "name": "Ізомальт ТМ Modecor (Італія) кристали.Вага:500г.",
+      "price": 250.0,
+      "category_id": "4758936",
+      "category_name": "Подсластители синтетические",
+      "picture": "https://images.prom.ua/6484954539_izomalt-tm-modecor.jpg",
+      "available": true
+    },
+    {
+      "id": "934668105",
+      "name": "Ізомальт ТМ Modecor (Італія) кристали.Вага:1кг.",
+      "price": 450.0,
+      "category_id": "4758936",
+      "category_name": "Подсластители синтетические",
+      "picture": "https://images.prom.ua/6484954539_izomalt-tm-modecor.jpg",
+      "available": true
+    },
+    {
+      "id": "934712513",
+      "name": "Ваніль у стручках (ванільна паличка) сорту «Бурбон» (Мадагаскар).1 шт.",
+      "price": 85.0,
+      "category_id": "4843101",
+      "category_name": "Ванилин и специи",
+      "picture": "https://images.prom.ua/1691675630_vanil-v-struchkah.jpg",
+      "available": true
+    },
+    {
+      "id": "945239419",
+      "name": "Фінік королівський (Іран).Вага:150гр.",
+      "price": 125.0,
+      "category_id": "13895369",
+      "category_name": "Сухофрукты и ягоды",
+      "picture": "https://images.prom.ua/6486103075_finik-korolevskij-iranves150gr.jpg",
+      "available": true
+    },
+    {
+      "id": "945257530",
+      "name": "Фінік королівський (Іран).Вага:250г.",
+      "price": 200.0,
+      "category_id": "13895369",
+      "category_name": "Сухофрукты и ягоды",
+      "picture": "https://images.prom.ua/6486103075_finik-korolevskij-iranves250gr.jpg",
+      "available": true
+    },
+    {
+      "id": "945260454",
+      "name": "Фінік королівський (Іран).Вага:500г.",
+      "price": 350.0,
+      "category_id": "13895369",
+      "category_name": "Сухофрукты и ягоды",
+      "picture": "https://images.prom.ua/6486103075_finik-korolevskij-iranves500gr.jpg",
+      "available": true
+    },
+    {
+      "id": "945261528",
+      "name": "Фінік королівський (Іран).Вага:1кг.",
+      "price": 700.0,
+      "category_id": "13895369",
+      "category_name": "Сухофрукты и ягоды",
+      "picture": "https://images.prom.ua/6486103075_finik-korolevskij-iranves1kg.jpg",
+      "available": true
+    },
+    {
+      "id": "945271893",
+      "name": "Ананас цукати мікс (Таїланд).Вага:250г.",
+      "price": 75.0,
+      "category_id": "13895369",
+      "category_name": "Сухофрукты и ягоды",
+      "picture": "https://images.prom.ua/6485077344_ananas-tsukaty-miks.jpg",
+      "available": true
+    },
+    {
+      "id": "945283894",
+      "name": "Ананас цукати мікс (Таїланд).Вага:500г.",
+      "price": 150.0,
+      "category_id": "13895369",
+      "category_name": "Сухофрукты и ягоды",
+      "picture": "https://images.prom.ua/6485077344_ananas-tsukaty-miks.jpg",
+      "available": true
+    },
+    {
+      "id": "945284912",
+      "name": "Ананас цукати мікс (Таїланд).Вага:1кг.",
+      "price": 275.0,
+      "category_id": "13895369",
+      "category_name": "Сухофрукты и ягоды",
+      "picture": "https://images.prom.ua/6485077344_ananas-tsukaty-miks.jpg",
+      "available": true
+    },
+    {
+      "id": "959360220",
+      "name": "Спіруліна таблетки (Китай).Вага:100г.",
+      "price": 110.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6446191522_spirulina-tabletki-kitajves100gr.jpg",
+      "available": true
+    },
+    {
+      "id": "959377551",
+      "name": "Спіруліна таблетки (Китай).Вага:250г.",
+      "price": 200.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6446191522_spirulina-tabletki-kitajves250gr.jpg",
+      "available": true
+    },
+    {
+      "id": "959379761",
+      "name": "Спіруліна таблетки (Китай).Вага:500г.",
+      "price": 400.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6446191522_spirulina-tabletki-kitajves500gr.jpg",
+      "available": true
+    },
+    {
+      "id": "959380440",
+      "name": "Спіруліна таблетки (Китай).Вага:1кг.",
+      "price": 775.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6446191522_spirulina-tabletki-kitajves1kg.jpg",
+      "available": true
+    },
+    {
+      "id": "973529144",
+      "name": "Насіння кіноа біле (Перу).Вага:250г.",
+      "price": 85.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6536714232_kinoa-belye-peruves250g.jpg",
+      "available": true
+    },
+    {
+      "id": "973529446",
+      "name": "Насіння Кіноа біле (Перу).Вага:500г.",
+      "price": 160.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6536714232_semena-kinoa-belye.jpg",
+      "available": true
+    },
+    {
+      "id": "973530911",
+      "name": "Насіння Кіноа біле (Перу).Вага:1кг.",
+      "price": 300.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6536714232_semena-kinoa-belye.jpg",
+      "available": true
+    },
+    {
+      "id": "973552149",
+      "name": "Насіння Чіа (Аргентина).Вага:250г.",
+      "price": 100.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6536710881_chia-semena-argentinaves250gr.jpg",
+      "available": true
+    },
+    {
+      "id": "973554424",
+      "name": "Насіння Чіа (Аргентина).Вага:500г.",
+      "price": 185.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6536710881_semena-chia-argentinaves500gr.jpg",
+      "available": true
+    },
+    {
+      "id": "973555154",
+      "name": "Насіння Чіа (Аргентина).Вага:1кг.",
+      "price": 350.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6536710881_semena-chia-argentinaves1kg.jpg",
+      "available": true
+    },
+    {
+      "id": "973593541",
+      "name": "Спіруліна в порошку (Китай).Вага:100г.",
+      "price": 100.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6446191800_spirulina-v-poroshke.jpg",
+      "available": true
+    },
+    {
+      "id": "973593697",
+      "name": "Спіруліна в порошку (Китай).Вага:250г.",
+      "price": 200.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6446191800_spirulina-v-poroshke.jpg",
+      "available": true
+    },
+    {
+      "id": "973593787",
+      "name": "Спіруліна в порошку (Китай).Вага:500г.",
+      "price": 375.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6446191800_spirulina-v-poroshke.jpg",
+      "available": true
+    },
+    {
+      "id": "973593905",
+      "name": "Спіруліна в порошку (Китай).Вага:1кг.",
+      "price": 725.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6446191800_spirulina-v-poroshke.jpg",
+      "available": true
+    },
+    {
+      "id": "973606901",
+      "name": "Хлорела в порошку (Китай).Вага:100г.",
+      "price": 125.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6446185233_hlorella-v-poroshke.jpg",
+      "available": true
+    },
+    {
+      "id": "973607118",
+      "name": "Хлорела в порошку (Китай).Вага:250г.",
+      "price": 285.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6446185233_hlorella-v-poroshke.jpg",
+      "available": true
+    },
+    {
+      "id": "973607468",
+      "name": "Хлорела в порошку (Китай).Вага:500г.",
+      "price": 565.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6446185233_hlorella-v-poroshke.jpg",
+      "available": true
+    },
+    {
+      "id": "973607846",
+      "name": "Хлорела в порошку (Китай).Вага:1кг.",
+      "price": 1100.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6446185233_hlorella-v-poroshke.jpg",
+      "available": true
+    },
+    {
+      "id": "973610093",
+      "name": "Хлорела в таблетках (Китай).Вага:100г.",
+      "price": 150.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6362685866_hlorella-v-tabletkah.jpg",
+      "available": true
+    },
+    {
+      "id": "973610210",
+      "name": "Хлорела в таблетках (Китай).Вага:250г.",
+      "price": 400.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6362685866_hlorella-v-tabletkah.jpg",
+      "available": true
+    },
+    {
+      "id": "973610280",
+      "name": "Хлорела в таблетках (Китай).Вага:500г.",
+      "price": 700.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6362685866_hlorella-v-tabletkah.jpg",
+      "available": true
+    },
+    {
+      "id": "973610390",
+      "name": "Хлорела в таблетках (Китай).Вага:1кг.",
+      "price": 1300.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6362685866_hlorella-v-tabletkah.jpg",
+      "available": true
+    },
+    {
+      "id": "973617516",
+      "name": "Боби Тонка (Німеччина).1 шт.",
+      "price": 50.0,
+      "category_id": "4843101",
+      "category_name": "Ванилин и специи",
+      "picture": "https://images.prom.ua/6485071575_boby-tonka-germaniya1.jpg",
+      "available": true
+    },
+    {
+      "id": "973618286",
+      "name": "Боби Тонка (Німеччина) 5 шт.",
+      "price": 175.0,
+      "category_id": "4843101",
+      "category_name": "Ванилин и специи",
+      "picture": "https://images.prom.ua/6485071575_boby-tonka-germaniya.jpg",
+      "available": true
+    },
+    {
+      "id": "973620019",
+      "name": "Боби Тонка (Німеччина) 10 шт.",
+      "price": 300.0,
+      "category_id": "4843101",
+      "category_name": "Ванилин и специи",
+      "picture": "https://images.prom.ua/6485071575_boby-tonka-germaniya.jpg",
+      "available": true
+    },
+    {
+      "id": "973630028",
+      "name": "Вакаме (Китай) Вага: 100 г.",
+      "price": 200.0,
+      "category_id": "66335282",
+      "category_name": "Водоросли и морская капуста",
+      "picture": "https://images.prom.ua/6344299609_vakame-kitaj-ves100.jpg",
+      "available": true
+    },
+    {
+      "id": "973630065",
+      "name": "Вакаме (Китай) Вага: 250 г.",
+      "price": 350.0,
+      "category_id": "66335282",
+      "category_name": "Водоросли и морская капуста",
+      "picture": "https://images.prom.ua/6344299609_vakame-kitaj-ves250.jpg",
+      "available": true
+    },
+    {
+      "id": "973630101",
+      "name": "Вакаме (Китай).Вага:500 г.",
+      "price": 650.0,
+      "category_id": "66335282",
+      "category_name": "Водоросли и морская капуста",
+      "picture": "https://images.prom.ua/6344299609_vakame-kitajves500gr.jpg",
+      "available": true
+    },
+    {
+      "id": "973630379",
+      "name": "Вакаме (Китай) Вага:1кг.",
+      "price": 1200.0,
+      "category_id": "66335282",
+      "category_name": "Водоросли и морская капуста",
+      "picture": "https://images.prom.ua/6344299609_vakame-kitajves1kg.jpg",
+      "available": true
+    },
+    {
+      "id": "982637445",
+      "name": "Терте какао натуральне (моноліт),Ghana Premium (Африка, Ghana).Вага:150г",
+      "price": 200.0,
+      "category_id": "4833828",
+      "category_name": "Какао тертое",
+      "picture": "https://images.prom.ua/6300096621_tertoe-kakao-naturalnoe.jpg",
+      "available": true
+    },
+    {
+      "id": "982637624",
+      "name": "Терте какао натуральне (моноліт),Ghana Premium (Африка, Ghana).Вага:250г",
+      "price": 250.0,
+      "category_id": "4833828",
+      "category_name": "Какао тертое",
+      "picture": "https://images.prom.ua/6300096621_tertoe-kakao-naturalnoe.jpg",
+      "available": true
+    },
+    {
+      "id": "982638344",
+      "name": "Терте какао натуральне (моноліт),Ghana Premium (Африка, Ghana).Вага:500г",
+      "price": 450.0,
+      "category_id": "4833828",
+      "category_name": "Какао тертое",
+      "picture": "https://images.prom.ua/6300096621_tertoe-kakao-naturalnoe.jpg",
+      "available": true
+    },
+    {
+      "id": "982638371",
+      "name": "Терте какао натуральне (моноліт),Ghana Premium (Африка, Ghana).Вага:1кг.",
+      "price": 800.0,
+      "category_id": "4833828",
+      "category_name": "Какао тертое",
+      "picture": "https://images.prom.ua/6300096621_tertoe-kakao-naturalnoe.jpg",
+      "available": true
+    },
+    {
+      "id": "987047701",
+      "name": "Спаржа соєва сушена Фучжу(Китай).Вага:500г.",
+      "price": 325.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6344392910_sparzha-soevaya-sushenaya.jpg",
+      "available": true
+    },
+    {
+      "id": "987047719",
+      "name": "Спаржа соєва сушена Фучжу(Китай).Вага:250г.",
+      "price": 175.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6344392910_sparzha-soevaya-sushenaya.jpg",
+      "available": true
+    },
+    {
+      "id": "987047832",
+      "name": "Спаржа соєва сушена Фучжу(Китай).Вага:150г.",
+      "price": 110.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6344392910_sparzha-soevaya-sushenaya.jpg",
+      "available": true
+    },
+    {
+      "id": "987049493",
+      "name": "Боби какао сирі TM TouTon(Гана).Вага:500г.",
+      "price": 325.0,
+      "category_id": "4801510",
+      "category_name": "Какао бобы",
+      "picture": "https://images.prom.ua/6295676512_boby-kakao-syrye.jpg",
+      "available": true
+    },
+    {
+      "id": "987050107",
+      "name": "Боби какао сирі TM TouTon(Гана).Вага:1кг.",
+      "price": 650.0,
+      "category_id": "4801510",
+      "category_name": "Какао бобы",
+      "picture": "https://images.prom.ua/6295676512_boby-kakao-syrye.jpg",
+      "available": true
+    },
+    {
+      "id": "1023518743",
+      "name": "Кеш'ю сирий (В'єтнам).Вага:500г.",
+      "price": 310.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6464729139_keshyu-syroj-vetnamves500gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1023519867",
+      "name": "Кеш'ю сирий (В'єтнам).Вага:1кг.",
+      "price": 600.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/6464729139_keshyu-syroj-vetnamves1kg.jpg",
+      "available": true
+    },
+    {
+      "id": "1030658791",
+      "name": "Кероб сирий (Іспанія).Вага:1кг.",
+      "price": 175.0,
+      "category_id": "7474477",
+      "category_name": "Кэроб натуральный заменитель кофе, какао",
+      "picture": "https://images.prom.ua/6321675315_kerob-syroj-ispaniyaves1.jpg",
+      "available": true
+    },
+    {
+      "id": "1030658991",
+      "name": "Кероб сирий (Іспанія).Вага:500г.",
+      "price": 90.0,
+      "category_id": "7474477",
+      "category_name": "Кэроб натуральный заменитель кофе, какао",
+      "picture": "https://images.prom.ua/6321675315_kerob-syroj-ispaniyaves500gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1031077875",
+      "name": "Кокосовий цукор (Індонезія) ЕКО.Вага:500г.",
+      "price": 200.0,
+      "category_id": "84304920",
+      "category_name": "Кокосовый сахар и тростниковый",
+      "picture": "https://images.prom.ua/6485049958_kokosovyj-sahar-indoneziya.jpg",
+      "available": true
+    },
+    {
+      "id": "1031078018",
+      "name": "Кокосовий цукор (Індонезія) ЕКО.Вага:1кг.",
+      "price": 350.0,
+      "category_id": "84304920",
+      "category_name": "Кокосовый сахар и тростниковый",
+      "picture": "https://images.prom.ua/6485049958_kokosovyj-sahar-indoneziya.jpg",
+      "available": true
+    },
+    {
+      "id": "1031079962",
+      "name": "Сухе кокосове молоко (вершки) 50%(Індонезія).Вага:500г.",
+      "price": 190.0,
+      "category_id": "84308336",
+      "category_name": "Растительные сливки и молоко",
+      "picture": "https://images.prom.ua/6276388778_suhoe-kokosovoe-moloko.jpg",
+      "available": true
+    },
+    {
+      "id": "1031081877",
+      "name": "Сухе кокосове молоко (вершки) 50% (Індонезія).Вага:1кг.",
+      "price": 370.0,
+      "category_id": "84308336",
+      "category_name": "Растительные сливки и молоко",
+      "picture": "https://images.prom.ua/6276388778_suhoe-kokosovoe-moloko.jpg",
+      "available": true
+    },
+    {
+      "id": "1031706475",
+      "name": "Какао терте(Україна).Вага:150г.",
+      "price": 130.0,
+      "category_id": "4833828",
+      "category_name": "Какао тертое",
+      "picture": "https://images.prom.ua/6300119766_kakao-tertoe-ukrainaves150gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1031967528",
+      "name": "Чорний шоколад 72% ТМ Cargill Cacao&Cocolaed (Бельгія).Вага:150г.",
+      "price": 150.0,
+      "category_id": "75262432",
+      "category_name": "Натуральный шоколад",
+      "picture": "https://images.prom.ua/2234761845_chernyj-shokolad-72.jpg",
+      "available": true
+    },
+    {
+      "id": "1031969507",
+      "name": "Чорний шоколад 72% ТМ Cargill Cacao & Chocolaed (Бельгія).Вага:250г.",
+      "price": 230.0,
+      "category_id": "75262432",
+      "category_name": "Натуральный шоколад",
+      "picture": "https://images.prom.ua/2234761845_chernyj-shokolad-72.jpg",
+      "available": true
+    },
+    {
+      "id": "1031970811",
+      "name": "Чорний шоколад 72% ТМ Cargill Cacao & Chocolaed (Бельгія).Вага:500г.",
+      "price": 410.0,
+      "category_id": "75262432",
+      "category_name": "Натуральный шоколад",
+      "picture": "https://images.prom.ua/2234761845_chernyj-shokolad-72.jpg",
+      "available": true
+    },
+    {
+      "id": "1031971667",
+      "name": "Чорний шоколад 72% ТМ Cargill Cacao & Chocolaed (Бельгія).Вага:1кг.",
+      "price": 750.0,
+      "category_id": "75262432",
+      "category_name": "Натуральный шоколад",
+      "picture": "https://images.prom.ua/2234761845_chernyj-shokolad-72.jpg",
+      "available": true
+    },
+    {
+      "id": "1032036363",
+      "name": "Молочний шоколад 35% ТМ Cargill Cacao & Cocolaed (Бельгія).Вага:150г.",
+      "price": 150.0,
+      "category_id": "75262432",
+      "category_name": "Натуральный шоколад",
+      "picture": "https://images.prom.ua/2597636797_molochnyj-shokolad-35.jpg",
+      "available": true
+    },
+    {
+      "id": "1032037347",
+      "name": "Молочний шоколад 35% ТМ Cargill Cacаo&Cocolaed (Бельгія).Вага:250г.",
+      "price": 230.0,
+      "category_id": "75262432",
+      "category_name": "Натуральный шоколад",
+      "picture": "https://images.prom.ua/2597636797_molochnyj-shokolad-35.jpg",
+      "available": true
+    },
+    {
+      "id": "1032038615",
+      "name": "Молочний шоколад 35% ТМ Cargill Cacao & Chocolaed (Бельгія).Вага:500г.",
+      "price": 410.0,
+      "category_id": "75262432",
+      "category_name": "Натуральный шоколад",
+      "picture": "https://images.prom.ua/2597636797_molochnyj-shokolad-35.jpg",
+      "available": true
+    },
+    {
+      "id": "1032039598",
+      "name": "Молочний шоколад 35% ТМ Cargill Cacao & Chocolaed (Бельгія).Вага:1кг.",
+      "price": 750.0,
+      "category_id": "75262432",
+      "category_name": "Натуральный шоколад",
+      "picture": "https://images.prom.ua/2597636797_molochnyj-shokolad-35.jpg",
+      "available": true
+    },
+    {
+      "id": "1032046924",
+      "name": "Білий шоколад 32% ТМ Cargill Cacaco&Cocolaed (Бельгія).Вага:150г.",
+      "price": 150.0,
+      "category_id": "75262432",
+      "category_name": "Натуральный шоколад",
+      "picture": "https://images.prom.ua/2135142465_belyj-shokolad-32.jpg",
+      "available": true
+    },
+    {
+      "id": "1032047479",
+      "name": "Білий шоколад 32% ТМ Сargill Cacaco & Chocolaed (Бельгія).Вага:250г.",
+      "price": 230.0,
+      "category_id": "75262432",
+      "category_name": "Натуральный шоколад",
+      "picture": "https://images.prom.ua/2135142465_belyj-shokolad-32.jpg",
+      "available": true
+    },
+    {
+      "id": "1032086114",
+      "name": "Молочний шоколад (крафт) (Україна).Вага:150г.",
+      "price": 125.0,
+      "category_id": "75262432",
+      "category_name": "Натуральный шоколад",
+      "picture": "https://images.prom.ua/2135149590_molochnyj-shokolad-kraft.jpg",
+      "available": true
+    },
+    {
+      "id": "1032086904",
+      "name": "Молочний шоколад (крафт) (Україна).Вага:250г.",
+      "price": 175.0,
+      "category_id": "75262432",
+      "category_name": "Натуральный шоколад",
+      "picture": "https://images.prom.ua/2135149590_molochnyj-shokolad-kraft.jpg",
+      "available": true
+    },
+    {
+      "id": "1032087688",
+      "name": "Молочний шоколад (крафт) (Україна).Вага:500г.",
+      "price": 335.0,
+      "category_id": "75262432",
+      "category_name": "Натуральный шоколад",
+      "picture": "https://images.prom.ua/2135149590_molochnyj-shokolad-kraft.jpg",
+      "available": true
+    },
+    {
+      "id": "1032097857",
+      "name": "Молочний шоколад (крафт) (Україна).Вага:1кг.",
+      "price": 650.0,
+      "category_id": "75262432",
+      "category_name": "Натуральный шоколад",
+      "picture": "https://images.prom.ua/2135149590_molochnyj-shokolad-kraft.jpg",
+      "available": true
+    },
+    {
+      "id": "1032102346",
+      "name": "Чорний шоколад 73% (крафт) (Україна).Вага:150г.",
+      "price": 150.0,
+      "category_id": "75262432",
+      "category_name": "Натуральный шоколад",
+      "picture": "https://images.prom.ua/2135407915_chernyj-shokolad-73.jpg",
+      "available": true
+    },
+    {
+      "id": "1032102596",
+      "name": "Чорний шоколад 73% (крафт) (Україна).Вага:250г.",
+      "price": 175.0,
+      "category_id": "75262432",
+      "category_name": "Натуральный шоколад",
+      "picture": "https://images.prom.ua/2135407915_chernyj-shokolad-73.jpg",
+      "available": true
+    },
+    {
+      "id": "1032102699",
+      "name": "Чорний шоколад 73% (крафт) (Україна).Вага:500г.",
+      "price": 360.0,
+      "category_id": "75262432",
+      "category_name": "Натуральный шоколад",
+      "picture": "https://images.prom.ua/2135407915_chernyj-shokolad-73.jpg",
+      "available": true
+    },
+    {
+      "id": "1032102813",
+      "name": "Чорний шоколад 73% (крафт) (Україна).Вага:1кг.",
+      "price": 700.0,
+      "category_id": "75262432",
+      "category_name": "Натуральный шоколад",
+      "picture": "https://images.prom.ua/2135407915_chernyj-shokolad-73.jpg",
+      "available": true
+    },
+    {
+      "id": "1044786894",
+      "name": "Кедровий горіх(Китай).Вага:500г.",
+      "price": 1000.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/7453513731_kedrovyj-orehkitajves500gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1044787754",
+      "name": "Кедровий горіх(Китай).Вага:1кг.",
+      "price": 1900.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/7453513731_kedrovyj-orehkitajves1kg.jpg",
+      "available": true
+    },
+    {
+      "id": "1044798892",
+      "name": "Морська капуста Ламінарія сублімована (Китай).Вага:250г.",
+      "price": 210.0,
+      "category_id": "66335282",
+      "category_name": "Водоросли и морская капуста",
+      "picture": "https://images.prom.ua/6344424467_morskaya-kapusta-laminariya.jpg",
+      "available": true
+    },
+    {
+      "id": "1044799200",
+      "name": "Морська капуста Ламінарія сублімована (Китай).Вага:500г.",
+      "price": 400.0,
+      "category_id": "66335282",
+      "category_name": "Водоросли и морская капуста",
+      "picture": "https://images.prom.ua/6344424467_morskaya-kapusta-laminariya.jpg",
+      "available": true
+    },
+    {
+      "id": "1044799431",
+      "name": "Морська капуста Ламінарія сублімована (Китай).Вага:1кг.",
+      "price": 800.0,
+      "category_id": "66335282",
+      "category_name": "Водоросли и морская капуста",
+      "picture": "https://images.prom.ua/6344424467_morskaya-kapusta-laminariya.jpg",
+      "available": true
+    },
+    {
+      "id": "1052926978",
+      "name": "Барвник Двоокис титану (суспензія) Україна.Вага:1кг.",
+      "price": 275.0,
+      "category_id": "4754901",
+      "category_name": "Красители пищевые",
+      "picture": "https://images.prom.ua/3167871240_krasitel-dioksid-titana.jpg",
+      "available": true
+    },
+    {
+      "id": "1053413866",
+      "name": "Шоколад чорний 71% ТМ Schokinag (Німеччина).Вага:150г.",
+      "price": 150.0,
+      "category_id": "75262432",
+      "category_name": "Натуральный шоколад",
+      "picture": "https://images.prom.ua/2597624998_shokolad-chernyj-71.jpg",
+      "available": true
+    },
+    {
+      "id": "1053414231",
+      "name": "Шоколад чорний 71% ТМ Schokinag (Німеччина).Вага:250г.",
+      "price": 230.0,
+      "category_id": "75262432",
+      "category_name": "Натуральный шоколад",
+      "picture": "https://images.prom.ua/2597624998_shokolad-chernyj-71.jpg",
+      "available": true
+    },
+    {
+      "id": "1053414804",
+      "name": "Шоколад чорний 71% ТМ Schokinag (Німеччина).Вага:500г.",
+      "price": 410.0,
+      "category_id": "75262432",
+      "category_name": "Натуральный шоколад",
+      "picture": "https://images.prom.ua/2597624998_shokolad-chernyj-71.jpg",
+      "available": true
+    },
+    {
+      "id": "1053415747",
+      "name": "Шоколад чорний 71% ТМ Schokinag (Німеччина).Вага:1кг.",
+      "price": 750.0,
+      "category_id": "75262432",
+      "category_name": "Натуральный шоколад",
+      "picture": "https://images.prom.ua/2597624998_shokolad-chernyj-71.jpg",
+      "available": true
+    },
+    {
+      "id": "1053428492",
+      "name": "Шоколад білий 29% ТМ Schokinag (Німеччина).Вага:150г.",
+      "price": 150.0,
+      "category_id": "75262432",
+      "category_name": "Натуральный шоколад",
+      "picture": "https://images.prom.ua/2135144034_shokolad-belyj-29.jpg",
+      "available": true
+    },
+    {
+      "id": "1053428599",
+      "name": "Шоколад білий 29% ТМ Schokinag (Німеччина).Вага:250г.",
+      "price": 230.0,
+      "category_id": "75262432",
+      "category_name": "Натуральный шоколад",
+      "picture": "https://images.prom.ua/2135144034_shokolad-belyj-29.jpg",
+      "available": true
+    },
+    {
+      "id": "1053429459",
+      "name": "Шоколад білий 29% ТМ Schokinag (Німеччина).Вага:500г.",
+      "price": 410.0,
+      "category_id": "75262432",
+      "category_name": "Натуральный шоколад",
+      "picture": "https://images.prom.ua/2135144034_shokolad-belyj-29.jpg",
+      "available": true
+    },
+    {
+      "id": "1053431099",
+      "name": "Шоколад білий 29% ТМ Schokinag (Німеччина).Вага:1кг.",
+      "price": 750.0,
+      "category_id": "75262432",
+      "category_name": "Натуральный шоколад",
+      "picture": "https://images.prom.ua/2135144034_shokolad-belyj-29.jpg",
+      "available": true
+    },
+    {
+      "id": "1067851737",
+      "name": "Білий шоколад 32% ТМ Cargill Cacao & Chocolaed (Бельгія).Вага:500г.",
+      "price": 410.0,
+      "category_id": "75262432",
+      "category_name": "Натуральный шоколад",
+      "picture": "https://images.prom.ua/2135142465_belyj-shokolad-32.jpg",
+      "available": true
+    },
+    {
+      "id": "1067852437",
+      "name": "Білий шоколад 32% ТМ Cargill Cacao&Chocolaed (Бельгія).Вага:1кг.",
+      "price": 750.0,
+      "category_id": "75262432",
+      "category_name": "Натуральный шоколад",
+      "picture": "https://images.prom.ua/2135142465_belyj-shokolad-32.jpg",
+      "available": true
+    },
+    {
+      "id": "1107103533",
+      "name": "Кокосове молоко сухе(Індонезія) 30% жирності.Вага:500г.",
+      "price": 170.0,
+      "category_id": "84308336",
+      "category_name": "Растительные сливки и молоко",
+      "picture": "https://images.prom.ua/6276388778_kokosovoe-moloko-suhoeindoneziya.jpg",
+      "available": true
+    },
+    {
+      "id": "1107103570",
+      "name": "Кокосове молоко сухе (Індонезія) 30% жирності.Вага:1кг.",
+      "price": 320.0,
+      "category_id": "84308336",
+      "category_name": "Растительные сливки и молоко",
+      "picture": "https://images.prom.ua/6276388778_kokosovoe-moloko-suhoe.jpg",
+      "available": true
+    },
+    {
+      "id": "1107114257",
+      "name": "Гуарова камідь  (Е412) Китай.Вага:500г.",
+      "price": 100.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276346196_guarovaya-kamed-e412.jpg",
+      "available": true
+    },
+    {
+      "id": "1107114553",
+      "name": "Гуарова камідь (Е412) Китай.Вага:1кг.",
+      "price": 175.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276346196_guarovaya-kamed-e412.jpg",
+      "available": true
+    },
+    {
+      "id": "1107119973",
+      "name": "Ксантанова камідь Е-415(Китай).Вага:500г.",
+      "price": 210.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6486271693_ksantanovaya-kamed-e-415kitajves500gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1107120748",
+      "name": "Ксантанова камідь Е-415(Китай).Вага:1кг.",
+      "price": 400.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6486271693_ksantanovaya-kamed-e-415kitajves1kg.jpg",
+      "available": true
+    },
+    {
+      "id": "1107128237",
+      "name": "Шоколад молочний 30% ТМ Schokinag (Німеччина) в дропсах.Вага:150г.",
+      "price": 150.0,
+      "category_id": "75262432",
+      "category_name": "Натуральный шоколад",
+      "picture": "https://images.prom.ua/2234759182_shokolad-molochnyj-30.jpg",
+      "available": true
+    },
+    {
+      "id": "1107143952",
+      "name": "Шоколад молочний 30% ТМ Schokinag (Німеччина) у дропсах.Вага:250г.",
+      "price": 230.0,
+      "category_id": "75262432",
+      "category_name": "Натуральный шоколад",
+      "picture": "https://images.prom.ua/2234759182_shokolad-molochnyj-30.jpg",
+      "available": true
+    },
+    {
+      "id": "1107144081",
+      "name": "Шоколад молочний 30% ТМ Schokinag (Німеччина) в дропсах.Вага:500г.",
+      "price": 410.0,
+      "category_id": "75262432",
+      "category_name": "Натуральный шоколад",
+      "picture": "https://images.prom.ua/2234759182_shokolad-molochnyj-30.jpg",
+      "available": true
+    },
+    {
+      "id": "1107144200",
+      "name": "Шоколад молочний 30% ТМ Schokinag (Німеччина) в дропсах.Вага:1кг.",
+      "price": 750.0,
+      "category_id": "75262432",
+      "category_name": "Натуральный шоколад",
+      "picture": "https://images.prom.ua/2234759182_shokolad-molochnyj-30.jpg",
+      "available": true
+    },
+    {
+      "id": "1110144655",
+      "name": "Барвник жовтий: Тартразин-Tartrazine (Е-102) (Індія).Вага:100г.",
+      "price": 200.0,
+      "category_id": "4754901",
+      "category_name": "Красители пищевые",
+      "picture": "https://images.prom.ua/2308850211_krasitel-zheltyj-tartrazin-tartrazine.jpg",
+      "available": true
+    },
+    {
+      "id": "1110145488",
+      "name": "Барвник коричневий: Шоколад-Chocolate brown (Е-155) (Індія).Вага:100г.",
+      "price": 200.0,
+      "category_id": "4754901",
+      "category_name": "Красители пищевые",
+      "picture": "https://images.prom.ua/2308848313_krasitel-korichnevyj-shokolad-chocolate.jpg",
+      "available": true
+    },
+    {
+      "id": "1110147415",
+      "name": "Барвник синій: Індигокармін-Indigocarmine (Е-132) (Індія).Вага:100г.",
+      "price": 200.0,
+      "category_id": "4754901",
+      "category_name": "Красители пищевые",
+      "picture": "https://images.prom.ua/2308848940_krasitel-sinij-indigokarmin-indigocarmine.jpg",
+      "available": false
+    },
+    {
+      "id": "1110328850",
+      "name": "Барвник блакитний: Діамантовий блакитний-Brilliant blue (Е-133) (Індія).Вага:100г.",
+      "price": 200.0,
+      "category_id": "4754901",
+      "category_name": "Красители пищевые",
+      "picture": "https://images.prom.ua/2308848370_krasitel-goluboj-briliantovyj.jpg",
+      "available": true
+    },
+    {
+      "id": "1110330092",
+      "name": "Барвник чорний: Чорний-black (Індія).Вага:100г.",
+      "price": 200.0,
+      "category_id": "4754901",
+      "category_name": "Красители пищевые",
+      "picture": "https://images.prom.ua/2308848581_krasitel-chernyj-chernyj-.jpg",
+      "available": true
+    },
+    {
+      "id": "1110342203",
+      "name": "Барвник зелений:зелене яблуко(Індія).Вага:100г.",
+      "price": 200.0,
+      "category_id": "4754901",
+      "category_name": "Красители пищевые",
+      "picture": "https://images.prom.ua/2308848636_krasitel-zelenyj-zelenoe.jpg",
+      "available": true
+    },
+    {
+      "id": "1110357992",
+      "name": "Барвник жовтогарячий: Сонячний захід-Sunset Yellow (Е-110) (Індія).Вага:100г.",
+      "price": 200.0,
+      "category_id": "4754901",
+      "category_name": "Красители пищевые",
+      "picture": "https://images.prom.ua/2308848262_krasitel-oranzhevyj-solnechnyj.jpg",
+      "available": true
+    },
+    {
+      "id": "1113275734",
+      "name": "Пластикова форма E1-041 \"Шоколад — \"Дерево\" (розмір форми 115*180 мм)",
+      "price": 50.0,
+      "category_id": "84274419",
+      "category_name": "Формы пластиковые",
+      "picture": "https://images.prom.ua/2167574663_plastikovaya-forma-e1-041.jpg",
+      "available": true
+    },
+    {
+      "id": "1113674173",
+      "name": "Форма для шоколаду пластикова \"Цифри\" B9-099 (Розмір 120*230 мм)",
+      "price": 50.0,
+      "category_id": "84274419",
+      "category_name": "Формы пластиковые",
+      "picture": "https://images.prom.ua/2167665742_forma-dlya-shokolada.jpg",
+      "available": true
+    },
+    {
+      "id": "1113718915",
+      "name": "Форма пластикова \"Шоколад — \"Хвиля\" E1-037 (Розмір форми 115*180 мм)",
+      "price": 50.0,
+      "category_id": "84274419",
+      "category_name": "Формы пластиковые",
+      "picture": "https://images.prom.ua/2167756648_forma-plastikovaya-shokolad.jpg",
+      "available": true
+    },
+    {
+      "id": "1113720535",
+      "name": "Форма пластикова \"Шоколад — \"Класика\" E1-036 (Розмір форми 115*180 мм)",
+      "price": 50.0,
+      "category_id": "84274419",
+      "category_name": "Формы пластиковые",
+      "picture": "https://images.prom.ua/2167758894_forma-plastikovaya-shokolad.jpg",
+      "available": true
+    },
+    {
+      "id": "1113721359",
+      "name": "Форма пластикова \"Шоколад — \"Периметр\" E1-035 (Розмір форми 115*180 мм)",
+      "price": 50.0,
+      "category_id": "84274419",
+      "category_name": "Формы пластиковые",
+      "picture": "https://images.prom.ua/2167761613_forma-plastikovaya-shokolad.jpg",
+      "available": true
+    },
+    {
+      "id": "1113722285",
+      "name": "Форма пластикова \"Шоколад — \"Пірамідка\" E1-038 ( Розмір форми 115 * 180 мм)",
+      "price": 50.0,
+      "category_id": "84274419",
+      "category_name": "Формы пластиковые",
+      "picture": "https://images.prom.ua/2167764935_forma-plastikovaya-shokolad.jpg",
+      "available": true
+    },
+    {
+      "id": "1113728984",
+      "name": "Форма пластикова Шоколад — \"Пузирі\" E1-045 (Розмір форми 110*180 мм)",
+      "price": 50.0,
+      "category_id": "84274419",
+      "category_name": "Формы пластиковые",
+      "picture": "https://images.prom.ua/2167786471_forma-plastikovaya-shokolad.jpg",
+      "available": true
+    },
+    {
+      "id": "1113729902",
+      "name": "Форма для шоколаду (рандомна) (Розмір 115*180мм)",
+      "price": 50.0,
+      "category_id": "84274419",
+      "category_name": "Формы пластиковые",
+      "picture": "https://images.prom.ua/7364604657_forma-dlya-shokolada.jpg",
+      "available": true
+    },
+    {
+      "id": "1113747974",
+      "name": "Форма пластикова \"Павутиння\"",
+      "price": 50.0,
+      "category_id": "84274419",
+      "category_name": "Формы пластиковые",
+      "picture": "https://images.prom.ua/6280852297_forma-plastikovaya-pavutinnya.jpg",
+      "available": true
+    },
+    {
+      "id": "1114037706",
+      "name": "Тростинний цукор (пісок).Індонезія.Вага:500г.",
+      "price": 110.0,
+      "category_id": "84304920",
+      "category_name": "Кокосовый сахар и тростниковый",
+      "picture": "https://images.prom.ua/6276426411_trostnikovyj-sahar-pesok.jpg",
+      "available": true
+    },
+    {
+      "id": "1114038058",
+      "name": "Тростинний цукор (пісок).Індонезія.Вага:1кг.",
+      "price": 200.0,
+      "category_id": "84304920",
+      "category_name": "Кокосовый сахар и тростниковый",
+      "picture": "https://images.prom.ua/6276426411_trostnikovyj-sahar-pesokindoneziyaves1kg.jpg",
+      "available": true
+    },
+    {
+      "id": "1114087432",
+      "name": "Тростинний цукор колотий (Індонезія).Вага:500г.",
+      "price": 140.0,
+      "category_id": "84304920",
+      "category_name": "Кокосовый сахар и тростниковый",
+      "picture": "https://images.prom.ua/6276425971_trostnikovyj-sahar-kolotyj.jpg",
+      "available": true
+    },
+    {
+      "id": "1114096927",
+      "name": "Тростинний цукор колотий (Індонезія).Вага:1кг.",
+      "price": 260.0,
+      "category_id": "84304920",
+      "category_name": "Кокосовый сахар и тростниковый",
+      "picture": "https://images.prom.ua/6276425971_trostnikovyj-sahar-kolotyj.jpg",
+      "available": true
+    },
+    {
+      "id": "1114219960",
+      "name": "Кокосова паста Україна (сировина з Індонезії).Вага:250г.",
+      "price": 115.0,
+      "category_id": "89326089",
+      "category_name": "Натуральные ореховые пасты",
+      "picture": "https://images.prom.ua/2263341266_kokosovaya-pasta-ukraina.jpg",
+      "available": true
+    },
+    {
+      "id": "1114220713",
+      "name": "Кокосова паста Україна (сировина з Індонезії).Вага:500г.",
+      "price": 210.0,
+      "category_id": "89326089",
+      "category_name": "Натуральные ореховые пасты",
+      "picture": "https://images.prom.ua/2263341266_kokosovaya-pasta-ukraina.jpg",
+      "available": true
+    },
+    {
+      "id": "1114230606",
+      "name": "Кокосова паста Україна (сировина з Індонезії).Вага:1кг.",
+      "price": 400.0,
+      "category_id": "89326089",
+      "category_name": "Натуральные ореховые пасты",
+      "picture": "https://images.prom.ua/2263341266_kokosovaya-pasta-ukraina.jpg",
+      "available": true
+    },
+    {
+      "id": "1122327660",
+      "name": "Чай Матча Еліт Преміум.(Китай).Вага:150г.",
+      "price": 300.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6464737185_chaj-matcha-elit.jpg",
+      "available": true
+    },
+    {
+      "id": "1122328414",
+      "name": "Чай Матча Еліт Преміум.(Китай).Вага:250г.",
+      "price": 450.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6464737185_chaj-matcha-elit.jpg",
+      "available": true
+    },
+    {
+      "id": "1122328714",
+      "name": "Чай Матча Еліт Преміум.(Китай).Вага:500г.",
+      "price": 850.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6464737185_chaj-matcha-elit.jpg",
+      "available": true
+    },
+    {
+      "id": "1122329305",
+      "name": "Чай Матча Еліт Преміум.(Китай).Вага:1кг.",
+      "price": 1600.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6464737185_chaj-matcha-elit.jpg",
+      "available": true
+    },
+    {
+      "id": "1122339275",
+      "name": "Еритріт (Еритрітол)(Китай).Вага:150г.",
+      "price": 75.0,
+      "category_id": "87239778",
+      "category_name": "Подсластители натуральные",
+      "picture": "https://images.prom.ua/6484548092_eritrit-eritritolkitajves150gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1122343097",
+      "name": "Еритріт (Еритрітол)(Китай).Вага:250г.",
+      "price": 100.0,
+      "category_id": "87239778",
+      "category_name": "Подсластители натуральные",
+      "picture": "https://images.prom.ua/6484548092_eritrit-eritritolkitajves250gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1122344176",
+      "name": "Еритріт (Еритрітол)(Китай).Вага:500г.",
+      "price": 175.0,
+      "category_id": "87239778",
+      "category_name": "Подсластители натуральные",
+      "picture": "https://images.prom.ua/6484548092_eritrit-eritritolkitajves500gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1122344390",
+      "name": "Еритріт (Еритрітол)(Китай).Вага:1кг.",
+      "price": 325.0,
+      "category_id": "87239778",
+      "category_name": "Подсластители натуральные",
+      "picture": "https://images.prom.ua/6484548092_eritrit-eritritolkitajves1kg.jpg",
+      "available": true
+    },
+    {
+      "id": "1124374052",
+      "name": "Гуміарабік, (Е414).Вага:100г.",
+      "price": 100.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276213551_gummiarabik-e414ves100gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1124375126",
+      "name": "Гуміарабік (Е414).Вага:250г.",
+      "price": 175.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276213551_gummiarabik-e414ves250gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1124376138",
+      "name": "Гуміарабік (Е414).Вага:500г.",
+      "price": 310.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276213551_gummiarabik-e414ves500gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1124376737",
+      "name": "Гуміарабік (Е414).Вага:1кг.",
+      "price": 600.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276213551_gummiarabik-e414ves1kg.jpg",
+      "available": true
+    },
+    {
+      "id": "1127615819",
+      "name": "Гліцерин ТМ BASF (Німеччина) 99.9%.Вага:20кг.",
+      "price": 3200.0,
+      "category_id": "30881085",
+      "category_name": "Пропиленгликоль / глицерин",
+      "picture": "https://images.prom.ua/2625859953_glitserin-tm-basf.jpg",
+      "available": true
+    },
+    {
+      "id": "1127616371",
+      "name": "Пропіленгліколь 99.9% BASF (Німеччина).Вага:20кг.",
+      "price": 4800.0,
+      "category_id": "30881085",
+      "category_name": "Пропиленгликоль / глицерин",
+      "picture": "https://images.prom.ua/3447548589_propilenglikol-999-basf.jpg",
+      "available": true
+    },
+    {
+      "id": "1127616519",
+      "name": "Пропіленгліколь 99.7% .Вага:10кг.",
+      "price": 2200.0,
+      "category_id": "30881085",
+      "category_name": "Пропиленгликоль / глицерин",
+      "picture": "https://images.prom.ua/3447545559_propilenglikol-997-ves10kg.jpg",
+      "available": true
+    },
+    {
+      "id": "1131688276",
+      "name": "Псиліум (лушпиння)(Індія).Вага:150г.",
+      "price": 150.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6324158584_psillium-sheluhaindiyaves150gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1131689199",
+      "name": "Псиліум (лушпиння)(Індія).Вага:250г.",
+      "price": 225.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6324158584_psillium-sheluhaindiyaves250gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1131690185",
+      "name": "Псиліум (лушпиння)(Індія).Вага:500г.",
+      "price": 435.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6324158584_psillium-sheluhaindiyaves500gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1131691412",
+      "name": "Псиліум (лушпиння)(Індія).Вага:1кг.",
+      "price": 850.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6324158584_psillium-sheluhaindiyaves1kg.jpg",
+      "available": true
+    },
+    {
+      "id": "1131697190",
+      "name": "Ксилітол(Фінляндія).Вага:100г.",
+      "price": 60.0,
+      "category_id": "87239778",
+      "category_name": "Подсластители натуральные",
+      "picture": "https://images.prom.ua/6484548092_ksilitolfinlyandiyaves100gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1131698041",
+      "name": "Ксилітол(Фінляндія).Вага:250г.",
+      "price": 125.0,
+      "category_id": "87239778",
+      "category_name": "Подсластители натуральные",
+      "picture": "https://images.prom.ua/6484548092_ksilitolfinlyandiyaves250gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1131699938",
+      "name": "Ксилітол(Фінляндія).Вага:500г.",
+      "price": 210.0,
+      "category_id": "87239778",
+      "category_name": "Подсластители натуральные",
+      "picture": "https://images.prom.ua/6484548092_ksilitolfinlyandiyaves500gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1131700280",
+      "name": "Ксилітол(Фінляндія).Вага:1кг.",
+      "price": 400.0,
+      "category_id": "87239778",
+      "category_name": "Подсластители натуральные",
+      "picture": "https://images.prom.ua/6484548092_ksilitolfinlyandiyaves1kg.jpg",
+      "available": true
+    },
+    {
+      "id": "1139826587",
+      "name": "Кокосова олія extra virgin.Перший холодний віджим.(Індонезія).Об'єм:250мл.",
+      "price": 160.0,
+      "category_id": "5434236",
+      "category_name": "Кокосовое масло",
+      "picture": "https://images.prom.ua/6885634964_kokosovoe-maslo-extra.jpg",
+      "available": true
+    },
+    {
+      "id": "1139827192",
+      "name": "Кокосова олія extra virgin.Перший холодний віджим.(Індонезія).Об'єм:500мл.",
+      "price": 300.0,
+      "category_id": "5434236",
+      "category_name": "Кокосовое масло",
+      "picture": "https://images.prom.ua/6885634429_kokosovoe-maslo-extra.jpg",
+      "available": true
+    },
+    {
+      "id": "1140113117",
+      "name": "Журавлина в'ялена(Канада).Вага:500г.",
+      "price": 200.0,
+      "category_id": "13895369",
+      "category_name": "Сухофрукты и ягоды",
+      "picture": "https://images.prom.ua/6344388305_klyukva-vyalenaya-kanadaves500gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1140113167",
+      "name": "Журавлина в'ялена (Канада).Вага:1кг.",
+      "price": 400.0,
+      "category_id": "13895369",
+      "category_name": "Сухофрукты и ягоды",
+      "picture": "https://images.prom.ua/6344388305_klyukva-vyalenaya-kanadaves1kg.jpg",
+      "available": true
+    },
+    {
+      "id": "1156105978",
+      "name": "Сухе кокосове молоко (для веганів) еко.В'єтнамам 67%.Вага:250г.",
+      "price": 225.0,
+      "category_id": "84308336",
+      "category_name": "Растительные сливки и молоко",
+      "picture": "https://images.prom.ua/6486253459_suhoe-kokosovoe-moloko.jpg",
+      "available": true
+    },
+    {
+      "id": "1156108187",
+      "name": "Сухе кокосове молоко (для веганів) еко.В'єтнамам 67%.Вага:500г.",
+      "price": 435.0,
+      "category_id": "84308336",
+      "category_name": "Растительные сливки и молоко",
+      "picture": "https://images.prom.ua/6486253459_suhoe-kokosovoe-moloko.jpg",
+      "available": true
+    },
+    {
+      "id": "1156108812",
+      "name": "Сухе кокосове молоко (для веганів) еко.В'єтнамам 67%.Вага:1кг.",
+      "price": 850.0,
+      "category_id": "84308336",
+      "category_name": "Растительные сливки и молоко",
+      "picture": "https://images.prom.ua/6486253459_suhoe-kokosovoe-moloko.jpg",
+      "available": true
+    },
+    {
+      "id": "1181097386",
+      "name": "СВІТ.(підсолоджувач сумішевий) (Китай) Індекс солодкості 200.Вес:500 г",
+      "price": 275.0,
+      "category_id": "4758936",
+      "category_name": "Подсластители синтетические",
+      "picture": "https://images.prom.ua/6484548092_svitpodslastitel-smesevoj-kitaj.jpg",
+      "available": true
+    },
+    {
+      "id": "1181098243",
+      "name": "СВІТ.(підсолоджувач сумішевий) (Китай) Індекс солодкості 200.Вага:1 кг",
+      "price": 500.0,
+      "category_id": "4758936",
+      "category_name": "Подсластители синтетические",
+      "picture": "https://images.prom.ua/6484548092_svitpodslastitel-smesevoj-kitaj.jpg",
+      "available": true
+    },
+    {
+      "id": "1191754610",
+      "name": "Ванільний екстракт (натуральний) Мексика.Об'єм:30мл.",
+      "price": 250.0,
+      "category_id": "93810767",
+      "category_name": "Ароматизаторы",
+      "picture": "https://images.prom.ua/2411335025_vanilnyj-ekstrakt-naturalnyj.jpg",
+      "available": true
+    },
+    {
+      "id": "1203988198",
+      "name": "Ванільний екстракт (натуральний) Мексика.Об'єм:100мл.",
+      "price": 500.0,
+      "category_id": "93810767",
+      "category_name": "Ароматизаторы",
+      "picture": "https://images.prom.ua/2452093014_vanilnyj-ekstrakt-naturalnyj.jpg",
+      "available": true
+    },
+    {
+      "id": "1205327065",
+      "name": "Кунжутна паста Тахіні(Україна).Вага:500г.",
+      "price": 210.0,
+      "category_id": "34593334",
+      "category_name": "Кунжут",
+      "picture": "https://images.prom.ua/2451831742_kunzhutnaya-pasta-tahiniukrainaves500gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1205328784",
+      "name": "Кунжутна паста Тахіні(Україна).Вага:1кг.",
+      "price": 420.0,
+      "category_id": "34593334",
+      "category_name": "Кунжут",
+      "picture": "https://images.prom.ua/2451831742_kunzhutnaya-pasta-tahiniukrainaves1kg.jpg",
+      "available": true
+    },
+    {
+      "id": "1209108054",
+      "name": "Форма для шоколаду",
+      "price": 150.0,
+      "category_id": "84274419",
+      "category_name": "Формы пластиковые",
+      "picture": "https://images.prom.ua/5825689422_forma-dlya-shokolada.jpg",
+      "available": true
+    },
+    {
+      "id": "1216327752",
+      "name": "Сироп Агави Еко. (Мексика).Вага:250г.",
+      "price": 200.0,
+      "category_id": "93725288",
+      "category_name": "Сиропы",
+      "picture": "https://images.prom.ua/2540896664_sirop-agavy-eko.jpg",
+      "available": false
+    },
+    {
+      "id": "1216335986",
+      "name": "Цукор Агави Еко. (Мексика).Вага:500г.",
+      "price": 450.0,
+      "category_id": "87239778",
+      "category_name": "Подсластители натуральные",
+      "picture": "https://images.prom.ua/2484874580_sahar-agavy-eko.jpg",
+      "available": true
+    },
+    {
+      "id": "1216336469",
+      "name": "Цукор Агави Еко. (Мексика).Вага:1 кг",
+      "price": 850.0,
+      "category_id": "87239778",
+      "category_name": "Подсластители натуральные",
+      "picture": "https://images.prom.ua/2484874580_sahar-agavy-eko.jpg",
+      "available": true
+    },
+    {
+      "id": "1217297806",
+      "name": "Какао терте (Німеччина) ТМ Schokinag, у каллетах.Вага:150г.",
+      "price": 200.0,
+      "category_id": "4833828",
+      "category_name": "Какао тертое",
+      "picture": "https://images.prom.ua/6300088534_kakao-tertoe-germaniya.jpg",
+      "available": true
+    },
+    {
+      "id": "1217299114",
+      "name": "Какао терте (Німеччина) ТМ Schokinag, в каллетах.Вага:250г.",
+      "price": 250.0,
+      "category_id": "4833828",
+      "category_name": "Какао тертое",
+      "picture": "https://images.prom.ua/6300088534_kakao-tertoe-germaniya.jpg",
+      "available": true
+    },
+    {
+      "id": "1217299150",
+      "name": "Какао терте (Німеччина) ТМ Schokinag, в каллетах.Вага:500г.",
+      "price": 460.0,
+      "category_id": "4833828",
+      "category_name": "Какао тертое",
+      "picture": "https://images.prom.ua/6300088534_kakao-tertoe-germaniya.jpg",
+      "available": true
+    },
+    {
+      "id": "1217299260",
+      "name": "Какао терте (Німеччина) ТМ Schokinag, в каллетах.Вага:1кг.",
+      "price": 900.0,
+      "category_id": "4833828",
+      "category_name": "Какао тертое",
+      "picture": "https://images.prom.ua/6300088534_kakao-tertoe-germaniya.jpg",
+      "available": true
+    },
+    {
+      "id": "1217300705",
+      "name": "Какао масло дезодороване (Німеччина) ТМ Schokinag, у дрібних каллетах.Вага:150г.",
+      "price": 275.0,
+      "category_id": "4834758",
+      "category_name": "Какао масло",
+      "picture": "https://images.prom.ua/6295691836_kakao-maslo-dezodorirovannoe.jpg",
+      "available": true
+    },
+    {
+      "id": "1217300781",
+      "name": "Какао масло дезодороване (Німеччина) ТМ Schokinag, у дрібних каллетах.Вага:250г.",
+      "price": 425.0,
+      "category_id": "4834758",
+      "category_name": "Какао масло",
+      "picture": "https://images.prom.ua/6295691836_kakao-maslo-dezodorirovannoe.jpg",
+      "available": true
+    },
+    {
+      "id": "1217300796",
+      "name": "Какао масло дезодороване (Німеччина) ТМ Schokinag, у дрібних калетах.Вага:500г.",
+      "price": 750.0,
+      "category_id": "4834758",
+      "category_name": "Какао масло",
+      "picture": "https://images.prom.ua/6295691836_kakao-maslo-dezodorirovannoe.jpg",
+      "available": true
+    },
+    {
+      "id": "1217300827",
+      "name": "Какаомасло дезодороване (Німеччина) ТМ Schokinag, у дрібних калетах.Вага:1кг.",
+      "price": 1700.0,
+      "category_id": "4834758",
+      "category_name": "Какао масло",
+      "picture": "https://images.prom.ua/6295691836_kakao-maslo-dezodorirovannoe.jpg",
+      "available": true
+    },
+    {
+      "id": "1228463411",
+      "name": "Фундучна паста (Україна).Вага:250г.",
+      "price": 260.0,
+      "category_id": "89326089",
+      "category_name": "Натуральные ореховые пасты",
+      "picture": "https://images.prom.ua/2563412847_funduchnaya-pasta-ukrainaves250gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1228463653",
+      "name": "Фундучна паста (Україна).Вага:500г.",
+      "price": 500.0,
+      "category_id": "89326089",
+      "category_name": "Натуральные ореховые пасты",
+      "picture": "https://images.prom.ua/2563412847_funduchnaya-pasta-ukrainaves500gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1228472338",
+      "name": "Мигдальна паста (Україна).Вага:250г.",
+      "price": 210.0,
+      "category_id": "89326089",
+      "category_name": "Натуральные ореховые пасты",
+      "picture": "https://images.prom.ua/2563408673_mindalnaya-pasta-ukrainaves250gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1228475792",
+      "name": "Мигдальна паста (Україна).Вага:500г.",
+      "price": 400.0,
+      "category_id": "89326089",
+      "category_name": "Натуральные ореховые пасты",
+      "picture": "https://images.prom.ua/2563408673_mindalnaya-pasta-ukrainaves500gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1228945843",
+      "name": "Кеш'ю паста (Україна).Вага:250г.",
+      "price": 260.0,
+      "category_id": "89326089",
+      "category_name": "Натуральные ореховые пасты",
+      "picture": "https://images.prom.ua/2563403401_keshyu-pasta-ukrainaves250gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1228945979",
+      "name": "Кеш'ю паста (Україна).Вага:500г.",
+      "price": 500.0,
+      "category_id": "89326089",
+      "category_name": "Натуральные ореховые пасты",
+      "picture": "https://images.prom.ua/2563403401_keshyu-pasta-ukrainaves500gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1230133125",
+      "name": "Желатин листовий 200 Bloom ТМ Ewald, (Німеччина) 50 аркушів. (1 арк/2грама)",
+      "price": 200.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6321700750_zhelatin-listovoj-200.jpg",
+      "available": false
+    },
+    {
+      "id": "1230133728",
+      "name": "Желатин листовий 200 Bloom ТМ Ewald, (Німеччина) 100 аркушів.(1 арк/2грама)",
+      "price": 350.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6321700750_zhelatin-listovoj-200.jpg",
+      "available": false
+    },
+    {
+      "id": "1230134413",
+      "name": "Желатин листовий 200 Bloom ТМ Ewald, (Німеччина) 200 аркушів. (1 арк/2грама)",
+      "price": 700.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6321700750_zhelatin-listovoj-200.jpg",
+      "available": false
+    },
+    {
+      "id": "1235316020",
+      "name": "Желатин листовий 200 Bloom ТМ Ewald (Німеччина) 500 аркушів. (1 арк/2грама)",
+      "price": 1600.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6321700750_zhelatin-listovoj-200.jpg",
+      "available": false
+    },
+    {
+      "id": "1273159949",
+      "name": "Какао порошок світлий 22% (Нідерланди) ТМ DeZaan.Вага:500г.",
+      "price": 430.0,
+      "category_id": "4876472",
+      "category_name": "Какао порошок",
+      "picture": "https://images.prom.ua/6409666496_kakao-poroshok-svetlyj.jpg",
+      "available": true
+    },
+    {
+      "id": "1278338899",
+      "name": "Інулін (з кореня цикорію).Бельгія.Вага:500г.",
+      "price": 235.0,
+      "category_id": "87239778",
+      "category_name": "Подсластители натуральные",
+      "picture": "https://images.prom.ua/6484954539_inulin-iz-kornya.jpg",
+      "available": true
+    },
+    {
+      "id": "1278343963",
+      "name": "Інулін (з кореня цикорію).Бельгія.Вага:1кг.",
+      "price": 450.0,
+      "category_id": "87239778",
+      "category_name": "Подсластители натуральные",
+      "picture": "https://images.prom.ua/6484954539_inulin-iz-kornya.jpg",
+      "available": true
+    },
+    {
+      "id": "1287881842",
+      "name": "Термометр електронний кондитерський",
+      "price": 140.0,
+      "category_id": "60399313",
+      "category_name": "Все для кондитера",
+      "picture": "https://images.prom.ua/2740053535_termometr-konditerskij-elektronnyj.jpg",
+      "available": true
+    },
+    {
+      "id": "1287884006",
+      "name": "Гімалайська рожева сіль велика(Пакистан).Вага:500г.",
+      "price": 75.0,
+      "category_id": "97601300",
+      "category_name": "Специи и пряности",
+      "picture": "https://images.prom.ua/6484993540_gimalajskaya-rozovaya-sol.jpg",
+      "available": true
+    },
+    {
+      "id": "1287884017",
+      "name": "Гімалайська рожева сіль велика(Пакистан).Вага:1кг.",
+      "price": 150.0,
+      "category_id": "97601300",
+      "category_name": "Специи и пряности",
+      "picture": "https://images.prom.ua/6484993540_gimalajskaya-rozovaya-sol.jpg",
+      "available": true
+    },
+    {
+      "id": "1289439889",
+      "name": "Поталь імітація золота ( Листи для декоративної обробки) 100 аркушів (8х8см)",
+      "price": 250.0,
+      "category_id": "60399313",
+      "category_name": "Все для кондитера",
+      "picture": "https://images.prom.ua/2713238103_potal-imitatsiya-zolota.jpg",
+      "available": true
+    },
+    {
+      "id": "1311799566",
+      "name": "Глазур кондитерська біла, ТМ \"Мир\".Вага:250г.",
+      "price": 65.0,
+      "category_id": "92868476",
+      "category_name": "Глазурь Кондитерская",
+      "picture": "https://images.prom.ua/6295691836_glazur-konditerskaya-belayatm.jpg",
+      "available": true
+    },
+    {
+      "id": "1311803349",
+      "name": "Глазур кондитерська біла ТМ \"Мир\".Вага:500г.",
+      "price": 100.0,
+      "category_id": "92868476",
+      "category_name": "Глазурь Кондитерская",
+      "picture": "https://images.prom.ua/6295691836_glazur-konditerskaya-belaya.jpg",
+      "available": true
+    },
+    {
+      "id": "1311804144",
+      "name": "Глазур кондитерська біла. ТМ \"Мир\".Вага:1кг.",
+      "price": 180.0,
+      "category_id": "92868476",
+      "category_name": "Глазурь Кондитерская",
+      "picture": "https://images.prom.ua/6295691836_glazur-konditerskaya-belaya.jpg",
+      "available": true
+    },
+    {
+      "id": "1311819905",
+      "name": "Глазур кондитерська чорна,ТМ \"Мир\".Вага:250г.",
+      "price": 65.0,
+      "category_id": "92868476",
+      "category_name": "Глазурь Кондитерская",
+      "picture": "https://images.prom.ua/6300088534_glazur-konditerskaya-chyornayatm.jpg",
+      "available": true
+    },
+    {
+      "id": "1311821093",
+      "name": "Глазур кондитерська чорна, ТМ \"Мир\".Вага:500г.",
+      "price": 110.0,
+      "category_id": "92868476",
+      "category_name": "Глазурь Кондитерская",
+      "picture": "https://images.prom.ua/6300088534_glazur-konditerskaya-chyornaya.jpg",
+      "available": true
+    },
+    {
+      "id": "1311821977",
+      "name": "Глазур кондитерська чорна, ТМ \"Мир\".Вага:1кг.",
+      "price": 200.0,
+      "category_id": "92868476",
+      "category_name": "Глазурь Кондитерская",
+      "picture": "https://images.prom.ua/6300088534_glazur-konditerskaya-chyornaya.jpg",
+      "available": true
+    },
+    {
+      "id": "1332108531",
+      "name": "Ароматизатор Малина,Польща ТМ JAR.Об'єм:30мл",
+      "price": 100.0,
+      "category_id": "93810767",
+      "category_name": "Ароматизаторы",
+      "picture": "https://images.prom.ua/3169716930_aromatizator-malina-polsha.jpg",
+      "available": true
+    },
+    {
+      "id": "1332110327",
+      "name": "Ароматизатор Полуниця, Польща ТМ JAR.Об'єм:30 мл",
+      "price": 100.0,
+      "category_id": "93810767",
+      "category_name": "Ароматизаторы",
+      "picture": "https://images.prom.ua/3168094607_aromatizator-klubnika-polsha.jpg",
+      "available": true
+    },
+    {
+      "id": "1332110872",
+      "name": "Ароматизатор Шоколад, Польща ТМ JAR.Об'єм: 30 мл",
+      "price": 100.0,
+      "category_id": "93810767",
+      "category_name": "Ароматизаторы",
+      "picture": "https://images.prom.ua/3167899511_aromatizator-shokolad-polsha.jpg",
+      "available": true
+    },
+    {
+      "id": "1332427670",
+      "name": "Манго без цукру натуральний(В'етнам).Вага:500г.",
+      "price": 240.0,
+      "category_id": "13895369",
+      "category_name": "Сухофрукты и ягоды",
+      "picture": "https://images.prom.ua/3323788649_mango-bez-sahara.jpg",
+      "available": true
+    },
+    {
+      "id": "1332427675",
+      "name": "Манго без цукру натуральний(В'етнам).Вага:1кг.",
+      "price": 470.0,
+      "category_id": "13895369",
+      "category_name": "Сухофрукты и ягоды",
+      "picture": "https://images.prom.ua/3323788649_mango-bez-sahara.jpg",
+      "available": true
+    },
+    {
+      "id": "1332446318",
+      "name": "Ароматизатор Груша, Польща ТМ JAR.Об'єм:30 мл",
+      "price": 100.0,
+      "category_id": "93810767",
+      "category_name": "Ароматизаторы",
+      "picture": "https://images.prom.ua/3167874695_aromatizator-grusha-polsha.jpg",
+      "available": true
+    },
+    {
+      "id": "1332447960",
+      "name": "Ароматизатор Суниця,ПольщаТМ JAR.Об'єм:30мл.",
+      "price": 100.0,
+      "category_id": "93810767",
+      "category_name": "Ароматизаторы",
+      "picture": "https://images.prom.ua/3169729061_aromatizator-zemlyanika-polsha.jpg",
+      "available": true
+    },
+    {
+      "id": "1332449536",
+      "name": "Ароматизатор Пломбір, Польща ТМ JAR.Обьєм:30мл.",
+      "price": 100.0,
+      "category_id": "93810767",
+      "category_name": "Ароматизаторы",
+      "picture": "https://images.prom.ua/7324946309_aromatizator-plombirtm-jarobem.jpg",
+      "available": true
+    },
+    {
+      "id": "1332450420",
+      "name": "Ароматизатор Вишня, Польща ТМ JAR.Об'єм: 30 мл",
+      "price": 100.0,
+      "category_id": "93810767",
+      "category_name": "Ароматизаторы",
+      "picture": "https://images.prom.ua/3169723282_aromatizator-vishnya-polsha.jpg",
+      "available": true
+    },
+    {
+      "id": "1332451681",
+      "name": "Ароматизатор Лохина,Польща ТМ JAR.Об'єм:30мл",
+      "price": 100.0,
+      "category_id": "93810767",
+      "category_name": "Ароматизаторы",
+      "picture": "https://images.prom.ua/3167894596_aromatizator-golubikapolsha-tm.jpg",
+      "available": true
+    },
+    {
+      "id": "1332452443",
+      "name": "Ароматизатор Ананас Польща ТМ JAR.Об'єм:30 мл",
+      "price": 100.0,
+      "category_id": "93810767",
+      "category_name": "Ароматизаторы",
+      "picture": "https://images.prom.ua/3168093687_aromatizator-ananas-polsha.jpg",
+      "available": true
+    },
+    {
+      "id": "1332456052",
+      "name": "Ароматизатор Тірамісу, Польща ТМ JAR.Об'єм:30мл.",
+      "price": 100.0,
+      "category_id": "93810767",
+      "category_name": "Ароматизаторы",
+      "picture": "https://images.prom.ua/7324943637_aromatizator-tiramisu-polsha.jpg",
+      "available": true
+    },
+    {
+      "id": "1332456087",
+      "name": "Ароматизатор Яблуко, Польща ТМ JAR.Об'єм:30мл.",
+      "price": 100.0,
+      "category_id": "93810767",
+      "category_name": "Ароматизаторы",
+      "picture": "https://images.prom.ua/3167898075_aromatizator-yabloko-polsha.jpg",
+      "available": true
+    },
+    {
+      "id": "1332456608",
+      "name": "Ароматизатор Чорниця, Польща ТМ JAR.Об'єм: 30 мл",
+      "price": 100.0,
+      "category_id": "93810767",
+      "category_name": "Ароматизаторы",
+      "picture": "https://images.prom.ua/3169736971_aromatizator-chernika-polsha.jpg",
+      "available": true
+    },
+    {
+      "id": "1332457657",
+      "name": "Ароматизатор Чорна смородина, Польща ТМ JAR.Об'єм: 30 мл",
+      "price": 100.0,
+      "category_id": "93810767",
+      "category_name": "Ароматизаторы",
+      "picture": "https://images.prom.ua/3169719456_aromatizator-chernaya-smorodina.jpg",
+      "available": true
+    },
+    {
+      "id": "1332458081",
+      "name": "Ароматизатор Апельсин Польща ТМ JAR.Об'єм:30 мл",
+      "price": 100.0,
+      "category_id": "93810767",
+      "category_name": "Ароматизаторы",
+      "picture": "https://images.prom.ua/3168687518_aromatizator-apelsin-polsha.jpg",
+      "available": true
+    },
+    {
+      "id": "1332458979",
+      "name": "Ароматизатор Лимон, Польща ТМ JAR.Об'єм:30мл.",
+      "price": 100.0,
+      "category_id": "93810767",
+      "category_name": "Ароматизаторы",
+      "picture": "https://images.prom.ua/3167891753_aromatizator-limon-polsha.jpg",
+      "available": true
+    },
+    {
+      "id": "1339001934",
+      "name": "Кокосові чіпси (Індонезія).Вага:250г.",
+      "price": 125.0,
+      "category_id": "34619899",
+      "category_name": "Кокосовая стружка",
+      "picture": "https://images.prom.ua/3354102414_kokosovye-chipsy-indoneziyaves250gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1339001967",
+      "name": "Кокосові чіпси (Індонезія).Вага:500г.",
+      "price": 235.0,
+      "category_id": "34619899",
+      "category_name": "Кокосовая стружка",
+      "picture": "https://images.prom.ua/3354102414_kokosovye-chipsy-indoneziyaves500gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1339001983",
+      "name": "Кокосові чіпси (Індонезія).Вага:1кг.",
+      "price": 450.0,
+      "category_id": "34619899",
+      "category_name": "Кокосовая стружка",
+      "picture": "https://images.prom.ua/3354102414_kokosovye-chipsy-indoneziyaves1kg.jpg",
+      "available": true
+    },
+    {
+      "id": "1342295240",
+      "name": "Какао масло натуральне ТМ Favorich, Індонезія.Вага:1 кг.",
+      "price": 1150.0,
+      "category_id": "4834758",
+      "category_name": "Какао масло",
+      "picture": "https://images.prom.ua/6295847942_kakao-maslo-naturalnoe.jpg",
+      "available": true
+    },
+    {
+      "id": "1385860075",
+      "name": "Чорнило каракатиці ТМ Norma Nero di Seppia (Іспанія).Вага:500г.",
+      "price": 650.0,
+      "category_id": "4754901",
+      "category_name": "Красители пищевые",
+      "picture": "https://images.prom.ua/6464794681_chernila-karakatitsy-tm.jpg",
+      "available": true
+    },
+    {
+      "id": "1385874882",
+      "name": "Водорості Норі ТМ Dong Bao(Китай).10 аркушів 28 г.",
+      "price": 125.0,
+      "category_id": "96168789",
+      "category_name": "Продукты для приготовления суши",
+      "picture": "https://images.prom.ua/3323814861_vodorosli-nori-tm.jpg",
+      "available": true
+    },
+    {
+      "id": "1385877132",
+      "name": "Водорості Норі ТМ Dong Bao(Китай).50 аркушів 140 г.",
+      "price": 400.0,
+      "category_id": "96168789",
+      "category_name": "Продукты для приготовления суши",
+      "picture": "https://images.prom.ua/3323814861_vodorosli-nori-tm.jpg",
+      "available": true
+    },
+    {
+      "id": "1393362546",
+      "name": "Барвник чорний: Чорний-black (Індія).Вага:1кг.",
+      "price": 2000.0,
+      "category_id": "4754901",
+      "category_name": "Красители пищевые",
+      "picture": "https://images.prom.ua/2308848581_krasitel-chernyjchernyj-black.jpg",
+      "available": true
+    },
+    {
+      "id": "1417312004",
+      "name": "ІНВЕРТНИЙ САХАРНИЙ СИРОП (ТРИМОЛІН), 81%, ТМ Laped Вага: 500 грамів",
+      "price": 125.0,
+      "category_id": "87239778",
+      "category_name": "Подсластители натуральные",
+      "picture": "https://images.prom.ua/3129834241_invertnyj-saharnyj-sirop.jpg",
+      "available": false
+    },
+    {
+      "id": "1417312696",
+      "name": "ІНВЕРТНИЙ САХАРНИЙ СИРОП (ТРИМОЛІН), 81%, ТМ Laped Вага: 1 кг",
+      "price": 250.0,
+      "category_id": "87239778",
+      "category_name": "Подсластители натуральные",
+      "picture": "https://images.prom.ua/3129834241_invertnyj-saharnyj-sirop.jpg",
+      "available": false
+    },
+    {
+      "id": "1417313080",
+      "name": "ІНВЕРТНИЙ ЦУКРОВИЙ СИРОП (ТРИМОЛИН), 81%,ТМ Laped Вага:5 кг",
+      "price": 1100.0,
+      "category_id": "87239778",
+      "category_name": "Подсластители натуральные",
+      "picture": "https://images.prom.ua/3129834241_invertnyj-saharnyj-sirop.jpg",
+      "available": false
+    },
+    {
+      "id": "1430477761",
+      "name": "Ароматизатор Ваніль, Польща ТМ JAR.Об'єм:30мл.",
+      "price": 100.0,
+      "category_id": "93810767",
+      "category_name": "Ароматизаторы",
+      "picture": "https://images.prom.ua/3169732379_aromatizator-vanil-polsha.jpg",
+      "available": true
+    },
+    {
+      "id": "1448436648",
+      "name": "Какао масло натуральне ТМ First ld Cocoa,сорт Criollo (Венесуела).Вага:150 г.",
+      "price": 360.0,
+      "category_id": "4834758",
+      "category_name": "Какао масло",
+      "picture": "https://images.prom.ua/7256483840_kakao-maslo-naturalnoe.jpg",
+      "available": true
+    },
+    {
+      "id": "1448437745",
+      "name": "Какао масло натуральне ТМ First ld Cocoa,сорт Criollo (Венесуела).Вага:250г.",
+      "price": 575.0,
+      "category_id": "4834758",
+      "category_name": "Какао масло",
+      "picture": "https://images.prom.ua/7256483840_kakao-maslo-naturalnoe.jpg",
+      "available": true
+    },
+    {
+      "id": "1448438928",
+      "name": "Какао масло натуральне ТМ First ld Cocoa,сорт Criollo (Венесуела).Вага:500г.",
+      "price": 1150.0,
+      "category_id": "4834758",
+      "category_name": "Какао масло",
+      "picture": "https://images.prom.ua/7256483840_kakao-maslo-naturalnoe.jpg",
+      "available": true
+    },
+    {
+      "id": "1448438955",
+      "name": "Какао масло натуральне ТМ First ld Cocoa,сорт Criollo (Венесуела).Вага:1 кг.",
+      "price": 2200.0,
+      "category_id": "4834758",
+      "category_name": "Какао масло",
+      "picture": "https://images.prom.ua/7256483840_kakao-maslo-naturalnoe.jpg",
+      "available": true
+    },
+    {
+      "id": "1449002996",
+      "name": "Винна камедь ТМ Sosa Ingredients (Іспанія).Вага:100г.",
+      "price": 210.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6486253459_vinnaya-kamed-tm.jpg",
+      "available": true
+    },
+    {
+      "id": "1449005012",
+      "name": "Винна камедь ТМ Sosa Ingredients (Іспанія).Вага:250г.",
+      "price": 550.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6486253459_vinnaya-kamed-tm.jpg",
+      "available": true
+    },
+    {
+      "id": "1449005325",
+      "name": "Винна камедь ТМ Sosa Ingredients (Іспанія).Вага:500г.",
+      "price": 1000.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6486253459_vinnaya-kamed-tm.jpg",
+      "available": true
+    },
+    {
+      "id": "1449008923",
+      "name": "Мальтитол (мальтит) — натуральний цукрозамінник (Китай).Вага:100г.",
+      "price": 40.0,
+      "category_id": "87239778",
+      "category_name": "Подсластители натуральные",
+      "picture": "https://images.prom.ua/6484548092_maltitol-maltit-naturalnyj-saharozamenitel.jpg",
+      "available": true
+    },
+    {
+      "id": "1449009358",
+      "name": "Мальтитол (мальтит) — натуральний цукрозамінник (Китай).Вага:250г.",
+      "price": 80.0,
+      "category_id": "87239778",
+      "category_name": "Подсластители натуральные",
+      "picture": "https://images.prom.ua/6484548092_maltitol-maltit-naturalnyj-saharozamenitel.jpg",
+      "available": true
+    },
+    {
+      "id": "1449009700",
+      "name": "Мальтитол (мальтит) — натуральний цукрозамінник (Китай).Вага:500г.",
+      "price": 140.0,
+      "category_id": "87239778",
+      "category_name": "Подсластители натуральные",
+      "picture": "https://images.prom.ua/6484548092_maltitol-maltit-naturalnyj-saharozamenitel.jpg",
+      "available": true
+    },
+    {
+      "id": "1449010454",
+      "name": "Мальтитол (мальтит) — натуральний цукрозамінник (Китай).Вага:1кг.",
+      "price": 250.0,
+      "category_id": "87239778",
+      "category_name": "Подсластители натуральные",
+      "picture": "https://images.prom.ua/6484548092_maltitol-maltit-naturalnyj-saharozamenitel.jpg",
+      "available": true
+    },
+    {
+      "id": "1453901128",
+      "name": "Кориця цейлонська (Шрі-Ланка).Вага:50г.",
+      "price": 200.0,
+      "category_id": "4843101",
+      "category_name": "Ванилин и специи",
+      "picture": "https://images.prom.ua/6484974061_koritsa-tsejlonskayashri-lankaves50gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1453901621",
+      "name": "Кориця цейлонська (Шрі-Ланка).Вага:100г.",
+      "price": 350.0,
+      "category_id": "4843101",
+      "category_name": "Ванилин и специи",
+      "picture": "https://images.prom.ua/6484974061_koritsa-tsejlonskayashri-lankaves100gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1453901741",
+      "name": "Кориця цейлонська (Шрі-Ланка).Вага:250г.",
+      "price": 750.0,
+      "category_id": "4843101",
+      "category_name": "Ванилин и специи",
+      "picture": "https://images.prom.ua/6484974061_koritsa-tsejlonskayashri-lankaves250gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1453902026",
+      "name": "Кориця цейлонська (Шрі-Ланка).Вага:500г.",
+      "price": 1500.0,
+      "category_id": "4843101",
+      "category_name": "Ванилин и специи",
+      "picture": "https://images.prom.ua/6484974061_koritsa-tsejlonskayashri-lankaves500gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1453902049",
+      "name": "Кориця цейлонська(Шрі-Ланка).Вага:1кг.",
+      "price": 2900.0,
+      "category_id": "4843101",
+      "category_name": "Ванилин и специи",
+      "picture": "https://images.prom.ua/6484974061_koritsa-tsejlonskayashri-lankaves1kg.jpg",
+      "available": true
+    },
+    {
+      "id": "1453904163",
+      "name": "Натуральна стевія,екстракт у порошку.(Китай).Вага:50г.",
+      "price": 500.0,
+      "category_id": "87239778",
+      "category_name": "Подсластители натуральные",
+      "picture": "https://images.prom.ua/6276346196_naturalnaya-steviyaekstrakt-v.jpg",
+      "available": true
+    },
+    {
+      "id": "1453904683",
+      "name": "Натуральна стевія,екстракт у порошку.(Китай).Вага:100г.",
+      "price": 1000.0,
+      "category_id": "87239778",
+      "category_name": "Подсластители натуральные",
+      "picture": "https://images.prom.ua/6276346196_naturalnaya-steviyaekstrakt-v.jpg",
+      "available": true
+    },
+    {
+      "id": "1453904803",
+      "name": "Натуральна стевія,екстракт у порошку.(Китай).Вага:250г.",
+      "price": 2500.0,
+      "category_id": "87239778",
+      "category_name": "Подсластители натуральные",
+      "picture": "https://images.prom.ua/6276346196_naturalnaya-steviyaekstrakt-v.jpg",
+      "available": true
+    },
+    {
+      "id": "1453905088",
+      "name": "Натуральна стевія,екстракт у порошку.(Китай).Вага:500г.",
+      "price": 5000.0,
+      "category_id": "87239778",
+      "category_name": "Подсластители натуральные",
+      "picture": "https://images.prom.ua/6276346196_naturalnaya-steviyaekstrakt-v.jpg",
+      "available": true
+    },
+    {
+      "id": "1453905359",
+      "name": "Натуральна стевія,екстракт у порошку.(Китай).Вага:1кг.",
+      "price": 8000.0,
+      "category_id": "87239778",
+      "category_name": "Подсластители натуральные",
+      "picture": "https://images.prom.ua/6276346196_naturalnaya-steviyaekstrakt-v.jpg",
+      "available": true
+    },
+    {
+      "id": "1453910474",
+      "name": "Ізомальт (Китай).Вага:100г.",
+      "price": 50.0,
+      "category_id": "4758936",
+      "category_name": "Подсластители синтетические",
+      "picture": "https://images.prom.ua/6484954539_izomalt-kitajves100gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1453910494",
+      "name": "Ізомальт (Китай).Вага:250г.",
+      "price": 100.0,
+      "category_id": "4758936",
+      "category_name": "Подсластители синтетические",
+      "picture": "https://images.prom.ua/6484954539_izomalt-kitajves250gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1453910506",
+      "name": "Ізомальт (Китай).Вага:500г.",
+      "price": 225.0,
+      "category_id": "4758936",
+      "category_name": "Подсластители синтетические",
+      "picture": "https://images.prom.ua/6484954539_izomalt-kitajves500gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1453910548",
+      "name": "Ізомальт (Китай).Вага:1кг.",
+      "price": 400.0,
+      "category_id": "4758936",
+      "category_name": "Подсластители синтетические",
+      "picture": "https://images.prom.ua/6484954539_izomalt-kitajves1kg.jpg",
+      "available": true
+    },
+    {
+      "id": "1453911076",
+      "name": "Пектин фруктовий (термозворотний) NH ТМ Foodchem (Китай).Вага:50г.",
+      "price": 200.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276346196_pektin-fruktovyj-termoobratimyj.jpg",
+      "available": true
+    },
+    {
+      "id": "1453911203",
+      "name": "Пектин фруктовий (термозворотний) NH ТМ  Foodchem (Китай).Вага:100грамів.",
+      "price": 300.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276346196_pektin-termoobratimyj-nh.jpg",
+      "available": true
+    },
+    {
+      "id": "1453911260",
+      "name": "Пектин фруктовий (термозворотний) NH ТМ  Foodchem (Китай).Вага:250г.",
+      "price": 750.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276346196_pektin-fruktovyj-termoobratimyj.jpg",
+      "available": true
+    },
+    {
+      "id": "1453911283",
+      "name": "Пектин фруктовий (термозворотний) NH ТМ  Foodchem (Китай).Вага:500г.",
+      "price": 1400.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276346196_pektin-fruktovyj-termoobratimyj.jpg",
+      "available": true
+    },
+    {
+      "id": "1453911314",
+      "name": "Пектин фруктовий (термозворотний) NH ТМ  Foodchem (Китай).Вага:1кг.",
+      "price": 2800.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276346196_pektin-fruktovyj-termoobratimyj.jpg",
+      "available": true
+    },
+    {
+      "id": "1454415276",
+      "name": "Фісташкова паста (Україна).Вага:250г.",
+      "price": 600.0,
+      "category_id": "89326089",
+      "category_name": "Натуральные ореховые пасты",
+      "picture": "https://images.prom.ua/3251181823_fistashkovaya-pasta-ukrainaves250gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1454415285",
+      "name": "Фісташкова паста (Україна).Вага:500г.",
+      "price": 1200.0,
+      "category_id": "89326089",
+      "category_name": "Натуральные ореховые пасты",
+      "picture": "https://images.prom.ua/3251181823_fistashkovaya-pasta-ukrainaves500gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1459837437",
+      "name": "Арахісова паста класична (Україна).Вага:250г.",
+      "price": 110.0,
+      "category_id": "89326089",
+      "category_name": "Натуральные ореховые пасты",
+      "picture": "https://images.prom.ua/3269037975_arahisovaya-pasta-klassicheskayaukrainaves250gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1459851652",
+      "name": "Арахісова паста класична (Україна).Вага:500г.",
+      "price": 200.0,
+      "category_id": "89326089",
+      "category_name": "Натуральные ореховые пасты",
+      "picture": "https://images.prom.ua/3269037975_arahisovaya-pasta-klassicheskayaukrainaves500gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1459853513",
+      "name": "Арахісова паста класична (Україна).Вага:1кг.",
+      "price": 375.0,
+      "category_id": "89326089",
+      "category_name": "Натуральные ореховые пасты",
+      "picture": "https://images.prom.ua/3269037975_arahisovaya-pasta-klassicheskayaukrainaves1kg.jpg",
+      "available": true
+    },
+    {
+      "id": "1466900927",
+      "name": "Харчові дріжджі неактивні(пластівці) (Франція).Вага:1кг.",
+      "price": 750.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6484931645_pischevye-drozhzhi-neaktivnyehlopya.jpg",
+      "available": true
+    },
+    {
+      "id": "1502785478",
+      "name": "Какао порошок світлий 12% (Польща).Вага:500г.",
+      "price": 185.0,
+      "category_id": "4876472",
+      "category_name": "Какао порошок",
+      "picture": "https://images.prom.ua/6409670901_kakao-poroshok-svetlyj.jpg",
+      "available": true
+    },
+    {
+      "id": "1502786053",
+      "name": "Какао порошок світлий 12% (Польща).Вага:1кг.",
+      "price": 350.0,
+      "category_id": "4876472",
+      "category_name": "Какао порошок",
+      "picture": "https://images.prom.ua/6409670901_kakao-poroshok-svetlyj.jpg",
+      "available": true
+    },
+    {
+      "id": "1502789730",
+      "name": "Какао порошок темний 12%(Польща).Вага:500г.",
+      "price": 185.0,
+      "category_id": "4876472",
+      "category_name": "Какао порошок",
+      "picture": "https://images.prom.ua/6409671488_kakao-poroshok-temnyj.jpg",
+      "available": true
+    },
+    {
+      "id": "1502790574",
+      "name": "Какао порошок темний 12% (Польща).Вага:1кг.",
+      "price": 350.0,
+      "category_id": "4876472",
+      "category_name": "Какао порошок",
+      "picture": "https://images.prom.ua/6409671488_kakao-poroshok-temnyj.jpg",
+      "available": true
+    },
+    {
+      "id": "1502797535",
+      "name": "Полідидекстроза (Китай).Вага:500г.",
+      "price": 100.0,
+      "category_id": "4758936",
+      "category_name": "Подсластители синтетические",
+      "picture": "https://images.prom.ua/6484954539_polidekstroza-kitajves500gr.jpg",
+      "available": false
+    },
+    {
+      "id": "1502797563",
+      "name": "Полідидекстроза (Китай).Вага:1кг.",
+      "price": 180.0,
+      "category_id": "4758936",
+      "category_name": "Подсластители синтетические",
+      "picture": "https://images.prom.ua/6484954539_polidekstroza-kitajves1kg.jpg",
+      "available": false
+    },
+    {
+      "id": "1535547026",
+      "name": "Мішок кондитерський (55 см) ТМ Hygostar (Німеччина).1шт.",
+      "price": 20.0,
+      "category_id": "60399313",
+      "category_name": "Все для кондитера",
+      "picture": "https://images.prom.ua/6574197478_meshok-konditerskij-55.jpg",
+      "available": true
+    },
+    {
+      "id": "1536945519",
+      "name": "Барвник Діоксид титану (білий) (харчовий).Вага:500г.",
+      "price": 190.0,
+      "category_id": "4754901",
+      "category_name": "Красители пищевые",
+      "picture": "https://images.prom.ua/3167868202_krasitel-dioksid-titana.jpg",
+      "available": true
+    },
+    {
+      "id": "1540557998",
+      "name": "Поталь імітація срібла ( Листи для декоративної обробки) 100 аркушів (8х8см)",
+      "price": 250.0,
+      "category_id": "60399313",
+      "category_name": "Все для кондитера",
+      "picture": "https://images.prom.ua/3532532994_potal-imitatsiya-serebra.jpg",
+      "available": true
+    },
+    {
+      "id": "1574337491",
+      "name": "Поталь імітація золота (Китай) 100 аркушів (14х14см)",
+      "price": 400.0,
+      "category_id": "60399313",
+      "category_name": "Все для кондитера",
+      "picture": "https://images.prom.ua/3641390256_potal-imitatsiya-zolota.jpg",
+      "available": true
+    },
+    {
+      "id": "1631991630",
+      "name": "Дріжджі неактивні(пластівці) (Франція).Вага:500г.",
+      "price": 400.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6484931645_pischevye-drozhzhi-neaktivnyehlopya.jpg",
+      "available": true
+    },
+    {
+      "id": "1631992057",
+      "name": "Харчові дріжджі неактивні(пластівці) (Франція).Вага:250г.",
+      "price": 200.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6484931645_pischevye-drozhzhi-neaktivnyehlopya.jpg",
+      "available": true
+    },
+    {
+      "id": "1635793583",
+      "name": "Спаржа соєва сушена Фучжу (Китай).Вага:1кг.",
+      "price": 600.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6344392910_sparzha-soevaya-sushenaya.jpg",
+      "available": true
+    },
+    {
+      "id": "1646636461",
+      "name": "Барвник Двоокис титану (суспензія) Україна:Вага:0.5кг.",
+      "price": 140.0,
+      "category_id": "4754901",
+      "category_name": "Красители пищевые",
+      "picture": "https://images.prom.ua/6484936837_krasitel-dioksid-titana.jpg",
+      "available": true
+    },
+    {
+      "id": "1654590803",
+      "name": "Альбумін 85% (яєчний білок) (Італія).Вага:250г.",
+      "price": 300.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276222036_albumin-85-yaichnyj.jpg",
+      "available": true
+    },
+    {
+      "id": "1654609332",
+      "name": "Молоко сухе цільне 26% ДСТУ (Україна).Вага:500г.",
+      "price": 185.0,
+      "category_id": "23546082",
+      "category_name": "Сухое молоко, сливки",
+      "picture": "https://images.prom.ua/6276349438_moloko-suhoe-tselnoe.jpg",
+      "available": true
+    },
+    {
+      "id": "1654610751",
+      "name": "Сухе молоко знежирене1.5% ДСТУ(Україна).Вага:500г.",
+      "price": 120.0,
+      "category_id": "23546082",
+      "category_name": "Сухое молоко, сливки",
+      "picture": "https://images.prom.ua/6276350123_suhoe-moloko-obezzhirennoe15.jpg",
+      "available": true
+    },
+    {
+      "id": "1654611548",
+      "name": "Сухі вершки 42% ДСТУ (Україна).Вага:500г.",
+      "price": 240.0,
+      "category_id": "23546082",
+      "category_name": "Сухое молоко, сливки",
+      "picture": "https://images.prom.ua/6276361555_suhie-slivki-42.jpg",
+      "available": true
+    },
+    {
+      "id": "1664101066",
+      "name": "Муер деревний гриб сушений (Китай).Вага:1кг.",
+      "price": 600.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6324247572_muer-drevesnyj-grib.jpg",
+      "available": true
+    },
+    {
+      "id": "1664101457",
+      "name": "Муер деревний гриб сушений(Китай).Вага:100г.",
+      "price": 125.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6324247572_muer-drevesnyj-grib.jpg",
+      "available": true
+    },
+    {
+      "id": "1664101474",
+      "name": "Муер деревний гриб сушений (Китай).Вага:250г.",
+      "price": 150.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6324247572_muer-drevesnyj-grib.jpg",
+      "available": true
+    },
+    {
+      "id": "1664101488",
+      "name": "Муер деревний гриб сушений (Китай).Вага:500г.",
+      "price": 300.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6324247572_muer-drevesnyj-grib.jpg",
+      "available": true
+    },
+    {
+      "id": "1666388672",
+      "name": "Желатин листовий (Халяль) 170 bloom ТМ Ewald,(Німеччина)  50 аркушів.(1 аркуш = 2,5 грама.)",
+      "price": 200.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6321700750_zhelatin-listovoj-halyal.jpg",
+      "available": true
+    },
+    {
+      "id": "1666388696",
+      "name": "Желатин листовий (Халяль) 170 bloom ТМ Ewald,(Німеччина)  100 аркушів.(1 аркуш = 2,5 грама.)",
+      "price": 400.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6321700750_zhelatin-listovoj-halyal.jpg",
+      "available": true
+    },
+    {
+      "id": "1666388740",
+      "name": "Желатин листовий (Халяль) 170 bloom  ТМ Ewald,(Німеччина) 200 аркушів.(1 аркуш = 2,5 грама.)",
+      "price": 750.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6321700750_zhelatin-listovoj-halyal.jpg",
+      "available": true
+    },
+    {
+      "id": "1666388772",
+      "name": "Желатин листовий (Халяль)170 bloom ТМ Ewald,(Німеччина)  400 аркушів.(1 аркуш = 2,5 грама.)",
+      "price": 1400.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6321700750_zhelatin-listovoj-halyal.jpg",
+      "available": true
+    },
+    {
+      "id": "1669610345",
+      "name": "Поталь імітація срібла (листи для декоративного оздоблення)100 аркушів (14x14см) Китай",
+      "price": 400.0,
+      "category_id": "60399313",
+      "category_name": "Все для кондитера",
+      "picture": "https://images.prom.ua/3532532994_potal-imitatsiya-serebra.jpg",
+      "available": true
+    },
+    {
+      "id": "1679436702",
+      "name": "Кунжутна паста Тахіні(Україна).Вага:250г.",
+      "price": 125.0,
+      "category_id": "34593334",
+      "category_name": "Кунжут",
+      "picture": "https://images.prom.ua/2451831742_kunzhutnaya-pasta-tahiniukrainaves250gr.jpg",
+      "available": true
+    },
+    {
+      "id": "1723136287",
+      "name": "Какао масло натуральне ТМ Favorich, Індонезія.Вага:500г.",
+      "price": 600.0,
+      "category_id": "4834758",
+      "category_name": "Какао масло",
+      "picture": "https://images.prom.ua/6295847942_kakao-maslo-naturalnoe.jpg",
+      "available": true
+    },
+    {
+      "id": "1723137283",
+      "name": "Какао масло натуральне ТМ Favorich, Індонезія.Вага:250г.",
+      "price": 325.0,
+      "category_id": "4834758",
+      "category_name": "Какао масло",
+      "picture": "https://images.prom.ua/6295847942_kakao-maslo-naturalnoe.jpg",
+      "available": true
+    },
+    {
+      "id": "1723138007",
+      "name": "Какао масло натуральне ТМ Favorich, Індонезія.Вага:150г.",
+      "price": 200.0,
+      "category_id": "4834758",
+      "category_name": "Какао масло",
+      "picture": "https://images.prom.ua/6295847942_kakao-maslo-naturalnoe.jpg",
+      "available": true
+    },
+    {
+      "id": "1859631168",
+      "name": "Альбумін 85% білка (яєчний білок) (Україна).Вага:250г.",
+      "price": 275.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276246769_albumin-85-belka.jpg",
+      "available": true
+    },
+    {
+      "id": "1898070939",
+      "name": "Желатин 240 bloom TM Gelita (Німеччина).Вага:1кг.",
+      "price": 600.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276253447_zhelatin-240-bloom.jpg",
+      "available": true
+    },
+    {
+      "id": "1898093495",
+      "name": "Желатин 240 bloom TM Gelita (Німеччина).Вага:500г.",
+      "price": 300.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276253447_zhelatin-240-bloom.jpg",
+      "available": true
+    },
+    {
+      "id": "1898096886",
+      "name": "Желатин 240 bloom TM Gelita (Німеччина).Вага:250г.",
+      "price": 165.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276253447_zhelatin-240-bloom.jpg",
+      "available": true
+    },
+    {
+      "id": "1898100589",
+      "name": "Желатин 240 bloom TM Gelita (Німеччина).Вага:100г.",
+      "price": 70.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276253447_zhelatin-240-bloom.jpg",
+      "available": true
+    },
+    {
+      "id": "2240919648",
+      "name": "Форма для шоколаду Герб України",
+      "price": 75.0,
+      "category_id": "84274419",
+      "category_name": "Формы пластиковые",
+      "picture": "https://images.prom.ua/5825689422_forma-dlya-shokoladu.jpg",
+      "available": true
+    },
+    {
+      "id": "2253896327",
+      "name": "Гімалайська рожева сіль дрібна(Пакистан).Вага:500г.",
+      "price": 75.0,
+      "category_id": "97601300",
+      "category_name": "Специи и пряности",
+      "picture": "https://images.prom.ua/6464611922_gimalajskaya-rozovaya-sol.jpg",
+      "available": true
+    },
+    {
+      "id": "2253896365",
+      "name": "Гімалайська рожева сіль дрібна(Пакистан).Вага:1кг.",
+      "price": 150.0,
+      "category_id": "97601300",
+      "category_name": "Специи и пряности",
+      "picture": "https://images.prom.ua/6464611922_gimalajskaya-rozovaya-sol.jpg",
+      "available": true
+    },
+    {
+      "id": "2270652974",
+      "name": "Альбумін 85% (яєчний білок) ТМ Ovopol (Польща).Вага:100г.",
+      "price": 125.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276246769_albumin-85-yaichnyj.jpg",
+      "available": true
+    },
+    {
+      "id": "2270683938",
+      "name": "Альбумін 85% (яєчний білок) ТМ Ovopol (Польща).Вага:250г.",
+      "price": 300.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276246769_albumin-85-yaichnyj.jpg",
+      "available": true
+    },
+    {
+      "id": "2270685427",
+      "name": "Альбумін 85% (яєчний білок) ТМ Ovopol (Польща).Вага:500г.",
+      "price": 575.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276246769_albumin-85-yaichnyj.jpg",
+      "available": true
+    },
+    {
+      "id": "2270690860",
+      "name": "Альбумін 85% (яєчний білок) ТМ Ovopol (Польща).Вага:1кг.",
+      "price": 1050.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276246769_albumin-85-yaichnyj.jpg",
+      "available": true
+    },
+    {
+      "id": "2302516891",
+      "name": "Мішок кондитерський (30см) ТМ Hygostar (Німеччина).1шт.",
+      "price": 15.0,
+      "category_id": "60399313",
+      "category_name": "Все для кондитера",
+      "picture": "https://images.prom.ua/6573116577_meshok-konditerskij-30sm.jpg",
+      "available": true
+    },
+    {
+      "id": "2310380615",
+      "name": "Желатин яловичий 240bloom (Туреччина).Вага:1кг.",
+      "price": 600.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6266162762_zhelatin-govyazhij-240bloom.jpg",
+      "available": true
+    },
+    {
+      "id": "2310382242",
+      "name": "Желатин яловичий 240bloom (Туреччина).Вага:500г.",
+      "price": 300.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6266162762_zhelatin-govyazhij-240bloom.jpg",
+      "available": true
+    },
+    {
+      "id": "2310383571",
+      "name": "Желатин яловичий 240 (Туреччина).Вага:250г.",
+      "price": 165.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6266162762_zhelatin-govyazhij-240.jpg",
+      "available": true
+    },
+    {
+      "id": "2310385339",
+      "name": "Желатин яловичий 240 (Туреччина).Вага:100г.",
+      "price": 70.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6266162762_zhelatin-govyazhij-240.jpg",
+      "available": true
+    },
+    {
+      "id": "2320400062",
+      "name": "Псиліум (порошок)(Індія).Вага:1кг.",
+      "price": 950.0,
+      "category_id": "61424714",
+      "category_name": "Суперфуды",
+      "picture": "https://images.prom.ua/6324147320_psillium-poroshokindiyaves1kg.jpg",
+      "available": true
+    },
+    {
+      "id": "2355176873",
+      "name": "Альбумін 85%(яєчний білок) (Італія).Вага:100гр.",
+      "price": 125.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276222036_albumin-85-yaichnyj.jpg",
+      "available": true
+    },
+    {
+      "id": "2355187816",
+      "name": "Альбумін 85% білка (яєчний білок) (Україна).Вага:100г.",
+      "price": 110.0,
+      "category_id": "5268576",
+      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "picture": "https://images.prom.ua/6276246769_albumin-85-belka.jpg",
+      "available": true
+    },
+    {
+      "id": "2420784658",
+      "name": "Кедровий горіх(Китай).Вага:250г.",
+      "price": 600.0,
+      "category_id": "13894011",
+      "category_name": "Орехи",
+      "picture": "https://images.prom.ua/7453513731_kedrovyj-orehkitajves250gr.jpg",
+      "available": true
+    },
+    {
+      "id": "2446044447",
+      "name": "Ароматизатор Бейліс Польща ТМ JAR .Об'єм:30мл.",
+      "price": 100.0,
+      "category_id": "93810767",
+      "category_name": "Ароматизаторы",
+      "picture": "https://images.prom.ua/7324937505_aromatizator-bejlis-polsha.jpg",
+      "available": true
+    },
+    {
+      "id": "2446070983",
+      "name": "Ароматизатор Ірландський крем ,Польща ТМ JAR .Об'єм:30мл.",
+      "price": 100.0,
+      "category_id": "93810767",
+      "category_name": "Ароматизаторы",
+      "picture": "https://images.prom.ua/7324935261_aromatizator-irlandskij-krem.jpg",
+      "available": true
+    },
+    {
+      "id": "2475699346",
+      "name": "Водорості Норі ТМ Dong Bao(Китай).100 аркушів 280г.",
+      "price": 650.0,
+      "category_id": "96168789",
+      "category_name": "Продукты для приготовления суши",
+      "picture": "https://images.prom.ua/3323814861_vodorosli-nori-tm.jpg",
+      "available": true
+    },
+    {
+      "id": "2513340157",
+      "name": "Ложка мірна 5 грам.",
+      "price": 15.0,
+      "category_id": "60399313",
+      "category_name": "Все для кондитера",
+      "picture": "https://images.prom.ua/6510442647_lozhka-mernaya-5.jpg",
+      "available": true
+    },
+    {
+      "id": "2548457617",
+      "name": "Вінчик пластиковий(Китай).1шт.",
+      "price": 25.0,
+      "category_id": "60399313",
+      "category_name": "Все для кондитера",
+      "picture": "https://images.prom.ua/6598378930_venchik-plastikovyjkitaj1sht.jpg",
+      "available": true
+    },
+    {
+      "id": "2548486231",
+      "name": "Лопатка силіконова (210мм). 1шт.",
+      "price": 50.0,
+      "category_id": "60399313",
+      "category_name": "Все для кондитера",
+      "picture": "https://images.prom.ua/6598377493_lopatka-silikonovaya-210mm.jpg",
+      "available": true
+    },
+    {
+      "id": "2548504272",
+      "name": "Скребок овальний кондитерський (120мм. х 90мм.) 1шт.",
+      "price": 50.0,
+      "category_id": "60399313",
+      "category_name": "Все для кондитера",
+      "picture": "https://images.prom.ua/6598371317_skrebok-ovalnyj-konditerskij.jpg",
+      "available": true
+    },
+    {
+      "id": "3005196433",
+      "name": "Мак кондитерський(Чехія).Вага:1кг.",
+      "price": 250.0,
+      "category_id": "97601300",
+      "category_name": "Специи и пряности",
+      "picture": "https://images.prom.ua/7324665566_mak-konditerskijchehiyaves1kg.jpg",
+      "available": true
+    },
+    {
+      "id": "3005226380",
+      "name": "Мак кондитерський(Чехія).Вага:500г.",
+      "price": 175.0,
+      "category_id": "97601300",
+      "category_name": "Специи и пряности",
+      "picture": "https://images.prom.ua/7324665566_mak-konditerskijchehiyaves500gr.jpg",
+      "available": true
+    },
+    {
+      "id": "3066556796",
+      "name": "Ложка мірна 10/20/30 мл.",
+      "price": 30.0,
+      "category_id": "60399313",
+      "category_name": "Все для кондитера",
+      "picture": "https://images.prom.ua/7423655881_lozhka-mernaya-102030.jpg",
+      "available": true
+    },
+    {
+      "id": "3078317333",
+      "name": "Какао терте (дропси) ТМ Nederland. Вага: 1кг.",
+      "price": 800.0,
+      "category_id": "4833828",
+      "category_name": "Какао тертое",
+      "picture": "https://images.prom.ua/7453468534_kakao-tertoe-dropsytm.jpg",
+      "available": true
+    },
+    {
+      "id": "3078446122",
+      "name": "Какао терте (дропси) ТМ Nederland. Вага: 500г.",
+      "price": 425.0,
+      "category_id": "4833828",
+      "category_name": "Какао тертое",
+      "picture": "https://images.prom.ua/7453468534_kakao-tertoe-dropsytm.jpg",
+      "available": true
+    },
+    {
+      "id": "3078456999",
+      "name": "Какао терте (дропси) ТМ Nederland. Вага: 250г.",
+      "price": 235.0,
+      "category_id": "4833828",
+      "category_name": "Какао тертое",
+      "picture": "https://images.prom.ua/7453468534_kakao-tertoe-dropsytm.jpg",
+      "available": true
+    },
+    {
+      "id": "3078466870",
+      "name": "Какао терте (дропси) ТМ Nederland. Вага: 150г.",
+      "price": 150.0,
+      "category_id": "4833828",
+      "category_name": "Какао тертое",
+      "picture": "https://images.prom.ua/7453468534_kakao-tertoe-dropsytm.jpg",
+      "available": true
+    },
+    {
+      "id": "3093683915",
+      "name": "Етілмальтол Е-637(Китай).Вага:1кг.",
+      "price": 1500.0,
+      "category_id": "4758971",
+      "category_name": "Усилители вкуса",
+      "picture": "https://images.prom.ua/6484548092_etilmaltol-e-637kitajves1kg.jpg",
+      "available": true
+    },
+    {
+      "id": "3161091442",
+      "name": "Ложка мірна 5 грам.",
+      "price": 15.0,
+      "category_id": "60399313",
+      "category_name": "Все для кондитера",
+      "picture": "https://images.prom.ua/7639002577_lozhka-mernaya-5.jpg",
+      "available": true
+    }
+  ]
+}
