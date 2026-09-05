@@ -22,7 +22,9 @@
   .search span{position:absolute;left:11px;top:50%;transform:translateY(-50%);color:var(--muted);}
 
   .catlist{padding:0 16px;}
-  .catrow{display:flex;align-items:center;justify-content:space-between;padding:14px 4px;border-bottom:1px solid var(--border);font-size:14.5px;font-weight:500;}
+  .catrow{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:14px 4px;border-bottom:1px solid var(--border);font-size:14.5px;font-weight:500;}
+  .catrow .catname{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;flex:1;}
+  .catrow .arrow{color:var(--text);font-size:18px;font-weight:700;flex:none;}
   .catrow .cnt{font-size:12px;color:var(--muted);}
   .catrow .arrow{color:var(--muted);margin-left:8px;}
 
@@ -122,7 +124,7 @@ function renderCatList(){
   var catIds = Object.keys(DATA.categories).filter(function(id){ return counts[id]; });
   var el = document.getElementById('catlist');
   el.innerHTML = catIds.map(function(id){
-    return '<div class="catrow" data-id="' + id + '"><span>' + DATA.categories[id] + '</span><span><span class="cnt">' + counts[id] + '</span><span class="arrow">›</span></span></div>';
+    return '<div class="catrow" data-id="' + id + '"><span class="catname">' + DATA.categories[id] + '</span><span class="arrow">›</span></div>';
   }).join('');
   var rows = el.querySelectorAll('.catrow');
   for (var i = 0; i < rows.length; i++) {
