@@ -1,44 +1,44 @@
 {
   "categories": {
-    "75262432": "Натуральный шоколад",
-    "84274419": "Формы пластиковые",
-    "84304920": "Кокосовый сахар и тростниковый",
-    "84308336": "Растительные сливки и молоко",
-    "86688526": "Кондитерская мука",
-    "87720145": "Масла растительные",
-    "89326089": "Натуральные ореховые пасты",
-    "93725288": "Сиропы",
-    "93810767": "Ароматизаторы",
-    "97601300": "Специи и пряности",
-    "4754901": "Красители пищевые",
-    "4758936": "Подсластители синтетические",
-    "4801510": "Какао бобы",
+    "75262432": "Натуральний шоколад",
+    "84274419": "Форми пластикові",
+    "84304920": "Кокосовий цукор і тростинний",
+    "84308336": "Рослинні вершки та молоко",
+    "86688526": "Кондитерське борошно",
+    "87720145": "Олії рослинні",
+    "89326089": "Натуральні горіхові пасти",
+    "93725288": "Сиропи",
+    "93810767": "Ароматизатори",
+    "97601300": "Спеції і прянощі",
+    "4754901": "Харчові барвники",
+    "4758936": "Підсолоджувачі синтетичні",
+    "4801510": "Какао боби",
     "4876472": "Какао порошок",
-    "5268576": "Агар-Агар, Альбумин, Желатин, Пектин.",
-    "5434236": "Кокосовое масло",
-    "7474477": "Кэроб натуральный заменитель кофе, какао",
-    "13895369": "Сухофрукты и ягоды",
-    "23546082": "Сухое молоко, сливки",
-    "30881085": "Пропиленгликоль / глицерин",
+    "5268576": "Агар-Агар, Альбумін, Желатин, Пектин",
+    "5434236": "Кокосова олія",
+    "7474477": "Кероб натуральний замінник кави, какао",
+    "13895369": "Сухофрукти та ягоди",
+    "23546082": "Сухе молоко, вершки",
+    "30881085": "Пропіленгліколь / гліцерин",
     "32910780": "Масло жожоба",
     "34593334": "Кунжут",
     "60399313": "Все для кондитера",
-    "61424714": "Суперфуды",
-    "93760388": "Подарочный сертификат",
+    "61424714": "Суперфуди",
+    "93760388": "Подарунковий сертифікат",
     "4834758": "Какао масло",
     "4876295": "Мальтодекстрин",
-    "4833828": "Какао тертое",
-    "36468700": "Миндальная мука",
-    "38508653": "Кокосовая мука",
-    "34619899": "Кокосовая стружка",
-    "66335282": "Водоросли и морская капуста",
-    "92868476": "Глазурь Кондитерская",
-    "13894011": "Орехи",
-    "4754926": "Консерванты пищевые",
-    "4758971": "Усилители вкуса",
-    "4843101": "Ванилин и специи",
-    "96168789": "Продукты для приготовления суши",
-    "87239778": "Подсластители натуральные"
+    "4833828": "Какао терте",
+    "36468700": "Мигдальне борошно",
+    "38508653": "Кокосове борошно",
+    "34619899": "Кокосова стружка",
+    "66335282": "Водорості та морська капуста",
+    "92868476": "Глазур Кондитерська",
+    "13894011": "Горіхи",
+    "4754926": "Консерванти харчові",
+    "4758971": "Підсилювачі смаку",
+    "4843101": "Ванілін і спеції",
+    "96168789": "Продукти для приготування суші",
+    "87239778": "Підсолоджувачі натуральні"
   },
   "products": [
     {
@@ -49,7 +49,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 35.0,
       "category_id": "4754901",
-      "category_name": "Красители пищевые",
+      "category_name": "Харчові барвники",
       "picture": "https://images.prom.ua/3167868202_krasitel-dioksid-titana.jpg",
       "available": true
     },
@@ -73,7 +73,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 14.0,
       "category_id": "4754926",
-      "category_name": "Консерванты пищевые",
+      "category_name": "Консерванти харчові",
       "picture": "https://images.prom.ua/6276261720_benzoat-natriya-e-211.jpg",
       "available": true
     },
@@ -85,7 +85,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 35.0,
       "category_id": "4754926",
-      "category_name": "Консерванты пищевые",
+      "category_name": "Консерванти харчові",
       "picture": "https://images.prom.ua/6276346196_sorbinovaya-kislota-e-200.jpg",
       "available": true
     },
@@ -97,7 +97,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 30.0,
       "category_id": "4758936",
-      "category_name": "Подсластители синтетические",
+      "category_name": "Підсолоджувачі синтетичні",
       "picture": "https://images.prom.ua/6484954539_tsiklamat-natriya-e-952.jpg",
       "available": true
     },
@@ -109,7 +109,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 30.0,
       "category_id": "4843101",
-      "category_name": "Ванилин и специи",
+      "category_name": "Ванілін і спеції",
       "picture": "https://images.prom.ua/6276346196_vanilin-poroshkovyj-ukrainaves1kg.jpg",
       "available": true
     },
@@ -121,7 +121,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 13.0,
       "category_id": "4754901",
-      "category_name": "Красители пищевые",
+      "category_name": "Харчові барвники",
       "picture": "https://images.prom.ua/1155503906_krasitel-karamelnyj-e150.jpg",
       "available": true
     },
@@ -133,7 +133,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 14.0,
       "category_id": "4758971",
-      "category_name": "Усилители вкуса",
+      "category_name": "Підсилювачі смаку",
       "picture": "https://images.prom.ua/1154063222_glutamat-natriya-e-621kitajves1kg.jpg",
       "available": true
     },
@@ -145,7 +145,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 30.0,
       "category_id": "4754926",
-      "category_name": "Консерванты пищевые",
+      "category_name": "Консерванти харчові",
       "picture": "https://images.prom.ua/6276346196_askorbinovaya-kislota-e300.jpg",
       "available": true
     },
@@ -157,7 +157,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 30.0,
       "category_id": "4754926",
-      "category_name": "Консерванты пищевые",
+      "category_name": "Консерванти харчові",
       "picture": "https://images.prom.ua/6486134671_sorbat-kaliya-e-202.jpg",
       "available": true
     },
@@ -169,7 +169,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 75.0,
       "category_id": "4801510",
-      "category_name": "Какао бобы",
+      "category_name": "Какао боби",
       "picture": "https://images.prom.ua/6295676512_kakao-boby-syrye.jpg",
       "available": true
     },
@@ -181,7 +181,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 85.0,
       "category_id": "4833828",
-      "category_name": "Какао тертое",
+      "category_name": "Какао терте",
       "picture": "https://images.prom.ua/6300096621_kakao-tertoe-monolit.jpg",
       "available": true
     },
@@ -193,7 +193,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 110.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276213551_agar-agar1200-ispaniyaves1kg.jpg",
       "available": true
     },
@@ -205,7 +205,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 73.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276263135_pektin-tsitrusovyj-tm.jpg",
       "available": true
     },
@@ -217,7 +217,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "30881085",
-      "category_name": "Пропиленгликоль / глицерин",
+      "category_name": "Пропіленгліколь / гліцерин",
       "picture": "https://images.prom.ua/6486133924_propilenglikol-999-basf.jpg",
       "available": true
     },
@@ -241,7 +241,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 50.0,
       "category_id": "4758936",
-      "category_name": "Подсластители синтетические",
+      "category_name": "Підсолоджувачі синтетичні",
       "picture": "https://images.prom.ua/6484954539_saharinat-natriya-e-954.jpg",
       "available": true
     },
@@ -253,7 +253,7 @@
       "package_weight_grams": 150.0,
       "price_per_100g": 83.33,
       "category_id": "4801510",
-      "category_name": "Какао бобы",
+      "category_name": "Какао боби",
       "picture": "https://images.prom.ua/6295676512_kakao-boby-syrye.jpg",
       "available": true
     },
@@ -265,7 +265,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 21.0,
       "category_id": "30881085",
-      "category_name": "Пропиленгликоль / глицерин",
+      "category_name": "Пропіленгліколь / гліцерин",
       "picture": "https://images.prom.ua/6362634093_glitserin-tm-basf.jpg",
       "available": true
     },
@@ -277,7 +277,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 15.0,
       "category_id": "87239778",
-      "category_name": "Подсластители натуральные",
+      "category_name": "Підсолоджувачі натуральні",
       "picture": "https://images.prom.ua/6484954539_fruktoza-turtsiyaves1-kg.jpg",
       "available": true
     },
@@ -289,7 +289,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 65.0,
       "category_id": "4754901",
-      "category_name": "Красители пищевые",
+      "category_name": "Харчові барвники",
       "picture": "https://images.prom.ua/1155506485_krasitel-tartrazin-zheltyj.jpg",
       "available": true
     },
@@ -301,7 +301,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 70.0,
       "category_id": "4754901",
-      "category_name": "Красители пищевые",
+      "category_name": "Харчові барвники",
       "picture": "https://images.prom.ua/1155509060_krasitel-solnechnyj-zakat.jpg",
       "available": true
     },
@@ -313,7 +313,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 100.0,
       "category_id": "4754901",
-      "category_name": "Красители пищевые",
+      "category_name": "Харчові барвники",
       "picture": "https://images.prom.ua/1155510832_krasitel-karmoizin-krasnyj.jpg",
       "available": true
     },
@@ -325,7 +325,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 90.0,
       "category_id": "4754901",
-      "category_name": "Красители пищевые",
+      "category_name": "Харчові барвники",
       "picture": "https://images.prom.ua/1155514406_krasitel-ponso-4r.jpg",
       "available": true
     },
@@ -337,7 +337,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 140.0,
       "category_id": "4754901",
-      "category_name": "Красители пищевые",
+      "category_name": "Харчові барвники",
       "picture": "https://images.prom.ua/1987271222_krasitel-allyura-krasnyj.jpg",
       "available": true
     },
@@ -349,7 +349,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 180.0,
       "category_id": "4754901",
-      "category_name": "Красители пищевые",
+      "category_name": "Харчові барвники",
       "picture": "https://images.prom.ua/1155516616_krasitel-indigokarmin-sinij.jpg",
       "available": true
     },
@@ -361,7 +361,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 150.0,
       "category_id": "4754901",
-      "category_name": "Красители пищевые",
+      "category_name": "Харчові барвники",
       "picture": "https://images.prom.ua/1155518820_krasitel-brilliantovyj-goluboj.jpg",
       "available": true
     },
@@ -373,7 +373,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 100.0,
       "category_id": "4754901",
-      "category_name": "Красители пищевые",
+      "category_name": "Харчові барвники",
       "picture": "https://images.prom.ua/1155521319_krasitel-korichnevyj-shokolad-chocolate.jpg",
       "available": true
     },
@@ -385,7 +385,7 @@
       "package_weight_grams": 150.0,
       "price_per_100g": 133.33,
       "category_id": "4833828",
-      "category_name": "Какао тертое",
+      "category_name": "Какао терте",
       "picture": "https://images.prom.ua/6300096621_kakao-tertoe-monolit.jpg",
       "available": true
     },
@@ -397,7 +397,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 75.0,
       "category_id": "4833828",
-      "category_name": "Какао тертое",
+      "category_name": "Какао терте",
       "picture": "https://images.prom.ua/6300119766_kakao-tertoe-ukrainaves1kg.jpg",
       "available": true
     },
@@ -433,7 +433,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 10.0,
       "category_id": "93725288",
-      "category_name": "Сиропы",
+      "category_name": "Сиропи",
       "picture": "https://images.prom.ua/248123238_sirop-glyukoznyj-patoka.jpg",
       "available": true
     },
@@ -445,7 +445,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 95.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276246769_albumin-85-belka.jpg",
       "available": true
     },
@@ -457,7 +457,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 80.0,
       "category_id": "4754901",
-      "category_name": "Красители пищевые",
+      "category_name": "Харчові барвники",
       "picture": "https://images.prom.ua/1155523078_krasitel-zelenoe-yabloko.jpg",
       "available": true
     },
@@ -469,7 +469,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 17.5,
       "category_id": "7474477",
-      "category_name": "Кэроб натуральный заменитель кофе, какао",
+      "category_name": "Кероб натуральний замінник кави, какао",
       "picture": "https://images.prom.ua/6321676464_kerob-lajt-slaboj.jpg",
       "available": true
     },
@@ -481,7 +481,7 @@
       "package_weight_grams": 100.0,
       "price_per_100g": 125.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276213551_agar-agar1200-ispaniyaves100gr.jpg",
       "available": true
     },
@@ -493,7 +493,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 73.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276261720_pektin-yablochnyj-tm.jpg",
       "available": true
     },
@@ -517,7 +517,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 57.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276253447_zhelatin-220-bloom.jpg",
       "available": true
     },
@@ -541,7 +541,7 @@
       "package_weight_grams": 100.0,
       "price_per_100g": 90.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276263135_pektin-tsitrusovyj-tm.jpg",
       "available": true
     },
@@ -553,7 +553,7 @@
       "package_weight_grams": 100.0,
       "price_per_100g": 90.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276261720_pektin-yablochnyj-tm.jpg",
       "available": true
     },
@@ -565,7 +565,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 17.5,
       "category_id": "7474477",
-      "category_name": "Кэроб натуральный заменитель кофе, какао",
+      "category_name": "Кероб натуральний замінник кави, какао",
       "picture": "https://images.prom.ua/6321673892_kerob-medium-obzharennyj.jpg",
       "available": true
     },
@@ -577,7 +577,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 105.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276222036_albumin-85-yaichnyj.jpg",
       "available": true
     },
@@ -589,7 +589,7 @@
       "package_weight_grams": 100.0,
       "price_per_100g": 70.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276253447_zhelatin-220-bloom.jpg",
       "available": true
     },
@@ -613,7 +613,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 45.0,
       "category_id": "23546082",
-      "category_name": "Сухое молоко, сливки",
+      "category_name": "Сухе молоко, вершки",
       "picture": "https://images.prom.ua/6276361555_suhie-slivki-42.jpg",
       "available": true
     },
@@ -625,7 +625,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 22.0,
       "category_id": "23546082",
-      "category_name": "Сухое молоко, сливки",
+      "category_name": "Сухе молоко, вершки",
       "picture": "https://images.prom.ua/6276350123_suhoe-moloko-obezzhirennoe.jpg",
       "available": true
     },
@@ -637,7 +637,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 10.0,
       "category_id": "4758936",
-      "category_name": "Подсластители синтетические",
+      "category_name": "Підсолоджувачі синтетичні",
       "picture": "https://images.prom.ua/6276346196_dekstroza-glyukoza-kitajves1kg.jpg",
       "available": true
     },
@@ -649,7 +649,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "30881085",
-      "category_name": "Пропиленгликоль / глицерин",
+      "category_name": "Пропіленгліколь / гліцерин",
       "picture": "https://images.prom.ua/6362633849_glitserin-tm-basf.jpg",
       "available": true
     },
@@ -661,7 +661,7 @@
       "package_weight_grams": 5000.0,
       "price_per_100g": 19.0,
       "category_id": "30881085",
-      "category_name": "Пропиленгликоль / глицерин",
+      "category_name": "Пропіленгліколь / гліцерин",
       "picture": "https://images.prom.ua/3447522981_glitserin-tm-basf.jpg",
       "available": true
     },
@@ -673,7 +673,7 @@
       "package_weight_grams": 10000.0,
       "price_per_100g": 17.0,
       "category_id": "30881085",
-      "category_name": "Пропиленгликоль / глицерин",
+      "category_name": "Пропіленгліколь / гліцерин",
       "picture": "https://images.prom.ua/3447525403_glitserin-tm-basf.jpg",
       "available": true
     },
@@ -685,7 +685,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "30881085",
-      "category_name": "Пропиленгликоль / глицерин",
+      "category_name": "Пропіленгліколь / гліцерин",
       "picture": "https://images.prom.ua/3447544302_propilenglikol-999-basf.jpg",
       "available": true
     },
@@ -697,7 +697,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "30881085",
-      "category_name": "Пропиленгликоль / глицерин",
+      "category_name": "Пропіленгліколь / гліцерин",
       "picture": "https://images.prom.ua/3447542140_propilenglikol-999-basf.jpg",
       "available": true
     },
@@ -709,7 +709,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 60.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276253447_zhelatin-220-bloom.jpg",
       "available": true
     },
@@ -721,7 +721,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 57.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276253447_zhelatin-220-bloom.jpg",
       "available": true
     },
@@ -733,7 +733,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 120.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276213551_agar-agar-1200.jpg",
       "available": true
     },
@@ -745,7 +745,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 115.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276213551_agar-agar1200-ispaniyaves500gr.jpg",
       "available": true
     },
@@ -757,7 +757,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 80.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276263135_pektin-tsitrusovyj-tm.jpg",
       "available": true
     },
@@ -769,7 +769,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 80.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276263135_pektin-tsitrusovyj-tm.jpg",
       "available": true
     },
@@ -781,7 +781,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 80.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276261720_pektin-yablochnyj-tm.jpg",
       "available": true
     },
@@ -793,7 +793,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 80.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276261720_pektin-yablochnyj-tm.jpg",
       "available": true
     },
@@ -805,7 +805,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 115.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276222036_albumin-85-yaichnyj.jpg",
       "available": true
     },
@@ -817,7 +817,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 95.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276246769_albumin-85-belka.jpg",
       "available": true
     },
@@ -829,7 +829,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 92.0,
       "category_id": "4833828",
-      "category_name": "Какао тертое",
+      "category_name": "Какао терте",
       "picture": "https://images.prom.ua/6300096621_kakao-tertoe-monolit.jpg",
       "available": true
     },
@@ -841,7 +841,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 75.0,
       "category_id": "4833828",
-      "category_name": "Какао тертое",
+      "category_name": "Какао терте",
       "picture": "https://images.prom.ua/6300119766_kakao-tertoe-ukrainaves500gr.jpg",
       "available": true
     },
@@ -853,7 +853,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 80.0,
       "category_id": "4833828",
-      "category_name": "Какао тертое",
+      "category_name": "Какао терте",
       "picture": "https://images.prom.ua/6300119766_kakao-tertoe-ukrainaves250gr.jpg",
       "available": true
     },
@@ -865,7 +865,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 80.0,
       "category_id": "4801510",
-      "category_name": "Какао бобы",
+      "category_name": "Какао боби",
       "picture": "https://images.prom.ua/6295676512_kakao-boby-syrye.jpg",
       "available": true
     },
@@ -877,7 +877,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 70.0,
       "category_id": "4801510",
-      "category_name": "Какао бобы",
+      "category_name": "Какао боби",
       "picture": "https://images.prom.ua/6295676512_kakao-boby-syrye.jpg",
       "available": true
     },
@@ -949,7 +949,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 18.0,
       "category_id": "7474477",
-      "category_name": "Кэроб натуральный заменитель кофе, какао",
+      "category_name": "Кероб натуральний замінник кави, какао",
       "picture": "https://images.prom.ua/6321676464_kerob-lajt-slaboj.jpg",
       "available": true
     },
@@ -961,7 +961,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 18.0,
       "category_id": "7474477",
-      "category_name": "Кэроб натуральный заменитель кофе, какао",
+      "category_name": "Кероб натуральний замінник кави, какао",
       "picture": "https://images.prom.ua/6321673892_kerob-medium-obzharennyj.jpg",
       "available": true
     },
@@ -973,7 +973,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 30.0,
       "category_id": "5434236",
-      "category_name": "Кокосовое масло",
+      "category_name": "Кокосова олія",
       "picture": "https://images.prom.ua/6885602245_kokosovoe-maslo-rafinirovannoe.jpg",
       "available": true
     },
@@ -985,7 +985,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 34.0,
       "category_id": "5434236",
-      "category_name": "Кокосовое масло",
+      "category_name": "Кокосова олія",
       "picture": "https://images.prom.ua/6885601967_kokosovoe-maslo-rafinirovannoe.jpg",
       "available": true
     },
@@ -997,7 +997,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 35.0,
       "category_id": "23546082",
-      "category_name": "Сухое молоко, сливки",
+      "category_name": "Сухе молоко, вершки",
       "picture": "https://images.prom.ua/6276349438_moloko-suhoe-tselnoe.jpg",
       "available": true
     },
@@ -1009,7 +1009,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 35.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276261720_karboksimetiltselyulozakitajves1kg.jpg",
       "available": true
     },
@@ -1021,7 +1021,7 @@
       "package_weight_grams": 100.0,
       "price_per_100g": 120.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276213551_agar-agar-1200.jpg",
       "available": true
     },
@@ -1033,7 +1033,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 110.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276213551_agar-agar-1200.jpg",
       "available": true
     },
@@ -1045,7 +1045,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 110.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276213551_agar-agar-1200.jpg",
       "available": true
     },
@@ -1057,7 +1057,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 105.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276213551_agar-agar-1200.jpg",
       "available": true
     },
@@ -1117,7 +1117,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 12.5,
       "category_id": "4754926",
-      "category_name": "Консерванты пищевые",
+      "category_name": "Консерванти харчові",
       "picture": "https://images.prom.ua/6484954539_limonnaya-kislota-kitajves1kg.jpg",
       "available": true
     },
@@ -1177,7 +1177,7 @@
       "package_weight_grams": 88.0,
       "price_per_100g": 68.18,
       "category_id": "87720145",
-      "category_name": "Масла растительные",
+      "category_name": "Олії рослинні",
       "picture": "https://images.prom.ua/3944123505_maslo-vinogradnoj-kostochki.jpg",
       "available": true
     },
@@ -1189,7 +1189,7 @@
       "package_weight_grams": 220.0,
       "price_per_100g": 45.45,
       "category_id": "87720145",
-      "category_name": "Масла растительные",
+      "category_name": "Олії рослинні",
       "picture": "https://images.prom.ua/3944123505_maslo-vinogradnoj-kostochki.jpg",
       "available": true
     },
@@ -1201,7 +1201,7 @@
       "package_weight_grams": 440.0,
       "price_per_100g": 39.77,
       "category_id": "87720145",
-      "category_name": "Масла растительные",
+      "category_name": "Олії рослинні",
       "picture": "https://images.prom.ua/3944123505_maslo-vinogradnoj-kostochki.jpg",
       "available": true
     },
@@ -1213,7 +1213,7 @@
       "package_weight_grams": 880.0,
       "price_per_100g": 28.41,
       "category_id": "87720145",
-      "category_name": "Масла растительные",
+      "category_name": "Олії рослинні",
       "picture": "https://images.prom.ua/3944123505_maslo-vinogradnoj-kostochki.jpg",
       "available": true
     },
@@ -1225,7 +1225,7 @@
       "package_weight_grams": 150.0,
       "price_per_100g": 143.33,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6464725920_funduk-zharenyj-blanshirovannyj.jpg",
       "available": true
     },
@@ -1237,7 +1237,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 144.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6464725920_funduk-zharenyj-blanshirovannyj.jpg",
       "available": true
     },
@@ -1249,7 +1249,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 136.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6464725920_funduk-zharenyj-blanshirovannyj.jpg",
       "available": true
     },
@@ -1261,7 +1261,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 126.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6464725920_funduk-zharenyj-blanshirovannyj.jpg",
       "available": true
     },
@@ -1273,7 +1273,7 @@
       "package_weight_grams": 150.0,
       "price_per_100g": 90.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6464727231_funduk-syroj-kalibr.jpg",
       "available": true
     },
@@ -1285,7 +1285,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 86.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6464727231_funduk-syroj-kalibr.jpg",
       "available": true
     },
@@ -1297,7 +1297,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 87.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6464727231_funduk-syroj-kalibr.jpg",
       "available": true
     },
@@ -1309,7 +1309,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 86.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6464727231_funduk-syroj-kalibr.jpg",
       "available": true
     },
@@ -1357,7 +1357,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 35.0,
       "category_id": "34619899",
-      "category_name": "Кокосовая стружка",
+      "category_name": "Кокосова стружка",
       "picture": "https://images.prom.ua/6276385803_kokosovaya-struzhka-medium.jpg",
       "available": true
     },
@@ -1369,7 +1369,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 32.5,
       "category_id": "34619899",
-      "category_name": "Кокосовая стружка",
+      "category_name": "Кокосова стружка",
       "picture": "https://images.prom.ua/6276385803_kokosovaya-struzhka-medium.jpg",
       "available": true
     },
@@ -1381,7 +1381,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 35.0,
       "category_id": "34619899",
-      "category_name": "Кокосовая стружка",
+      "category_name": "Кокосова стружка",
       "picture": "https://images.prom.ua/6276386263_kokosovaya-struzhka-fajn.jpg",
       "available": true
     },
@@ -1393,7 +1393,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 32.5,
       "category_id": "34619899",
-      "category_name": "Кокосовая стружка",
+      "category_name": "Кокосова стружка",
       "picture": "https://images.prom.ua/6276386263_kokosovaya-struzhka-fajn.jpg",
       "available": true
     },
@@ -1405,7 +1405,7 @@
       "package_weight_grams": 150.0,
       "price_per_100g": 100.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6398760893_fistashka-solenaya-jumbo.jpg",
       "available": true
     },
@@ -1417,7 +1417,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 90.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6398760893_fistashka-solenaya-jumbo.jpg",
       "available": true
     },
@@ -1429,7 +1429,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 80.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6398760893_fistashka-solenaya-jumbo.jpg",
       "available": true
     },
@@ -1441,7 +1441,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 80.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6398760893_fistashka-solenaya-jumbo.jpg",
       "available": true
     },
@@ -1453,7 +1453,7 @@
       "package_weight_grams": 150.0,
       "price_per_100g": 240.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/7453513731_kedrovyj-orehkitajves150gr.jpg",
       "available": true
     },
@@ -1465,7 +1465,7 @@
       "package_weight_grams": 150.0,
       "price_per_100g": 66.67,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6464729457_keshyu-zharenyj-vetnamves150gr.jpg",
       "available": true
     },
@@ -1477,7 +1477,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 70.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6464729457_keshyu-zharenyj-vetnamves250gr.jpg",
       "available": true
     },
@@ -1489,7 +1489,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 67.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6464729457_keshyu-zharenyj-vetnamves500gr.jpg",
       "available": true
     },
@@ -1501,7 +1501,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 65.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6464729457_keshyu-zharenyj-vetnamves1kg.jpg",
       "available": true
     },
@@ -1513,7 +1513,7 @@
       "package_weight_grams": 150.0,
       "price_per_100g": 66.67,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6464729139_keshyu-syroj-vetnamves150gr.jpg",
       "available": true
     },
@@ -1525,7 +1525,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 70.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6464729139_keshyu-syroj-vetnamves250gr.jpg",
       "available": true
     },
@@ -1537,7 +1537,7 @@
       "package_weight_grams": 150.0,
       "price_per_100g": 66.67,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6464723510_mindal-kalifornijskij-zharenyj.jpg",
       "available": true
     },
@@ -1549,7 +1549,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 70.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6464723510_mindal-kalifornijskij-zharenyj.jpg",
       "available": true
     },
@@ -1561,7 +1561,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 67.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6464723510_mindal-kalifornijskij-zharenyj.jpg",
       "available": true
     },
@@ -1573,7 +1573,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 65.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6464723510_mindal-kalifornijskij-zharenyj.jpg",
       "available": true
     },
@@ -1585,7 +1585,7 @@
       "package_weight_grams": 150.0,
       "price_per_100g": 66.67,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6464723510_mindal-kalifornijskij-syroj.jpg",
       "available": true
     },
@@ -1597,7 +1597,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 70.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6464723510_mindal-kalifornijskij-syroj.jpg",
       "available": true
     },
@@ -1609,7 +1609,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 62.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6464723510_mindal-kalifornijskij-syroj.jpg",
       "available": true
     },
@@ -1621,7 +1621,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 60.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6464723510_mindal-kalifornijskij-syroj.jpg",
       "available": true
     },
@@ -1633,7 +1633,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 90.0,
       "category_id": "5434236",
-      "category_name": "Кокосовое масло",
+      "category_name": "Кокосова олія",
       "picture": "https://images.prom.ua/1773662872_kokosovoe-maslo-organic.jpg",
       "available": true
     },
@@ -1645,7 +1645,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 80.0,
       "category_id": "5434236",
-      "category_name": "Кокосовое масло",
+      "category_name": "Кокосова олія",
       "picture": "https://images.prom.ua/1773675796_kokosovoe-maslo-organic.jpg",
       "available": true
     },
@@ -1657,7 +1657,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 200.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6398754977_fistashka-syraya-ochischennaya.jpg",
       "available": true
     },
@@ -1669,7 +1669,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 200.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6398754977_fistashka-syraya-ochischennaya.jpg",
       "available": true
     },
@@ -1681,7 +1681,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 200.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6398754977_fistashka-syraya-ochischennaya.jpg",
       "available": true
     },
@@ -1693,7 +1693,7 @@
       "package_weight_grams": 150.0,
       "price_per_100g": 200.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6398754977_fistashka-syraya-ochischennaya.jpg",
       "available": true
     },
@@ -1705,7 +1705,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 80.0,
       "category_id": "86688526",
-      "category_name": "Кондитерская мука",
+      "category_name": "Кондитерське борошно",
       "picture": "https://images.prom.ua/6276412416_muka-mindalnaya-turtsiyaves250gr.jpg",
       "available": true
     },
@@ -1717,7 +1717,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 70.0,
       "category_id": "86688526",
-      "category_name": "Кондитерская мука",
+      "category_name": "Кондитерське борошно",
       "picture": "https://images.prom.ua/6276412416_muka-mindalnaya-turtsiyaves500gr.jpg",
       "available": true
     },
@@ -1729,7 +1729,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 70.0,
       "category_id": "86688526",
-      "category_name": "Кондитерская мука",
+      "category_name": "Кондитерське борошно",
       "picture": "https://images.prom.ua/6276412416_muka-mindalnaya-turtsiyaves1kg.jpg",
       "available": true
     },
@@ -1741,7 +1741,7 @@
       "package_weight_grams": 150.0,
       "price_per_100g": 73.33,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/1311009138_mindalnye-slajsy-syrye.jpg",
       "available": true
     },
@@ -1753,7 +1753,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 70.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/1311009138_mindalnye-slajsy-syrye.jpg",
       "available": true
     },
@@ -1765,7 +1765,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 70.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/1311009138_mindalnye-slajsy-syrye.jpg",
       "available": true
     },
@@ -1777,7 +1777,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 65.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/1311009138_mindalnye-slajsy-syrye.jpg",
       "available": true
     },
@@ -1789,7 +1789,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 22.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6464773977_arahis-syroj-blanshirovannyj.jpg",
       "available": true
     },
@@ -1801,7 +1801,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 20.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6464773977_arahis-syroj-blanshirovannyj.jpg",
       "available": true
     },
@@ -1813,7 +1813,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 24.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6464776735_arahis-zharenyj-solenyj.jpg",
       "available": true
     },
@@ -1825,7 +1825,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 22.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6464776735_arahis-zharenyj-solenyj.jpg",
       "available": true
     },
@@ -1837,7 +1837,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 20.0,
       "category_id": "86688526",
-      "category_name": "Кондитерская мука",
+      "category_name": "Кондитерське борошно",
       "picture": "https://images.prom.ua/6276404822_muka-kokosovaya-12.jpg",
       "available": true
     },
@@ -1849,7 +1849,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 17.0,
       "category_id": "86688526",
-      "category_name": "Кондитерская мука",
+      "category_name": "Кондитерське борошно",
       "picture": "https://images.prom.ua/6276404822_muka-kokosovaya-12.jpg",
       "available": true
     },
@@ -1861,7 +1861,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 15.0,
       "category_id": "86688526",
-      "category_name": "Кондитерская мука",
+      "category_name": "Кондитерське борошно",
       "picture": "https://images.prom.ua/6276404822_muka-kokosovaya-12.jpg",
       "available": true
     },
@@ -1873,7 +1873,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 70.0,
       "category_id": "13895369",
-      "category_name": "Сухофрукты и ягоды",
+      "category_name": "Сухофрукти та ягоди",
       "picture": "https://images.prom.ua/6464740884_yagody-godzhi-kitajves250gr.jpg",
       "available": true
     },
@@ -1885,7 +1885,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 70.0,
       "category_id": "13895369",
-      "category_name": "Сухофрукты и ягоды",
+      "category_name": "Сухофрукти та ягоди",
       "picture": "https://images.prom.ua/6464740884_yagody-godzhi-kitajves500gr.jpg",
       "available": true
     },
@@ -1897,7 +1897,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 65.0,
       "category_id": "13895369",
-      "category_name": "Сухофрукты и ягоды",
+      "category_name": "Сухофрукти та ягоди",
       "picture": "https://images.prom.ua/6464740884_yagody-godzhi-kitajves1kg.jpg",
       "available": true
     },
@@ -1909,7 +1909,7 @@
       "package_weight_grams": 25.0,
       "price_per_100g": 500.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276346196_pektin-nh-nappage.jpg",
       "available": true
     },
@@ -1921,7 +1921,7 @@
       "package_weight_grams": 50.0,
       "price_per_100g": 500.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276346196_pektin-nh-nappage.jpg",
       "available": true
     },
@@ -1933,7 +1933,7 @@
       "package_weight_grams": 100.0,
       "price_per_100g": 450.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276346196_pektin-nh-nappage.jpg",
       "available": true
     },
@@ -1945,7 +1945,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 400.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276346196_pektin-nh-nappage.jpg",
       "available": true
     },
@@ -1957,7 +1957,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 340.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276346196_pektin-nh-nappage.jpg",
       "available": true
     },
@@ -1969,7 +1969,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 340.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276346196_pektin-nh-nappage.jpg",
       "available": true
     },
@@ -1981,7 +1981,7 @@
       "package_weight_grams": 25.0,
       "price_per_100g": 600.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276346196_pektin-fruktovyj-nh.jpg",
       "available": true
     },
@@ -1993,7 +1993,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276346196_pektin-fruktovyj-nh.jpg",
       "available": true
     },
@@ -2005,7 +2005,7 @@
       "package_weight_grams": 100.0,
       "price_per_100g": 600.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276346196_pektin-fruktovyj-nh.jpg",
       "available": true
     },
@@ -2017,7 +2017,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 560.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276346196_pektin-fruktovyj-nh.jpg",
       "available": true
     },
@@ -2029,7 +2029,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 560.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276346196_pektin-fruktovyj-nh.jpg",
       "available": true
     },
@@ -2077,7 +2077,7 @@
       "package_weight_grams": 0.15,
       "price_per_100g": null,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6486118331_brazilskij-orehves150gr.jpg",
       "available": true
     },
@@ -2089,7 +2089,7 @@
       "package_weight_grams": 0.25,
       "price_per_100g": null,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6486118331_brazilskij-orehves250gr.jpg",
       "available": true
     },
@@ -2101,7 +2101,7 @@
       "package_weight_grams": 0.5,
       "price_per_100g": null,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6486118331_brazilskij-orehves500gr.jpg",
       "available": true
     },
@@ -2113,7 +2113,7 @@
       "package_weight_grams": 1.0,
       "price_per_100g": null,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6486118331_brazilskij-orehves1kg.jpg",
       "available": true
     },
@@ -2125,7 +2125,7 @@
       "package_weight_grams": 150.0,
       "price_per_100g": 100.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6486116045_makadamiya-v-skorlupeavstraliyaves150gr.jpg",
       "available": true
     },
@@ -2137,7 +2137,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 80.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6486116045_makadamiya-v-skorlupeavstraliyaves250gr.jpg",
       "available": true
     },
@@ -2149,7 +2149,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 60.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6486116045_makadamiya-v-skorlupeavstraliyaves500gr.jpg",
       "available": true
     },
@@ -2161,7 +2161,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 60.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6486116045_makadamiya-v-skorlupeavstraliyaves1kg.jpg",
       "available": true
     },
@@ -2173,7 +2173,7 @@
       "package_weight_grams": 150.0,
       "price_per_100g": 166.67,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6486114613_makadamiya-vysshij-sort.jpg",
       "available": true
     },
@@ -2185,7 +2185,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 160.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6486114613_makadamiya-vysshij-sort.jpg",
       "available": true
     },
@@ -2197,7 +2197,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 160.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6486114613_makadamiya-vysshij-sort.jpg",
       "available": true
     },
@@ -2209,7 +2209,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 160.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6486114613_makadamiya-vysshij-sort.jpg",
       "available": true
     },
@@ -2221,7 +2221,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 100.0,
       "category_id": "4833828",
-      "category_name": "Какао тертое",
+      "category_name": "Какао терте",
       "picture": "https://images.prom.ua/6300096621_kakao-tertoe-monolit.jpg",
       "available": true
     },
@@ -2233,7 +2233,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 55.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276253447_zhelatin-180-bloom.jpg",
       "available": true
     },
@@ -2245,7 +2245,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 55.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276253447_zhelatin-180-bloom.jpg",
       "available": true
     },
@@ -2257,7 +2257,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 60.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276253447_zhelatin-180-bloom.jpg",
       "available": true
     },
@@ -2269,7 +2269,7 @@
       "package_weight_grams": 100.0,
       "price_per_100g": 70.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276253447_zhelatin-180-bloom.jpg",
       "available": true
     },
@@ -2281,7 +2281,7 @@
       "package_weight_grams": 150.0,
       "price_per_100g": 100.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6486107241_pekan-v-skorlupe.jpg",
       "available": true
     },
@@ -2293,7 +2293,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 90.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6486107241_pekan-v-skorlupe.jpg",
       "available": true
     },
@@ -2305,7 +2305,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 75.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6486107241_pekan-v-skorlupe.jpg",
       "available": true
     },
@@ -2317,7 +2317,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 80.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6486107241_pekan-v-skorlupe.jpg",
       "available": true
     },
@@ -2329,7 +2329,7 @@
       "package_weight_grams": 150.0,
       "price_per_100g": 100.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6486106188_pekan-syrojochischennyjsshaves150gr.jpg",
       "available": true
     },
@@ -2341,7 +2341,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 100.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6486106188_pekan-syrojochischennyjsshaves250gr.jpg",
       "available": true
     },
@@ -2353,7 +2353,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 95.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6486106188_pekan-syroj-ochischennyjsshaves500gr.jpg",
       "available": true
     },
@@ -2365,7 +2365,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 95.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6486106188_pekan-syroj-ochischennyj.jpg",
       "available": true
     },
@@ -2377,7 +2377,7 @@
       "package_weight_grams": 100.0,
       "price_per_100g": 50.0,
       "category_id": "4758936",
-      "category_name": "Подсластители синтетические",
+      "category_name": "Підсолоджувачі синтетичні",
       "picture": "https://images.prom.ua/6484954539_izomalt-tm-modecor.jpg",
       "available": true
     },
@@ -2389,7 +2389,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 48.0,
       "category_id": "4758936",
-      "category_name": "Подсластители синтетические",
+      "category_name": "Підсолоджувачі синтетичні",
       "picture": "https://images.prom.ua/6484954539_izomalt-tm-modecor.jpg",
       "available": true
     },
@@ -2401,7 +2401,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 50.0,
       "category_id": "4758936",
-      "category_name": "Подсластители синтетические",
+      "category_name": "Підсолоджувачі синтетичні",
       "picture": "https://images.prom.ua/6484954539_izomalt-tm-modecor.jpg",
       "available": true
     },
@@ -2413,7 +2413,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 45.0,
       "category_id": "4758936",
-      "category_name": "Подсластители синтетические",
+      "category_name": "Підсолоджувачі синтетичні",
       "picture": "https://images.prom.ua/6484954539_izomalt-tm-modecor.jpg",
       "available": true
     },
@@ -2425,7 +2425,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "4843101",
-      "category_name": "Ванилин и специи",
+      "category_name": "Ванілін і спеції",
       "picture": "https://images.prom.ua/1691675630_vanil-v-struchkah.jpg",
       "available": true
     },
@@ -2437,7 +2437,7 @@
       "package_weight_grams": 150.0,
       "price_per_100g": 83.33,
       "category_id": "13895369",
-      "category_name": "Сухофрукты и ягоды",
+      "category_name": "Сухофрукти та ягоди",
       "picture": "https://images.prom.ua/6486103075_finik-korolevskij-iranves150gr.jpg",
       "available": true
     },
@@ -2449,7 +2449,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 80.0,
       "category_id": "13895369",
-      "category_name": "Сухофрукты и ягоды",
+      "category_name": "Сухофрукти та ягоди",
       "picture": "https://images.prom.ua/6486103075_finik-korolevskij-iranves250gr.jpg",
       "available": true
     },
@@ -2461,7 +2461,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 70.0,
       "category_id": "13895369",
-      "category_name": "Сухофрукты и ягоды",
+      "category_name": "Сухофрукти та ягоди",
       "picture": "https://images.prom.ua/6486103075_finik-korolevskij-iranves500gr.jpg",
       "available": true
     },
@@ -2473,7 +2473,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 70.0,
       "category_id": "13895369",
-      "category_name": "Сухофрукты и ягоды",
+      "category_name": "Сухофрукти та ягоди",
       "picture": "https://images.prom.ua/6486103075_finik-korolevskij-iranves1kg.jpg",
       "available": true
     },
@@ -2485,7 +2485,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 30.0,
       "category_id": "13895369",
-      "category_name": "Сухофрукты и ягоды",
+      "category_name": "Сухофрукти та ягоди",
       "picture": "https://images.prom.ua/6485077344_ananas-tsukaty-miks.jpg",
       "available": true
     },
@@ -2497,7 +2497,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 30.0,
       "category_id": "13895369",
-      "category_name": "Сухофрукты и ягоды",
+      "category_name": "Сухофрукти та ягоди",
       "picture": "https://images.prom.ua/6485077344_ananas-tsukaty-miks.jpg",
       "available": true
     },
@@ -2509,7 +2509,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 27.5,
       "category_id": "13895369",
-      "category_name": "Сухофрукты и ягоды",
+      "category_name": "Сухофрукти та ягоди",
       "picture": "https://images.prom.ua/6485077344_ananas-tsukaty-miks.jpg",
       "available": true
     },
@@ -2521,7 +2521,7 @@
       "package_weight_grams": 100.0,
       "price_per_100g": 110.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6446191522_spirulina-tabletki-kitajves100gr.jpg",
       "available": true
     },
@@ -2533,7 +2533,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 80.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6446191522_spirulina-tabletki-kitajves250gr.jpg",
       "available": true
     },
@@ -2545,7 +2545,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 80.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6446191522_spirulina-tabletki-kitajves500gr.jpg",
       "available": true
     },
@@ -2557,7 +2557,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 77.5,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6446191522_spirulina-tabletki-kitajves1kg.jpg",
       "available": true
     },
@@ -2569,7 +2569,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 34.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6536714232_kinoa-belye-peruves250g.jpg",
       "available": true
     },
@@ -2581,7 +2581,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 32.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6536714232_semena-kinoa-belye.jpg",
       "available": true
     },
@@ -2593,7 +2593,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 30.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6536714232_semena-kinoa-belye.jpg",
       "available": true
     },
@@ -2605,7 +2605,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 40.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6536710881_chia-semena-argentinaves250gr.jpg",
       "available": true
     },
@@ -2617,7 +2617,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 37.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6536710881_semena-chia-argentinaves500gr.jpg",
       "available": true
     },
@@ -2629,7 +2629,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 35.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6536710881_semena-chia-argentinaves1kg.jpg",
       "available": true
     },
@@ -2641,7 +2641,7 @@
       "package_weight_grams": 100.0,
       "price_per_100g": 100.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6446191800_spirulina-v-poroshke.jpg",
       "available": true
     },
@@ -2653,7 +2653,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 80.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6446191800_spirulina-v-poroshke.jpg",
       "available": true
     },
@@ -2665,7 +2665,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 75.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6446191800_spirulina-v-poroshke.jpg",
       "available": true
     },
@@ -2677,7 +2677,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 72.5,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6446191800_spirulina-v-poroshke.jpg",
       "available": true
     },
@@ -2689,7 +2689,7 @@
       "package_weight_grams": 100.0,
       "price_per_100g": 125.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6446185233_hlorella-v-poroshke.jpg",
       "available": true
     },
@@ -2701,7 +2701,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 114.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6446185233_hlorella-v-poroshke.jpg",
       "available": true
     },
@@ -2713,7 +2713,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 113.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6446185233_hlorella-v-poroshke.jpg",
       "available": true
     },
@@ -2725,7 +2725,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 110.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6446185233_hlorella-v-poroshke.jpg",
       "available": true
     },
@@ -2737,7 +2737,7 @@
       "package_weight_grams": 100.0,
       "price_per_100g": 150.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6362685866_hlorella-v-tabletkah.jpg",
       "available": true
     },
@@ -2749,7 +2749,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 160.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6362685866_hlorella-v-tabletkah.jpg",
       "available": true
     },
@@ -2761,7 +2761,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 140.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6362685866_hlorella-v-tabletkah.jpg",
       "available": true
     },
@@ -2773,7 +2773,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 130.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6362685866_hlorella-v-tabletkah.jpg",
       "available": true
     },
@@ -2785,7 +2785,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "4843101",
-      "category_name": "Ванилин и специи",
+      "category_name": "Ванілін і спеції",
       "picture": "https://images.prom.ua/6485071575_boby-tonka-germaniya1.jpg",
       "available": true
     },
@@ -2797,7 +2797,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "4843101",
-      "category_name": "Ванилин и специи",
+      "category_name": "Ванілін і спеції",
       "picture": "https://images.prom.ua/6485071575_boby-tonka-germaniya.jpg",
       "available": true
     },
@@ -2809,7 +2809,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "4843101",
-      "category_name": "Ванилин и специи",
+      "category_name": "Ванілін і спеції",
       "picture": "https://images.prom.ua/6485071575_boby-tonka-germaniya.jpg",
       "available": true
     },
@@ -2821,7 +2821,7 @@
       "package_weight_grams": 100.0,
       "price_per_100g": 200.0,
       "category_id": "66335282",
-      "category_name": "Водоросли и морская капуста",
+      "category_name": "Водорості та морська капуста",
       "picture": "https://images.prom.ua/6344299609_vakame-kitaj-ves100.jpg",
       "available": true
     },
@@ -2833,7 +2833,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 140.0,
       "category_id": "66335282",
-      "category_name": "Водоросли и морская капуста",
+      "category_name": "Водорості та морська капуста",
       "picture": "https://images.prom.ua/6344299609_vakame-kitaj-ves250.jpg",
       "available": true
     },
@@ -2845,7 +2845,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 130.0,
       "category_id": "66335282",
-      "category_name": "Водоросли и морская капуста",
+      "category_name": "Водорості та морська капуста",
       "picture": "https://images.prom.ua/6344299609_vakame-kitajves500gr.jpg",
       "available": true
     },
@@ -2857,7 +2857,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 120.0,
       "category_id": "66335282",
-      "category_name": "Водоросли и морская капуста",
+      "category_name": "Водорості та морська капуста",
       "picture": "https://images.prom.ua/6344299609_vakame-kitajves1kg.jpg",
       "available": true
     },
@@ -2869,7 +2869,7 @@
       "package_weight_grams": 150.0,
       "price_per_100g": 133.33,
       "category_id": "4833828",
-      "category_name": "Какао тертое",
+      "category_name": "Какао терте",
       "picture": "https://images.prom.ua/6300096621_tertoe-kakao-naturalnoe.jpg",
       "available": true
     },
@@ -2881,7 +2881,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 100.0,
       "category_id": "4833828",
-      "category_name": "Какао тертое",
+      "category_name": "Какао терте",
       "picture": "https://images.prom.ua/6300096621_tertoe-kakao-naturalnoe.jpg",
       "available": true
     },
@@ -2893,7 +2893,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 90.0,
       "category_id": "4833828",
-      "category_name": "Какао тертое",
+      "category_name": "Какао терте",
       "picture": "https://images.prom.ua/6300096621_tertoe-kakao-naturalnoe.jpg",
       "available": true
     },
@@ -2905,7 +2905,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 80.0,
       "category_id": "4833828",
-      "category_name": "Какао тертое",
+      "category_name": "Какао терте",
       "picture": "https://images.prom.ua/6300096621_tertoe-kakao-naturalnoe.jpg",
       "available": true
     },
@@ -2917,7 +2917,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 65.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6344392910_sparzha-soevaya-sushenaya.jpg",
       "available": true
     },
@@ -2929,7 +2929,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 70.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6344392910_sparzha-soevaya-sushenaya.jpg",
       "available": true
     },
@@ -2941,7 +2941,7 @@
       "package_weight_grams": 150.0,
       "price_per_100g": 73.33,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6344392910_sparzha-soevaya-sushenaya.jpg",
       "available": true
     },
@@ -2953,7 +2953,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 65.0,
       "category_id": "4801510",
-      "category_name": "Какао бобы",
+      "category_name": "Какао боби",
       "picture": "https://images.prom.ua/6295676512_boby-kakao-syrye.jpg",
       "available": true
     },
@@ -2965,7 +2965,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 65.0,
       "category_id": "4801510",
-      "category_name": "Какао бобы",
+      "category_name": "Какао боби",
       "picture": "https://images.prom.ua/6295676512_boby-kakao-syrye.jpg",
       "available": true
     },
@@ -2977,7 +2977,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 62.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6464729139_keshyu-syroj-vetnamves500gr.jpg",
       "available": true
     },
@@ -2989,7 +2989,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 60.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/6464729139_keshyu-syroj-vetnamves1kg.jpg",
       "available": true
     },
@@ -3001,7 +3001,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 17.5,
       "category_id": "7474477",
-      "category_name": "Кэроб натуральный заменитель кофе, какао",
+      "category_name": "Кероб натуральний замінник кави, какао",
       "picture": "https://images.prom.ua/6321675315_kerob-syroj-ispaniyaves1.jpg",
       "available": true
     },
@@ -3013,7 +3013,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 18.0,
       "category_id": "7474477",
-      "category_name": "Кэроб натуральный заменитель кофе, какао",
+      "category_name": "Кероб натуральний замінник кави, какао",
       "picture": "https://images.prom.ua/6321675315_kerob-syroj-ispaniyaves500gr.jpg",
       "available": true
     },
@@ -3025,7 +3025,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 40.0,
       "category_id": "84304920",
-      "category_name": "Кокосовый сахар и тростниковый",
+      "category_name": "Кокосовий цукор і тростинний",
       "picture": "https://images.prom.ua/6485049958_kokosovyj-sahar-indoneziya.jpg",
       "available": true
     },
@@ -3037,7 +3037,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 35.0,
       "category_id": "84304920",
-      "category_name": "Кокосовый сахар и тростниковый",
+      "category_name": "Кокосовий цукор і тростинний",
       "picture": "https://images.prom.ua/6485049958_kokosovyj-sahar-indoneziya.jpg",
       "available": true
     },
@@ -3049,7 +3049,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 38.0,
       "category_id": "84308336",
-      "category_name": "Растительные сливки и молоко",
+      "category_name": "Рослинні вершки та молоко",
       "picture": "https://images.prom.ua/6276388778_suhoe-kokosovoe-moloko.jpg",
       "available": true
     },
@@ -3061,7 +3061,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 37.0,
       "category_id": "84308336",
-      "category_name": "Растительные сливки и молоко",
+      "category_name": "Рослинні вершки та молоко",
       "picture": "https://images.prom.ua/6276388778_suhoe-kokosovoe-moloko.jpg",
       "available": true
     },
@@ -3073,7 +3073,7 @@
       "package_weight_grams": 150.0,
       "price_per_100g": 86.67,
       "category_id": "4833828",
-      "category_name": "Какао тертое",
+      "category_name": "Какао терте",
       "picture": "https://images.prom.ua/6300119766_kakao-tertoe-ukrainaves150gr.jpg",
       "available": true
     },
@@ -3085,7 +3085,7 @@
       "package_weight_grams": 150.0,
       "price_per_100g": 100.0,
       "category_id": "75262432",
-      "category_name": "Натуральный шоколад",
+      "category_name": "Натуральний шоколад",
       "picture": "https://images.prom.ua/2234761845_chernyj-shokolad-72.jpg",
       "available": true
     },
@@ -3097,7 +3097,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 92.0,
       "category_id": "75262432",
-      "category_name": "Натуральный шоколад",
+      "category_name": "Натуральний шоколад",
       "picture": "https://images.prom.ua/2234761845_chernyj-shokolad-72.jpg",
       "available": true
     },
@@ -3109,7 +3109,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 82.0,
       "category_id": "75262432",
-      "category_name": "Натуральный шоколад",
+      "category_name": "Натуральний шоколад",
       "picture": "https://images.prom.ua/2234761845_chernyj-shokolad-72.jpg",
       "available": true
     },
@@ -3121,7 +3121,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 75.0,
       "category_id": "75262432",
-      "category_name": "Натуральный шоколад",
+      "category_name": "Натуральний шоколад",
       "picture": "https://images.prom.ua/2234761845_chernyj-shokolad-72.jpg",
       "available": true
     },
@@ -3133,7 +3133,7 @@
       "package_weight_grams": 150.0,
       "price_per_100g": 100.0,
       "category_id": "75262432",
-      "category_name": "Натуральный шоколад",
+      "category_name": "Натуральний шоколад",
       "picture": "https://images.prom.ua/2597636797_molochnyj-shokolad-35.jpg",
       "available": true
     },
@@ -3145,7 +3145,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 92.0,
       "category_id": "75262432",
-      "category_name": "Натуральный шоколад",
+      "category_name": "Натуральний шоколад",
       "picture": "https://images.prom.ua/2597636797_molochnyj-shokolad-35.jpg",
       "available": true
     },
@@ -3157,7 +3157,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 82.0,
       "category_id": "75262432",
-      "category_name": "Натуральный шоколад",
+      "category_name": "Натуральний шоколад",
       "picture": "https://images.prom.ua/2597636797_molochnyj-shokolad-35.jpg",
       "available": true
     },
@@ -3169,7 +3169,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 75.0,
       "category_id": "75262432",
-      "category_name": "Натуральный шоколад",
+      "category_name": "Натуральний шоколад",
       "picture": "https://images.prom.ua/2597636797_molochnyj-shokolad-35.jpg",
       "available": true
     },
@@ -3181,7 +3181,7 @@
       "package_weight_grams": 150.0,
       "price_per_100g": 100.0,
       "category_id": "75262432",
-      "category_name": "Натуральный шоколад",
+      "category_name": "Натуральний шоколад",
       "picture": "https://images.prom.ua/2135142465_belyj-shokolad-32.jpg",
       "available": true
     },
@@ -3193,7 +3193,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 92.0,
       "category_id": "75262432",
-      "category_name": "Натуральный шоколад",
+      "category_name": "Натуральний шоколад",
       "picture": "https://images.prom.ua/2135142465_belyj-shokolad-32.jpg",
       "available": true
     },
@@ -3205,7 +3205,7 @@
       "package_weight_grams": 150.0,
       "price_per_100g": 83.33,
       "category_id": "75262432",
-      "category_name": "Натуральный шоколад",
+      "category_name": "Натуральний шоколад",
       "picture": "https://images.prom.ua/2135149590_molochnyj-shokolad-kraft.jpg",
       "available": true
     },
@@ -3217,7 +3217,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 70.0,
       "category_id": "75262432",
-      "category_name": "Натуральный шоколад",
+      "category_name": "Натуральний шоколад",
       "picture": "https://images.prom.ua/2135149590_molochnyj-shokolad-kraft.jpg",
       "available": true
     },
@@ -3229,7 +3229,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 67.0,
       "category_id": "75262432",
-      "category_name": "Натуральный шоколад",
+      "category_name": "Натуральний шоколад",
       "picture": "https://images.prom.ua/2135149590_molochnyj-shokolad-kraft.jpg",
       "available": true
     },
@@ -3241,7 +3241,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 65.0,
       "category_id": "75262432",
-      "category_name": "Натуральный шоколад",
+      "category_name": "Натуральний шоколад",
       "picture": "https://images.prom.ua/2135149590_molochnyj-shokolad-kraft.jpg",
       "available": true
     },
@@ -3253,7 +3253,7 @@
       "package_weight_grams": 150.0,
       "price_per_100g": 100.0,
       "category_id": "75262432",
-      "category_name": "Натуральный шоколад",
+      "category_name": "Натуральний шоколад",
       "picture": "https://images.prom.ua/2135407915_chernyj-shokolad-73.jpg",
       "available": true
     },
@@ -3265,7 +3265,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 70.0,
       "category_id": "75262432",
-      "category_name": "Натуральный шоколад",
+      "category_name": "Натуральний шоколад",
       "picture": "https://images.prom.ua/2135407915_chernyj-shokolad-73.jpg",
       "available": true
     },
@@ -3277,7 +3277,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 72.0,
       "category_id": "75262432",
-      "category_name": "Натуральный шоколад",
+      "category_name": "Натуральний шоколад",
       "picture": "https://images.prom.ua/2135407915_chernyj-shokolad-73.jpg",
       "available": true
     },
@@ -3289,7 +3289,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 70.0,
       "category_id": "75262432",
-      "category_name": "Натуральный шоколад",
+      "category_name": "Натуральний шоколад",
       "picture": "https://images.prom.ua/2135407915_chernyj-shokolad-73.jpg",
       "available": true
     },
@@ -3301,7 +3301,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 200.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/7453513731_kedrovyj-orehkitajves500gr.jpg",
       "available": true
     },
@@ -3313,7 +3313,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 190.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/7453513731_kedrovyj-orehkitajves1kg.jpg",
       "available": true
     },
@@ -3325,7 +3325,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 84.0,
       "category_id": "66335282",
-      "category_name": "Водоросли и морская капуста",
+      "category_name": "Водорості та морська капуста",
       "picture": "https://images.prom.ua/6344424467_morskaya-kapusta-laminariya.jpg",
       "available": true
     },
@@ -3337,7 +3337,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 80.0,
       "category_id": "66335282",
-      "category_name": "Водоросли и морская капуста",
+      "category_name": "Водорості та морська капуста",
       "picture": "https://images.prom.ua/6344424467_morskaya-kapusta-laminariya.jpg",
       "available": true
     },
@@ -3349,7 +3349,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 80.0,
       "category_id": "66335282",
-      "category_name": "Водоросли и морская капуста",
+      "category_name": "Водорості та морська капуста",
       "picture": "https://images.prom.ua/6344424467_morskaya-kapusta-laminariya.jpg",
       "available": true
     },
@@ -3361,7 +3361,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 27.5,
       "category_id": "4754901",
-      "category_name": "Красители пищевые",
+      "category_name": "Харчові барвники",
       "picture": "https://images.prom.ua/3167871240_krasitel-dioksid-titana.jpg",
       "available": true
     },
@@ -3373,7 +3373,7 @@
       "package_weight_grams": 150.0,
       "price_per_100g": 100.0,
       "category_id": "75262432",
-      "category_name": "Натуральный шоколад",
+      "category_name": "Натуральний шоколад",
       "picture": "https://images.prom.ua/2597624998_shokolad-chernyj-71.jpg",
       "available": true
     },
@@ -3385,7 +3385,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 92.0,
       "category_id": "75262432",
-      "category_name": "Натуральный шоколад",
+      "category_name": "Натуральний шоколад",
       "picture": "https://images.prom.ua/2597624998_shokolad-chernyj-71.jpg",
       "available": true
     },
@@ -3397,7 +3397,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 82.0,
       "category_id": "75262432",
-      "category_name": "Натуральный шоколад",
+      "category_name": "Натуральний шоколад",
       "picture": "https://images.prom.ua/2597624998_shokolad-chernyj-71.jpg",
       "available": true
     },
@@ -3409,7 +3409,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 75.0,
       "category_id": "75262432",
-      "category_name": "Натуральный шоколад",
+      "category_name": "Натуральний шоколад",
       "picture": "https://images.prom.ua/2597624998_shokolad-chernyj-71.jpg",
       "available": true
     },
@@ -3421,7 +3421,7 @@
       "package_weight_grams": 150.0,
       "price_per_100g": 100.0,
       "category_id": "75262432",
-      "category_name": "Натуральный шоколад",
+      "category_name": "Натуральний шоколад",
       "picture": "https://images.prom.ua/2135144034_shokolad-belyj-29.jpg",
       "available": true
     },
@@ -3433,7 +3433,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 92.0,
       "category_id": "75262432",
-      "category_name": "Натуральный шоколад",
+      "category_name": "Натуральний шоколад",
       "picture": "https://images.prom.ua/2135144034_shokolad-belyj-29.jpg",
       "available": true
     },
@@ -3445,7 +3445,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 82.0,
       "category_id": "75262432",
-      "category_name": "Натуральный шоколад",
+      "category_name": "Натуральний шоколад",
       "picture": "https://images.prom.ua/2135144034_shokolad-belyj-29.jpg",
       "available": true
     },
@@ -3457,7 +3457,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 75.0,
       "category_id": "75262432",
-      "category_name": "Натуральный шоколад",
+      "category_name": "Натуральний шоколад",
       "picture": "https://images.prom.ua/2135144034_shokolad-belyj-29.jpg",
       "available": true
     },
@@ -3469,7 +3469,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 82.0,
       "category_id": "75262432",
-      "category_name": "Натуральный шоколад",
+      "category_name": "Натуральний шоколад",
       "picture": "https://images.prom.ua/2135142465_belyj-shokolad-32.jpg",
       "available": true
     },
@@ -3481,7 +3481,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 75.0,
       "category_id": "75262432",
-      "category_name": "Натуральный шоколад",
+      "category_name": "Натуральний шоколад",
       "picture": "https://images.prom.ua/2135142465_belyj-shokolad-32.jpg",
       "available": true
     },
@@ -3493,7 +3493,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 34.0,
       "category_id": "84308336",
-      "category_name": "Растительные сливки и молоко",
+      "category_name": "Рослинні вершки та молоко",
       "picture": "https://images.prom.ua/6276388778_kokosovoe-moloko-suhoeindoneziya.jpg",
       "available": true
     },
@@ -3505,7 +3505,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 32.0,
       "category_id": "84308336",
-      "category_name": "Растительные сливки и молоко",
+      "category_name": "Рослинні вершки та молоко",
       "picture": "https://images.prom.ua/6276388778_kokosovoe-moloko-suhoe.jpg",
       "available": true
     },
@@ -3517,7 +3517,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 20.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276346196_guarovaya-kamed-e412.jpg",
       "available": true
     },
@@ -3529,7 +3529,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 17.5,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276346196_guarovaya-kamed-e412.jpg",
       "available": true
     },
@@ -3541,7 +3541,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 42.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6486271693_ksantanovaya-kamed-e-415kitajves500gr.jpg",
       "available": true
     },
@@ -3553,7 +3553,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 40.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6486271693_ksantanovaya-kamed-e-415kitajves1kg.jpg",
       "available": true
     },
@@ -3565,7 +3565,7 @@
       "package_weight_grams": 150.0,
       "price_per_100g": 100.0,
       "category_id": "75262432",
-      "category_name": "Натуральный шоколад",
+      "category_name": "Натуральний шоколад",
       "picture": "https://images.prom.ua/2234759182_shokolad-molochnyj-30.jpg",
       "available": true
     },
@@ -3577,7 +3577,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 92.0,
       "category_id": "75262432",
-      "category_name": "Натуральный шоколад",
+      "category_name": "Натуральний шоколад",
       "picture": "https://images.prom.ua/2234759182_shokolad-molochnyj-30.jpg",
       "available": true
     },
@@ -3589,7 +3589,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 82.0,
       "category_id": "75262432",
-      "category_name": "Натуральный шоколад",
+      "category_name": "Натуральний шоколад",
       "picture": "https://images.prom.ua/2234759182_shokolad-molochnyj-30.jpg",
       "available": true
     },
@@ -3601,7 +3601,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 75.0,
       "category_id": "75262432",
-      "category_name": "Натуральный шоколад",
+      "category_name": "Натуральний шоколад",
       "picture": "https://images.prom.ua/2234759182_shokolad-molochnyj-30.jpg",
       "available": true
     },
@@ -3613,7 +3613,7 @@
       "package_weight_grams": 100.0,
       "price_per_100g": 200.0,
       "category_id": "4754901",
-      "category_name": "Красители пищевые",
+      "category_name": "Харчові барвники",
       "picture": "https://images.prom.ua/2308850211_krasitel-zheltyj-tartrazin-tartrazine.jpg",
       "available": true
     },
@@ -3625,7 +3625,7 @@
       "package_weight_grams": 100.0,
       "price_per_100g": 200.0,
       "category_id": "4754901",
-      "category_name": "Красители пищевые",
+      "category_name": "Харчові барвники",
       "picture": "https://images.prom.ua/2308848313_krasitel-korichnevyj-shokolad-chocolate.jpg",
       "available": true
     },
@@ -3637,7 +3637,7 @@
       "package_weight_grams": 100.0,
       "price_per_100g": 200.0,
       "category_id": "4754901",
-      "category_name": "Красители пищевые",
+      "category_name": "Харчові барвники",
       "picture": "https://images.prom.ua/2308848940_krasitel-sinij-indigokarmin-indigocarmine.jpg",
       "available": false
     },
@@ -3649,7 +3649,7 @@
       "package_weight_grams": 100.0,
       "price_per_100g": 200.0,
       "category_id": "4754901",
-      "category_name": "Красители пищевые",
+      "category_name": "Харчові барвники",
       "picture": "https://images.prom.ua/2308848370_krasitel-goluboj-briliantovyj.jpg",
       "available": true
     },
@@ -3661,7 +3661,7 @@
       "package_weight_grams": 100.0,
       "price_per_100g": 200.0,
       "category_id": "4754901",
-      "category_name": "Красители пищевые",
+      "category_name": "Харчові барвники",
       "picture": "https://images.prom.ua/2308848581_krasitel-chernyj-chernyj-.jpg",
       "available": true
     },
@@ -3673,7 +3673,7 @@
       "package_weight_grams": 100.0,
       "price_per_100g": 200.0,
       "category_id": "4754901",
-      "category_name": "Красители пищевые",
+      "category_name": "Харчові барвники",
       "picture": "https://images.prom.ua/2308848636_krasitel-zelenyj-zelenoe.jpg",
       "available": true
     },
@@ -3685,7 +3685,7 @@
       "package_weight_grams": 100.0,
       "price_per_100g": 200.0,
       "category_id": "4754901",
-      "category_name": "Красители пищевые",
+      "category_name": "Харчові барвники",
       "picture": "https://images.prom.ua/2308848262_krasitel-oranzhevyj-solnechnyj.jpg",
       "available": true
     },
@@ -3697,7 +3697,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "84274419",
-      "category_name": "Формы пластиковые",
+      "category_name": "Форми пластикові",
       "picture": "https://images.prom.ua/2167574663_plastikovaya-forma-e1-041.jpg",
       "available": true
     },
@@ -3709,7 +3709,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "84274419",
-      "category_name": "Формы пластиковые",
+      "category_name": "Форми пластикові",
       "picture": "https://images.prom.ua/2167665742_forma-dlya-shokolada.jpg",
       "available": true
     },
@@ -3721,7 +3721,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "84274419",
-      "category_name": "Формы пластиковые",
+      "category_name": "Форми пластикові",
       "picture": "https://images.prom.ua/2167756648_forma-plastikovaya-shokolad.jpg",
       "available": true
     },
@@ -3733,7 +3733,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "84274419",
-      "category_name": "Формы пластиковые",
+      "category_name": "Форми пластикові",
       "picture": "https://images.prom.ua/2167758894_forma-plastikovaya-shokolad.jpg",
       "available": true
     },
@@ -3745,7 +3745,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "84274419",
-      "category_name": "Формы пластиковые",
+      "category_name": "Форми пластикові",
       "picture": "https://images.prom.ua/2167761613_forma-plastikovaya-shokolad.jpg",
       "available": true
     },
@@ -3757,7 +3757,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "84274419",
-      "category_name": "Формы пластиковые",
+      "category_name": "Форми пластикові",
       "picture": "https://images.prom.ua/2167764935_forma-plastikovaya-shokolad.jpg",
       "available": true
     },
@@ -3769,7 +3769,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "84274419",
-      "category_name": "Формы пластиковые",
+      "category_name": "Форми пластикові",
       "picture": "https://images.prom.ua/2167786471_forma-plastikovaya-shokolad.jpg",
       "available": true
     },
@@ -3781,7 +3781,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "84274419",
-      "category_name": "Формы пластиковые",
+      "category_name": "Форми пластикові",
       "picture": "https://images.prom.ua/7364604657_forma-dlya-shokolada.jpg",
       "available": true
     },
@@ -3793,7 +3793,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "84274419",
-      "category_name": "Формы пластиковые",
+      "category_name": "Форми пластикові",
       "picture": "https://images.prom.ua/6280852297_forma-plastikovaya-pavutinnya.jpg",
       "available": true
     },
@@ -3805,7 +3805,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 22.0,
       "category_id": "84304920",
-      "category_name": "Кокосовый сахар и тростниковый",
+      "category_name": "Кокосовий цукор і тростинний",
       "picture": "https://images.prom.ua/6276426411_trostnikovyj-sahar-pesok.jpg",
       "available": true
     },
@@ -3817,7 +3817,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 20.0,
       "category_id": "84304920",
-      "category_name": "Кокосовый сахар и тростниковый",
+      "category_name": "Кокосовий цукор і тростинний",
       "picture": "https://images.prom.ua/6276426411_trostnikovyj-sahar-pesokindoneziyaves1kg.jpg",
       "available": true
     },
@@ -3829,7 +3829,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 28.0,
       "category_id": "84304920",
-      "category_name": "Кокосовый сахар и тростниковый",
+      "category_name": "Кокосовий цукор і тростинний",
       "picture": "https://images.prom.ua/6276425971_trostnikovyj-sahar-kolotyj.jpg",
       "available": true
     },
@@ -3841,7 +3841,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 26.0,
       "category_id": "84304920",
-      "category_name": "Кокосовый сахар и тростниковый",
+      "category_name": "Кокосовий цукор і тростинний",
       "picture": "https://images.prom.ua/6276425971_trostnikovyj-sahar-kolotyj.jpg",
       "available": true
     },
@@ -3853,7 +3853,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 46.0,
       "category_id": "89326089",
-      "category_name": "Натуральные ореховые пасты",
+      "category_name": "Натуральні горіхові пасти",
       "picture": "https://images.prom.ua/2263341266_kokosovaya-pasta-ukraina.jpg",
       "available": true
     },
@@ -3865,7 +3865,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 42.0,
       "category_id": "89326089",
-      "category_name": "Натуральные ореховые пасты",
+      "category_name": "Натуральні горіхові пасти",
       "picture": "https://images.prom.ua/2263341266_kokosovaya-pasta-ukraina.jpg",
       "available": true
     },
@@ -3877,7 +3877,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 40.0,
       "category_id": "89326089",
-      "category_name": "Натуральные ореховые пасты",
+      "category_name": "Натуральні горіхові пасти",
       "picture": "https://images.prom.ua/2263341266_kokosovaya-pasta-ukraina.jpg",
       "available": true
     },
@@ -3889,7 +3889,7 @@
       "package_weight_grams": 150.0,
       "price_per_100g": 200.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6464737185_chaj-matcha-elit.jpg",
       "available": true
     },
@@ -3901,7 +3901,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 180.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6464737185_chaj-matcha-elit.jpg",
       "available": true
     },
@@ -3913,7 +3913,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 170.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6464737185_chaj-matcha-elit.jpg",
       "available": true
     },
@@ -3925,7 +3925,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 160.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6464737185_chaj-matcha-elit.jpg",
       "available": true
     },
@@ -3937,7 +3937,7 @@
       "package_weight_grams": 150.0,
       "price_per_100g": 50.0,
       "category_id": "87239778",
-      "category_name": "Подсластители натуральные",
+      "category_name": "Підсолоджувачі натуральні",
       "picture": "https://images.prom.ua/6484548092_eritrit-eritritolkitajves150gr.jpg",
       "available": true
     },
@@ -3949,7 +3949,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 40.0,
       "category_id": "87239778",
-      "category_name": "Подсластители натуральные",
+      "category_name": "Підсолоджувачі натуральні",
       "picture": "https://images.prom.ua/6484548092_eritrit-eritritolkitajves250gr.jpg",
       "available": true
     },
@@ -3961,7 +3961,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 35.0,
       "category_id": "87239778",
-      "category_name": "Подсластители натуральные",
+      "category_name": "Підсолоджувачі натуральні",
       "picture": "https://images.prom.ua/6484548092_eritrit-eritritolkitajves500gr.jpg",
       "available": true
     },
@@ -3973,7 +3973,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 32.5,
       "category_id": "87239778",
-      "category_name": "Подсластители натуральные",
+      "category_name": "Підсолоджувачі натуральні",
       "picture": "https://images.prom.ua/6484548092_eritrit-eritritolkitajves1kg.jpg",
       "available": true
     },
@@ -3985,7 +3985,7 @@
       "package_weight_grams": 100.0,
       "price_per_100g": 100.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276213551_gummiarabik-e414ves100gr.jpg",
       "available": true
     },
@@ -3997,7 +3997,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 70.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276213551_gummiarabik-e414ves250gr.jpg",
       "available": true
     },
@@ -4009,7 +4009,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 62.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276213551_gummiarabik-e414ves500gr.jpg",
       "available": true
     },
@@ -4021,7 +4021,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 60.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276213551_gummiarabik-e414ves1kg.jpg",
       "available": true
     },
@@ -4033,7 +4033,7 @@
       "package_weight_grams": 20000.0,
       "price_per_100g": 16.0,
       "category_id": "30881085",
-      "category_name": "Пропиленгликоль / глицерин",
+      "category_name": "Пропіленгліколь / гліцерин",
       "picture": "https://images.prom.ua/2625859953_glitserin-tm-basf.jpg",
       "available": true
     },
@@ -4045,7 +4045,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "30881085",
-      "category_name": "Пропиленгликоль / глицерин",
+      "category_name": "Пропіленгліколь / гліцерин",
       "picture": "https://images.prom.ua/3447548589_propilenglikol-999-basf.jpg",
       "available": true
     },
@@ -4057,7 +4057,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "30881085",
-      "category_name": "Пропиленгликоль / глицерин",
+      "category_name": "Пропіленгліколь / гліцерин",
       "picture": "https://images.prom.ua/3447545559_propilenglikol-997-ves10kg.jpg",
       "available": true
     },
@@ -4069,7 +4069,7 @@
       "package_weight_grams": 150.0,
       "price_per_100g": 100.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6324158584_psillium-sheluhaindiyaves150gr.jpg",
       "available": true
     },
@@ -4081,7 +4081,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 90.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6324158584_psillium-sheluhaindiyaves250gr.jpg",
       "available": true
     },
@@ -4093,7 +4093,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 87.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6324158584_psillium-sheluhaindiyaves500gr.jpg",
       "available": true
     },
@@ -4105,7 +4105,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 85.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6324158584_psillium-sheluhaindiyaves1kg.jpg",
       "available": true
     },
@@ -4117,7 +4117,7 @@
       "package_weight_grams": 100.0,
       "price_per_100g": 60.0,
       "category_id": "87239778",
-      "category_name": "Подсластители натуральные",
+      "category_name": "Підсолоджувачі натуральні",
       "picture": "https://images.prom.ua/6484548092_ksilitolfinlyandiyaves100gr.jpg",
       "available": true
     },
@@ -4129,7 +4129,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 50.0,
       "category_id": "87239778",
-      "category_name": "Подсластители натуральные",
+      "category_name": "Підсолоджувачі натуральні",
       "picture": "https://images.prom.ua/6484548092_ksilitolfinlyandiyaves250gr.jpg",
       "available": true
     },
@@ -4141,7 +4141,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 42.0,
       "category_id": "87239778",
-      "category_name": "Подсластители натуральные",
+      "category_name": "Підсолоджувачі натуральні",
       "picture": "https://images.prom.ua/6484548092_ksilitolfinlyandiyaves500gr.jpg",
       "available": true
     },
@@ -4153,7 +4153,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 40.0,
       "category_id": "87239778",
-      "category_name": "Подсластители натуральные",
+      "category_name": "Підсолоджувачі натуральні",
       "picture": "https://images.prom.ua/6484548092_ksilitolfinlyandiyaves1kg.jpg",
       "available": true
     },
@@ -4165,7 +4165,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 64.0,
       "category_id": "5434236",
-      "category_name": "Кокосовое масло",
+      "category_name": "Кокосова олія",
       "picture": "https://images.prom.ua/6885634964_kokosovoe-maslo-extra.jpg",
       "available": true
     },
@@ -4177,7 +4177,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 60.0,
       "category_id": "5434236",
-      "category_name": "Кокосовое масло",
+      "category_name": "Кокосова олія",
       "picture": "https://images.prom.ua/6885634429_kokosovoe-maslo-extra.jpg",
       "available": true
     },
@@ -4189,7 +4189,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 40.0,
       "category_id": "13895369",
-      "category_name": "Сухофрукты и ягоды",
+      "category_name": "Сухофрукти та ягоди",
       "picture": "https://images.prom.ua/6344388305_klyukva-vyalenaya-kanadaves500gr.jpg",
       "available": true
     },
@@ -4201,7 +4201,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 40.0,
       "category_id": "13895369",
-      "category_name": "Сухофрукты и ягоды",
+      "category_name": "Сухофрукти та ягоди",
       "picture": "https://images.prom.ua/6344388305_klyukva-vyalenaya-kanadaves1kg.jpg",
       "available": true
     },
@@ -4213,7 +4213,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "84308336",
-      "category_name": "Растительные сливки и молоко",
+      "category_name": "Рослинні вершки та молоко",
       "picture": "https://images.prom.ua/6486253459_suhoe-kokosovoe-moloko.jpg",
       "available": true
     },
@@ -4225,7 +4225,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "84308336",
-      "category_name": "Растительные сливки и молоко",
+      "category_name": "Рослинні вершки та молоко",
       "picture": "https://images.prom.ua/6486253459_suhoe-kokosovoe-moloko.jpg",
       "available": true
     },
@@ -4237,7 +4237,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "84308336",
-      "category_name": "Растительные сливки и молоко",
+      "category_name": "Рослинні вершки та молоко",
       "picture": "https://images.prom.ua/6486253459_suhoe-kokosovoe-moloko.jpg",
       "available": true
     },
@@ -4249,7 +4249,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 55.0,
       "category_id": "4758936",
-      "category_name": "Подсластители синтетические",
+      "category_name": "Підсолоджувачі синтетичні",
       "picture": "https://images.prom.ua/6484548092_svitpodslastitel-smesevoj-kitaj.jpg",
       "available": true
     },
@@ -4261,7 +4261,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 50.0,
       "category_id": "4758936",
-      "category_name": "Подсластители синтетические",
+      "category_name": "Підсолоджувачі синтетичні",
       "picture": "https://images.prom.ua/6484548092_svitpodslastitel-smesevoj-kitaj.jpg",
       "available": true
     },
@@ -4273,7 +4273,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "93810767",
-      "category_name": "Ароматизаторы",
+      "category_name": "Ароматизатори",
       "picture": "https://images.prom.ua/2411335025_vanilnyj-ekstrakt-naturalnyj.jpg",
       "available": true
     },
@@ -4285,7 +4285,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "93810767",
-      "category_name": "Ароматизаторы",
+      "category_name": "Ароматизатори",
       "picture": "https://images.prom.ua/2452093014_vanilnyj-ekstrakt-naturalnyj.jpg",
       "available": true
     },
@@ -4321,7 +4321,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "84274419",
-      "category_name": "Формы пластиковые",
+      "category_name": "Форми пластикові",
       "picture": "https://images.prom.ua/5825689422_forma-dlya-shokolada.jpg",
       "available": true
     },
@@ -4333,7 +4333,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 80.0,
       "category_id": "93725288",
-      "category_name": "Сиропы",
+      "category_name": "Сиропи",
       "picture": "https://images.prom.ua/2540896664_sirop-agavy-eko.jpg",
       "available": false
     },
@@ -4345,7 +4345,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 90.0,
       "category_id": "87239778",
-      "category_name": "Подсластители натуральные",
+      "category_name": "Підсолоджувачі натуральні",
       "picture": "https://images.prom.ua/2484874580_sahar-agavy-eko.jpg",
       "available": true
     },
@@ -4357,7 +4357,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 85.0,
       "category_id": "87239778",
-      "category_name": "Подсластители натуральные",
+      "category_name": "Підсолоджувачі натуральні",
       "picture": "https://images.prom.ua/2484874580_sahar-agavy-eko.jpg",
       "available": true
     },
@@ -4369,7 +4369,7 @@
       "package_weight_grams": 150.0,
       "price_per_100g": 133.33,
       "category_id": "4833828",
-      "category_name": "Какао тертое",
+      "category_name": "Какао терте",
       "picture": "https://images.prom.ua/6300088534_kakao-tertoe-germaniya.jpg",
       "available": true
     },
@@ -4381,7 +4381,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 100.0,
       "category_id": "4833828",
-      "category_name": "Какао тертое",
+      "category_name": "Какао терте",
       "picture": "https://images.prom.ua/6300088534_kakao-tertoe-germaniya.jpg",
       "available": true
     },
@@ -4393,7 +4393,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 92.0,
       "category_id": "4833828",
-      "category_name": "Какао тертое",
+      "category_name": "Какао терте",
       "picture": "https://images.prom.ua/6300088534_kakao-tertoe-germaniya.jpg",
       "available": true
     },
@@ -4405,7 +4405,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 90.0,
       "category_id": "4833828",
-      "category_name": "Какао тертое",
+      "category_name": "Какао терте",
       "picture": "https://images.prom.ua/6300088534_kakao-tertoe-germaniya.jpg",
       "available": true
     },
@@ -4465,7 +4465,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 104.0,
       "category_id": "89326089",
-      "category_name": "Натуральные ореховые пасты",
+      "category_name": "Натуральні горіхові пасти",
       "picture": "https://images.prom.ua/2563412847_funduchnaya-pasta-ukrainaves250gr.jpg",
       "available": true
     },
@@ -4477,7 +4477,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 100.0,
       "category_id": "89326089",
-      "category_name": "Натуральные ореховые пасты",
+      "category_name": "Натуральні горіхові пасти",
       "picture": "https://images.prom.ua/2563412847_funduchnaya-pasta-ukrainaves500gr.jpg",
       "available": true
     },
@@ -4489,7 +4489,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 84.0,
       "category_id": "89326089",
-      "category_name": "Натуральные ореховые пасты",
+      "category_name": "Натуральні горіхові пасти",
       "picture": "https://images.prom.ua/2563408673_mindalnaya-pasta-ukrainaves250gr.jpg",
       "available": true
     },
@@ -4501,7 +4501,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 80.0,
       "category_id": "89326089",
-      "category_name": "Натуральные ореховые пасты",
+      "category_name": "Натуральні горіхові пасти",
       "picture": "https://images.prom.ua/2563408673_mindalnaya-pasta-ukrainaves500gr.jpg",
       "available": true
     },
@@ -4513,7 +4513,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 104.0,
       "category_id": "89326089",
-      "category_name": "Натуральные ореховые пасты",
+      "category_name": "Натуральні горіхові пасти",
       "picture": "https://images.prom.ua/2563403401_keshyu-pasta-ukrainaves250gr.jpg",
       "available": true
     },
@@ -4525,7 +4525,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 100.0,
       "category_id": "89326089",
-      "category_name": "Натуральные ореховые пасты",
+      "category_name": "Натуральні горіхові пасти",
       "picture": "https://images.prom.ua/2563403401_keshyu-pasta-ukrainaves500gr.jpg",
       "available": true
     },
@@ -4537,7 +4537,7 @@
       "package_weight_grams": 100.0,
       "price_per_100g": 200.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6321700750_zhelatin-listovoj-200.jpg",
       "available": false
     },
@@ -4549,7 +4549,7 @@
       "package_weight_grams": 200.0,
       "price_per_100g": 175.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6321700750_zhelatin-listovoj-200.jpg",
       "available": false
     },
@@ -4561,7 +4561,7 @@
       "package_weight_grams": 400.0,
       "price_per_100g": 175.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6321700750_zhelatin-listovoj-200.jpg",
       "available": false
     },
@@ -4573,7 +4573,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 160.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6321700750_zhelatin-listovoj-200.jpg",
       "available": false
     },
@@ -4597,7 +4597,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 47.0,
       "category_id": "87239778",
-      "category_name": "Подсластители натуральные",
+      "category_name": "Підсолоджувачі натуральні",
       "picture": "https://images.prom.ua/6484954539_inulin-iz-kornya.jpg",
       "available": true
     },
@@ -4609,7 +4609,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 45.0,
       "category_id": "87239778",
-      "category_name": "Подсластители натуральные",
+      "category_name": "Підсолоджувачі натуральні",
       "picture": "https://images.prom.ua/6484954539_inulin-iz-kornya.jpg",
       "available": true
     },
@@ -4633,7 +4633,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 15.0,
       "category_id": "97601300",
-      "category_name": "Специи и пряности",
+      "category_name": "Спеції і прянощі",
       "picture": "https://images.prom.ua/6484993540_gimalajskaya-rozovaya-sol.jpg",
       "available": true
     },
@@ -4645,7 +4645,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 15.0,
       "category_id": "97601300",
-      "category_name": "Специи и пряности",
+      "category_name": "Спеції і прянощі",
       "picture": "https://images.prom.ua/6484993540_gimalajskaya-rozovaya-sol.jpg",
       "available": true
     },
@@ -4669,7 +4669,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 26.0,
       "category_id": "92868476",
-      "category_name": "Глазурь Кондитерская",
+      "category_name": "Глазур Кондитерська",
       "picture": "https://images.prom.ua/6295691836_glazur-konditerskaya-belayatm.jpg",
       "available": true
     },
@@ -4681,7 +4681,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 20.0,
       "category_id": "92868476",
-      "category_name": "Глазурь Кондитерская",
+      "category_name": "Глазур Кондитерська",
       "picture": "https://images.prom.ua/6295691836_glazur-konditerskaya-belaya.jpg",
       "available": true
     },
@@ -4693,7 +4693,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 18.0,
       "category_id": "92868476",
-      "category_name": "Глазурь Кондитерская",
+      "category_name": "Глазур Кондитерська",
       "picture": "https://images.prom.ua/6295691836_glazur-konditerskaya-belaya.jpg",
       "available": true
     },
@@ -4705,7 +4705,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 26.0,
       "category_id": "92868476",
-      "category_name": "Глазурь Кондитерская",
+      "category_name": "Глазур Кондитерська",
       "picture": "https://images.prom.ua/6300088534_glazur-konditerskaya-chyornayatm.jpg",
       "available": true
     },
@@ -4717,7 +4717,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 22.0,
       "category_id": "92868476",
-      "category_name": "Глазурь Кондитерская",
+      "category_name": "Глазур Кондитерська",
       "picture": "https://images.prom.ua/6300088534_glazur-konditerskaya-chyornaya.jpg",
       "available": true
     },
@@ -4729,7 +4729,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 20.0,
       "category_id": "92868476",
-      "category_name": "Глазурь Кондитерская",
+      "category_name": "Глазур Кондитерська",
       "picture": "https://images.prom.ua/6300088534_glazur-konditerskaya-chyornaya.jpg",
       "available": true
     },
@@ -4741,7 +4741,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "93810767",
-      "category_name": "Ароматизаторы",
+      "category_name": "Ароматизатори",
       "picture": "https://images.prom.ua/3169716930_aromatizator-malina-polsha.jpg",
       "available": true
     },
@@ -4753,7 +4753,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "93810767",
-      "category_name": "Ароматизаторы",
+      "category_name": "Ароматизатори",
       "picture": "https://images.prom.ua/3168094607_aromatizator-klubnika-polsha.jpg",
       "available": true
     },
@@ -4765,7 +4765,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "93810767",
-      "category_name": "Ароматизаторы",
+      "category_name": "Ароматизатори",
       "picture": "https://images.prom.ua/3167899511_aromatizator-shokolad-polsha.jpg",
       "available": true
     },
@@ -4777,7 +4777,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 48.0,
       "category_id": "13895369",
-      "category_name": "Сухофрукты и ягоды",
+      "category_name": "Сухофрукти та ягоди",
       "picture": "https://images.prom.ua/3323788649_mango-bez-sahara.jpg",
       "available": true
     },
@@ -4789,7 +4789,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 47.0,
       "category_id": "13895369",
-      "category_name": "Сухофрукты и ягоды",
+      "category_name": "Сухофрукти та ягоди",
       "picture": "https://images.prom.ua/3323788649_mango-bez-sahara.jpg",
       "available": true
     },
@@ -4801,7 +4801,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "93810767",
-      "category_name": "Ароматизаторы",
+      "category_name": "Ароматизатори",
       "picture": "https://images.prom.ua/3167874695_aromatizator-grusha-polsha.jpg",
       "available": true
     },
@@ -4813,7 +4813,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "93810767",
-      "category_name": "Ароматизаторы",
+      "category_name": "Ароматизатори",
       "picture": "https://images.prom.ua/3169729061_aromatizator-zemlyanika-polsha.jpg",
       "available": true
     },
@@ -4825,7 +4825,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "93810767",
-      "category_name": "Ароматизаторы",
+      "category_name": "Ароматизатори",
       "picture": "https://images.prom.ua/7324946309_aromatizator-plombirtm-jarobem.jpg",
       "available": true
     },
@@ -4837,7 +4837,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "93810767",
-      "category_name": "Ароматизаторы",
+      "category_name": "Ароматизатори",
       "picture": "https://images.prom.ua/3169723282_aromatizator-vishnya-polsha.jpg",
       "available": true
     },
@@ -4849,7 +4849,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "93810767",
-      "category_name": "Ароматизаторы",
+      "category_name": "Ароматизатори",
       "picture": "https://images.prom.ua/3167894596_aromatizator-golubikapolsha-tm.jpg",
       "available": true
     },
@@ -4861,7 +4861,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "93810767",
-      "category_name": "Ароматизаторы",
+      "category_name": "Ароматизатори",
       "picture": "https://images.prom.ua/3168093687_aromatizator-ananas-polsha.jpg",
       "available": true
     },
@@ -4873,7 +4873,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "93810767",
-      "category_name": "Ароматизаторы",
+      "category_name": "Ароматизатори",
       "picture": "https://images.prom.ua/7324943637_aromatizator-tiramisu-polsha.jpg",
       "available": true
     },
@@ -4885,7 +4885,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "93810767",
-      "category_name": "Ароматизаторы",
+      "category_name": "Ароматизатори",
       "picture": "https://images.prom.ua/3167898075_aromatizator-yabloko-polsha.jpg",
       "available": true
     },
@@ -4897,7 +4897,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "93810767",
-      "category_name": "Ароматизаторы",
+      "category_name": "Ароматизатори",
       "picture": "https://images.prom.ua/3169736971_aromatizator-chernika-polsha.jpg",
       "available": true
     },
@@ -4909,7 +4909,7 @@
       "package_weight_grams": 100.0,
       "price_per_100g": 100.0,
       "category_id": "93810767",
-      "category_name": "Ароматизаторы",
+      "category_name": "Ароматизатори",
       "picture": "https://images.prom.ua/3169719456_aromatizator-chernaya-smorodina.jpg",
       "available": true
     },
@@ -4921,7 +4921,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "93810767",
-      "category_name": "Ароматизаторы",
+      "category_name": "Ароматизатори",
       "picture": "https://images.prom.ua/3168687518_aromatizator-apelsin-polsha.jpg",
       "available": true
     },
@@ -4933,7 +4933,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "93810767",
-      "category_name": "Ароматизаторы",
+      "category_name": "Ароматизатори",
       "picture": "https://images.prom.ua/3167891753_aromatizator-limon-polsha.jpg",
       "available": true
     },
@@ -4945,7 +4945,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 50.0,
       "category_id": "34619899",
-      "category_name": "Кокосовая стружка",
+      "category_name": "Кокосова стружка",
       "picture": "https://images.prom.ua/3354102414_kokosovye-chipsy-indoneziyaves250gr.jpg",
       "available": true
     },
@@ -4957,7 +4957,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 47.0,
       "category_id": "34619899",
-      "category_name": "Кокосовая стружка",
+      "category_name": "Кокосова стружка",
       "picture": "https://images.prom.ua/3354102414_kokosovye-chipsy-indoneziyaves500gr.jpg",
       "available": true
     },
@@ -4969,7 +4969,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 45.0,
       "category_id": "34619899",
-      "category_name": "Кокосовая стружка",
+      "category_name": "Кокосова стружка",
       "picture": "https://images.prom.ua/3354102414_kokosovye-chipsy-indoneziyaves1kg.jpg",
       "available": true
     },
@@ -4993,7 +4993,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 130.0,
       "category_id": "4754901",
-      "category_name": "Красители пищевые",
+      "category_name": "Харчові барвники",
       "picture": "https://images.prom.ua/6464794681_chernila-karakatitsy-tm.jpg",
       "available": true
     },
@@ -5005,7 +5005,7 @@
       "package_weight_grams": 28.0,
       "price_per_100g": 446.43,
       "category_id": "96168789",
-      "category_name": "Продукты для приготовления суши",
+      "category_name": "Продукти для приготування суші",
       "picture": "https://images.prom.ua/3323814861_vodorosli-nori-tm.jpg",
       "available": true
     },
@@ -5017,7 +5017,7 @@
       "package_weight_grams": 140.0,
       "price_per_100g": 285.71,
       "category_id": "96168789",
-      "category_name": "Продукты для приготовления суши",
+      "category_name": "Продукти для приготування суші",
       "picture": "https://images.prom.ua/3323814861_vodorosli-nori-tm.jpg",
       "available": true
     },
@@ -5029,7 +5029,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 200.0,
       "category_id": "4754901",
-      "category_name": "Красители пищевые",
+      "category_name": "Харчові барвники",
       "picture": "https://images.prom.ua/2308848581_krasitel-chernyjchernyj-black.jpg",
       "available": true
     },
@@ -5041,7 +5041,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "87239778",
-      "category_name": "Подсластители натуральные",
+      "category_name": "Підсолоджувачі натуральні",
       "picture": "https://images.prom.ua/3129834241_invertnyj-saharnyj-sirop.jpg",
       "available": false
     },
@@ -5053,7 +5053,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "87239778",
-      "category_name": "Подсластители натуральные",
+      "category_name": "Підсолоджувачі натуральні",
       "picture": "https://images.prom.ua/3129834241_invertnyj-saharnyj-sirop.jpg",
       "available": false
     },
@@ -5065,7 +5065,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "87239778",
-      "category_name": "Подсластители натуральные",
+      "category_name": "Підсолоджувачі натуральні",
       "picture": "https://images.prom.ua/3129834241_invertnyj-saharnyj-sirop.jpg",
       "available": false
     },
@@ -5077,7 +5077,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "93810767",
-      "category_name": "Ароматизаторы",
+      "category_name": "Ароматизатори",
       "picture": "https://images.prom.ua/3169732379_aromatizator-vanil-polsha.jpg",
       "available": true
     },
@@ -5137,7 +5137,7 @@
       "package_weight_grams": 100.0,
       "price_per_100g": 210.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6486253459_vinnaya-kamed-tm.jpg",
       "available": true
     },
@@ -5149,7 +5149,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 220.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6486253459_vinnaya-kamed-tm.jpg",
       "available": true
     },
@@ -5161,7 +5161,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 200.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6486253459_vinnaya-kamed-tm.jpg",
       "available": true
     },
@@ -5173,7 +5173,7 @@
       "package_weight_grams": 100.0,
       "price_per_100g": 40.0,
       "category_id": "87239778",
-      "category_name": "Подсластители натуральные",
+      "category_name": "Підсолоджувачі натуральні",
       "picture": "https://images.prom.ua/6484548092_maltitol-maltit-naturalnyj-saharozamenitel.jpg",
       "available": true
     },
@@ -5185,7 +5185,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 32.0,
       "category_id": "87239778",
-      "category_name": "Подсластители натуральные",
+      "category_name": "Підсолоджувачі натуральні",
       "picture": "https://images.prom.ua/6484548092_maltitol-maltit-naturalnyj-saharozamenitel.jpg",
       "available": true
     },
@@ -5197,7 +5197,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 28.0,
       "category_id": "87239778",
-      "category_name": "Подсластители натуральные",
+      "category_name": "Підсолоджувачі натуральні",
       "picture": "https://images.prom.ua/6484548092_maltitol-maltit-naturalnyj-saharozamenitel.jpg",
       "available": true
     },
@@ -5209,7 +5209,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 25.0,
       "category_id": "87239778",
-      "category_name": "Подсластители натуральные",
+      "category_name": "Підсолоджувачі натуральні",
       "picture": "https://images.prom.ua/6484548092_maltitol-maltit-naturalnyj-saharozamenitel.jpg",
       "available": true
     },
@@ -5221,7 +5221,7 @@
       "package_weight_grams": 50.0,
       "price_per_100g": 400.0,
       "category_id": "4843101",
-      "category_name": "Ванилин и специи",
+      "category_name": "Ванілін і спеції",
       "picture": "https://images.prom.ua/6484974061_koritsa-tsejlonskayashri-lankaves50gr.jpg",
       "available": true
     },
@@ -5233,7 +5233,7 @@
       "package_weight_grams": 100.0,
       "price_per_100g": 350.0,
       "category_id": "4843101",
-      "category_name": "Ванилин и специи",
+      "category_name": "Ванілін і спеції",
       "picture": "https://images.prom.ua/6484974061_koritsa-tsejlonskayashri-lankaves100gr.jpg",
       "available": true
     },
@@ -5245,7 +5245,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 300.0,
       "category_id": "4843101",
-      "category_name": "Ванилин и специи",
+      "category_name": "Ванілін і спеції",
       "picture": "https://images.prom.ua/6484974061_koritsa-tsejlonskayashri-lankaves250gr.jpg",
       "available": true
     },
@@ -5257,7 +5257,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 300.0,
       "category_id": "4843101",
-      "category_name": "Ванилин и специи",
+      "category_name": "Ванілін і спеції",
       "picture": "https://images.prom.ua/6484974061_koritsa-tsejlonskayashri-lankaves500gr.jpg",
       "available": true
     },
@@ -5269,7 +5269,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 290.0,
       "category_id": "4843101",
-      "category_name": "Ванилин и специи",
+      "category_name": "Ванілін і спеції",
       "picture": "https://images.prom.ua/6484974061_koritsa-tsejlonskayashri-lankaves1kg.jpg",
       "available": true
     },
@@ -5281,7 +5281,7 @@
       "package_weight_grams": 50.0,
       "price_per_100g": 1000.0,
       "category_id": "87239778",
-      "category_name": "Подсластители натуральные",
+      "category_name": "Підсолоджувачі натуральні",
       "picture": "https://images.prom.ua/6276346196_naturalnaya-steviyaekstrakt-v.jpg",
       "available": true
     },
@@ -5293,7 +5293,7 @@
       "package_weight_grams": 100.0,
       "price_per_100g": 1000.0,
       "category_id": "87239778",
-      "category_name": "Подсластители натуральные",
+      "category_name": "Підсолоджувачі натуральні",
       "picture": "https://images.prom.ua/6276346196_naturalnaya-steviyaekstrakt-v.jpg",
       "available": true
     },
@@ -5305,7 +5305,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 1000.0,
       "category_id": "87239778",
-      "category_name": "Подсластители натуральные",
+      "category_name": "Підсолоджувачі натуральні",
       "picture": "https://images.prom.ua/6276346196_naturalnaya-steviyaekstrakt-v.jpg",
       "available": true
     },
@@ -5317,7 +5317,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 1000.0,
       "category_id": "87239778",
-      "category_name": "Подсластители натуральные",
+      "category_name": "Підсолоджувачі натуральні",
       "picture": "https://images.prom.ua/6276346196_naturalnaya-steviyaekstrakt-v.jpg",
       "available": true
     },
@@ -5329,7 +5329,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 800.0,
       "category_id": "87239778",
-      "category_name": "Подсластители натуральные",
+      "category_name": "Підсолоджувачі натуральні",
       "picture": "https://images.prom.ua/6276346196_naturalnaya-steviyaekstrakt-v.jpg",
       "available": true
     },
@@ -5341,7 +5341,7 @@
       "package_weight_grams": 100.0,
       "price_per_100g": 50.0,
       "category_id": "4758936",
-      "category_name": "Подсластители синтетические",
+      "category_name": "Підсолоджувачі синтетичні",
       "picture": "https://images.prom.ua/6484954539_izomalt-kitajves100gr.jpg",
       "available": true
     },
@@ -5353,7 +5353,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 40.0,
       "category_id": "4758936",
-      "category_name": "Подсластители синтетические",
+      "category_name": "Підсолоджувачі синтетичні",
       "picture": "https://images.prom.ua/6484954539_izomalt-kitajves250gr.jpg",
       "available": true
     },
@@ -5365,7 +5365,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 45.0,
       "category_id": "4758936",
-      "category_name": "Подсластители синтетические",
+      "category_name": "Підсолоджувачі синтетичні",
       "picture": "https://images.prom.ua/6484954539_izomalt-kitajves500gr.jpg",
       "available": true
     },
@@ -5377,7 +5377,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 40.0,
       "category_id": "4758936",
-      "category_name": "Подсластители синтетические",
+      "category_name": "Підсолоджувачі синтетичні",
       "picture": "https://images.prom.ua/6484954539_izomalt-kitajves1kg.jpg",
       "available": true
     },
@@ -5389,7 +5389,7 @@
       "package_weight_grams": 50.0,
       "price_per_100g": 400.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276346196_pektin-fruktovyj-termoobratimyj.jpg",
       "available": true
     },
@@ -5401,7 +5401,7 @@
       "package_weight_grams": 100.0,
       "price_per_100g": 300.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276346196_pektin-termoobratimyj-nh.jpg",
       "available": true
     },
@@ -5413,7 +5413,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 300.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276346196_pektin-fruktovyj-termoobratimyj.jpg",
       "available": true
     },
@@ -5425,7 +5425,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 280.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276346196_pektin-fruktovyj-termoobratimyj.jpg",
       "available": true
     },
@@ -5437,7 +5437,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 280.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276346196_pektin-fruktovyj-termoobratimyj.jpg",
       "available": true
     },
@@ -5449,7 +5449,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 240.0,
       "category_id": "89326089",
-      "category_name": "Натуральные ореховые пасты",
+      "category_name": "Натуральні горіхові пасти",
       "picture": "https://images.prom.ua/3251181823_fistashkovaya-pasta-ukrainaves250gr.jpg",
       "available": true
     },
@@ -5461,7 +5461,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 240.0,
       "category_id": "89326089",
-      "category_name": "Натуральные ореховые пасты",
+      "category_name": "Натуральні горіхові пасти",
       "picture": "https://images.prom.ua/3251181823_fistashkovaya-pasta-ukrainaves500gr.jpg",
       "available": true
     },
@@ -5473,7 +5473,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 44.0,
       "category_id": "89326089",
-      "category_name": "Натуральные ореховые пасты",
+      "category_name": "Натуральні горіхові пасти",
       "picture": "https://images.prom.ua/3269037975_arahisovaya-pasta-klassicheskayaukrainaves250gr.jpg",
       "available": true
     },
@@ -5485,7 +5485,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 40.0,
       "category_id": "89326089",
-      "category_name": "Натуральные ореховые пасты",
+      "category_name": "Натуральні горіхові пасти",
       "picture": "https://images.prom.ua/3269037975_arahisovaya-pasta-klassicheskayaukrainaves500gr.jpg",
       "available": true
     },
@@ -5497,7 +5497,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 37.5,
       "category_id": "89326089",
-      "category_name": "Натуральные ореховые пасты",
+      "category_name": "Натуральні горіхові пасти",
       "picture": "https://images.prom.ua/3269037975_arahisovaya-pasta-klassicheskayaukrainaves1kg.jpg",
       "available": true
     },
@@ -5509,7 +5509,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 75.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6484931645_pischevye-drozhzhi-neaktivnyehlopya.jpg",
       "available": true
     },
@@ -5569,7 +5569,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 20.0,
       "category_id": "4758936",
-      "category_name": "Подсластители синтетические",
+      "category_name": "Підсолоджувачі синтетичні",
       "picture": "https://images.prom.ua/6484954539_polidekstroza-kitajves500gr.jpg",
       "available": false
     },
@@ -5581,7 +5581,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 18.0,
       "category_id": "4758936",
-      "category_name": "Подсластители синтетические",
+      "category_name": "Підсолоджувачі синтетичні",
       "picture": "https://images.prom.ua/6484954539_polidekstroza-kitajves1kg.jpg",
       "available": false
     },
@@ -5605,7 +5605,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 38.0,
       "category_id": "4754901",
-      "category_name": "Красители пищевые",
+      "category_name": "Харчові барвники",
       "picture": "https://images.prom.ua/3167868202_krasitel-dioksid-titana.jpg",
       "available": true
     },
@@ -5641,7 +5641,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 80.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6484931645_pischevye-drozhzhi-neaktivnyehlopya.jpg",
       "available": true
     },
@@ -5653,7 +5653,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 80.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6484931645_pischevye-drozhzhi-neaktivnyehlopya.jpg",
       "available": true
     },
@@ -5665,7 +5665,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 60.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6344392910_sparzha-soevaya-sushenaya.jpg",
       "available": true
     },
@@ -5677,7 +5677,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 28.0,
       "category_id": "4754901",
-      "category_name": "Красители пищевые",
+      "category_name": "Харчові барвники",
       "picture": "https://images.prom.ua/6484936837_krasitel-dioksid-titana.jpg",
       "available": true
     },
@@ -5689,7 +5689,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 120.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276222036_albumin-85-yaichnyj.jpg",
       "available": true
     },
@@ -5701,7 +5701,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 37.0,
       "category_id": "23546082",
-      "category_name": "Сухое молоко, сливки",
+      "category_name": "Сухе молоко, вершки",
       "picture": "https://images.prom.ua/6276349438_moloko-suhoe-tselnoe.jpg",
       "available": true
     },
@@ -5713,7 +5713,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 24.0,
       "category_id": "23546082",
-      "category_name": "Сухое молоко, сливки",
+      "category_name": "Сухе молоко, вершки",
       "picture": "https://images.prom.ua/6276350123_suhoe-moloko-obezzhirennoe15.jpg",
       "available": true
     },
@@ -5725,7 +5725,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 48.0,
       "category_id": "23546082",
-      "category_name": "Сухое молоко, сливки",
+      "category_name": "Сухе молоко, вершки",
       "picture": "https://images.prom.ua/6276361555_suhie-slivki-42.jpg",
       "available": true
     },
@@ -5737,7 +5737,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 60.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6324247572_muer-drevesnyj-grib.jpg",
       "available": true
     },
@@ -5749,7 +5749,7 @@
       "package_weight_grams": 100.0,
       "price_per_100g": 125.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6324247572_muer-drevesnyj-grib.jpg",
       "available": true
     },
@@ -5761,7 +5761,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 60.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6324247572_muer-drevesnyj-grib.jpg",
       "available": true
     },
@@ -5773,7 +5773,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 60.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6324247572_muer-drevesnyj-grib.jpg",
       "available": true
     },
@@ -5785,7 +5785,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6321700750_zhelatin-listovoj-halyal.jpg",
       "available": true
     },
@@ -5797,7 +5797,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 160.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6321700750_zhelatin-listovoj-halyal.jpg",
       "available": true
     },
@@ -5809,7 +5809,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 150.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6321700750_zhelatin-listovoj-halyal.jpg",
       "available": true
     },
@@ -5821,7 +5821,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 140.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6321700750_zhelatin-listovoj-halyal.jpg",
       "available": true
     },
@@ -5893,7 +5893,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 110.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276246769_albumin-85-belka.jpg",
       "available": true
     },
@@ -5905,7 +5905,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 60.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276253447_zhelatin-240-bloom.jpg",
       "available": true
     },
@@ -5917,7 +5917,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 60.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276253447_zhelatin-240-bloom.jpg",
       "available": true
     },
@@ -5929,7 +5929,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 66.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276253447_zhelatin-240-bloom.jpg",
       "available": true
     },
@@ -5941,7 +5941,7 @@
       "package_weight_grams": 100.0,
       "price_per_100g": 70.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276253447_zhelatin-240-bloom.jpg",
       "available": true
     },
@@ -5953,7 +5953,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "84274419",
-      "category_name": "Формы пластиковые",
+      "category_name": "Форми пластикові",
       "picture": "https://images.prom.ua/5825689422_forma-dlya-shokoladu.jpg",
       "available": true
     },
@@ -5965,7 +5965,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 15.0,
       "category_id": "97601300",
-      "category_name": "Специи и пряности",
+      "category_name": "Спеції і прянощі",
       "picture": "https://images.prom.ua/6464611922_gimalajskaya-rozovaya-sol.jpg",
       "available": true
     },
@@ -5977,7 +5977,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 15.0,
       "category_id": "97601300",
-      "category_name": "Специи и пряности",
+      "category_name": "Спеції і прянощі",
       "picture": "https://images.prom.ua/6464611922_gimalajskaya-rozovaya-sol.jpg",
       "available": true
     },
@@ -5989,7 +5989,7 @@
       "package_weight_grams": 100.0,
       "price_per_100g": 125.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276246769_albumin-85-yaichnyj.jpg",
       "available": true
     },
@@ -6001,7 +6001,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 120.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276246769_albumin-85-yaichnyj.jpg",
       "available": true
     },
@@ -6013,7 +6013,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 115.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276246769_albumin-85-yaichnyj.jpg",
       "available": true
     },
@@ -6025,7 +6025,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 105.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276246769_albumin-85-yaichnyj.jpg",
       "available": true
     },
@@ -6049,7 +6049,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 60.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6266162762_zhelatin-govyazhij-240bloom.jpg",
       "available": true
     },
@@ -6061,7 +6061,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 60.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6266162762_zhelatin-govyazhij-240bloom.jpg",
       "available": true
     },
@@ -6073,7 +6073,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 66.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6266162762_zhelatin-govyazhij-240.jpg",
       "available": true
     },
@@ -6085,7 +6085,7 @@
       "package_weight_grams": 100.0,
       "price_per_100g": 70.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6266162762_zhelatin-govyazhij-240.jpg",
       "available": true
     },
@@ -6097,7 +6097,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 95.0,
       "category_id": "61424714",
-      "category_name": "Суперфуды",
+      "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6324147320_psillium-poroshokindiyaves1kg.jpg",
       "available": true
     },
@@ -6109,7 +6109,7 @@
       "package_weight_grams": 100.0,
       "price_per_100g": 125.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276222036_albumin-85-yaichnyj.jpg",
       "available": true
     },
@@ -6121,7 +6121,7 @@
       "package_weight_grams": 100.0,
       "price_per_100g": 110.0,
       "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумин, Желатин, Пектин.",
+      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276246769_albumin-85-belka.jpg",
       "available": true
     },
@@ -6133,7 +6133,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 240.0,
       "category_id": "13894011",
-      "category_name": "Орехи",
+      "category_name": "Горіхи",
       "picture": "https://images.prom.ua/7453513731_kedrovyj-orehkitajves250gr.jpg",
       "available": true
     },
@@ -6145,7 +6145,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "93810767",
-      "category_name": "Ароматизаторы",
+      "category_name": "Ароматизатори",
       "picture": "https://images.prom.ua/7324937505_aromatizator-bejlis-polsha.jpg",
       "available": true
     },
@@ -6157,7 +6157,7 @@
       "package_weight_grams": null,
       "price_per_100g": null,
       "category_id": "93810767",
-      "category_name": "Ароматизаторы",
+      "category_name": "Ароматизатори",
       "picture": "https://images.prom.ua/7324935261_aromatizator-irlandskij-krem.jpg",
       "available": true
     },
@@ -6169,7 +6169,7 @@
       "package_weight_grams": 280.0,
       "price_per_100g": 232.14,
       "category_id": "96168789",
-      "category_name": "Продукты для приготовления суши",
+      "category_name": "Продукти для приготування суші",
       "picture": "https://images.prom.ua/3323814861_vodorosli-nori-tm.jpg",
       "available": true
     },
@@ -6229,7 +6229,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 25.0,
       "category_id": "97601300",
-      "category_name": "Специи и пряности",
+      "category_name": "Спеції і прянощі",
       "picture": "https://images.prom.ua/7324665566_mak-konditerskijchehiyaves1kg.jpg",
       "available": true
     },
@@ -6241,7 +6241,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 35.0,
       "category_id": "97601300",
-      "category_name": "Специи и пряности",
+      "category_name": "Спеції і прянощі",
       "picture": "https://images.prom.ua/7324665566_mak-konditerskijchehiyaves500gr.jpg",
       "available": true
     },
@@ -6265,7 +6265,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 80.0,
       "category_id": "4833828",
-      "category_name": "Какао тертое",
+      "category_name": "Какао терте",
       "picture": "https://images.prom.ua/7453468534_kakao-tertoe-dropsytm.jpg",
       "available": true
     },
@@ -6277,7 +6277,7 @@
       "package_weight_grams": 500.0,
       "price_per_100g": 85.0,
       "category_id": "4833828",
-      "category_name": "Какао тертое",
+      "category_name": "Какао терте",
       "picture": "https://images.prom.ua/7453468534_kakao-tertoe-dropsytm.jpg",
       "available": true
     },
@@ -6289,7 +6289,7 @@
       "package_weight_grams": 250.0,
       "price_per_100g": 94.0,
       "category_id": "4833828",
-      "category_name": "Какао тертое",
+      "category_name": "Какао терте",
       "picture": "https://images.prom.ua/7453468534_kakao-tertoe-dropsytm.jpg",
       "available": true
     },
@@ -6301,7 +6301,7 @@
       "package_weight_grams": 150.0,
       "price_per_100g": 100.0,
       "category_id": "4833828",
-      "category_name": "Какао тертое",
+      "category_name": "Какао терте",
       "picture": "https://images.prom.ua/7453468534_kakao-tertoe-dropsytm.jpg",
       "available": true
     },
@@ -6313,7 +6313,7 @@
       "package_weight_grams": 1000.0,
       "price_per_100g": 150.0,
       "category_id": "4758971",
-      "category_name": "Усилители вкуса",
+      "category_name": "Підсилювачі смаку",
       "picture": "https://images.prom.ua/6484548092_etilmaltol-e-637kitajves1kg.jpg",
       "available": true
     },
