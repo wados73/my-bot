@@ -60,10 +60,23 @@
 </head>
 <body>
 
-<header>
-  <p class="sub">Крамниця</p>
-  <p class="title">Пищевик</p>
+<header style="display:flex;align-items:center;justify-content:space-between;">
+  <div>
+    <p class="sub">Крамниця</p>
+    <p class="title">Пищевик</p>
+  </div>
+  <button id="contactsBtn" style="background:rgba(255,255,255,0.5);border:1px solid rgba(0,0,0,0.15);border-radius:10px;padding:8px 12px;font-size:13px;font-weight:600;color:#2B1D0A;">Контакти</button>
 </header>
+
+<div id="contactsOverlay" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,0.4);z-index:100;">
+  <div style="background:#fff;margin:20% 20px 0;border-radius:14px;padding:20px;">
+    <p style="font-size:16px;font-weight:700;margin:0 0 12px;">Контакти</p>
+    <p style="font-size:14px;margin:0 0 8px;">📞 <a href="tel:+380973588077" style="color:#2B1D14;">+38 (097) 358-80-77</a></p>
+    <p style="font-size:14px;margin:0 0 8px;">📍 49074, м. Дніпро, вул. Батумська 11, оф. 104</p>
+    <p style="font-size:13px;color:#8A7B6C;margin:0 0 16px;">Пн–Пт: 08:00–16:00, Сб–Нд: вихідний</p>
+    <button id="closeContacts" style="width:100%;padding:12px;border:none;border-radius:10px;background:#2B1D14;color:#fff;font-size:14px;font-weight:600;">Закрити</button>
+  </div>
+</div>
 
 <div class="search">
   <span>🔍</span>
