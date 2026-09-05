@@ -13,18 +13,26 @@
   *{box-sizing:border-box;}
   html,body{margin:0;overflow-x:hidden;max-width:100vw;}
   body{background:var(--bg);color:var(--text);font-family:-apple-system,Roboto,sans-serif;padding-bottom:90px;}
+
   header{
     padding:20px 16px;
+    display:flex;align-items:center;justify-content:space-between;
     background-color:#D9A520;
-    background-image:url("data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2790%27 height=%2790%27%3E%3Crect width=%2790%27 height=%2790%27 fill=%27%23D9A520%27/%3E%3Ccircle cx=%2718%27 cy=%2722%27 r=%2710%27 fill=%27%23B8860B%27 fill-opacity=%270.35%27/%3E%3Crect x=%2810%27 y=%2830%27 width=%2716%27 height=%276%27 rx=%273%27 fill=%27%238B5A2B%27 fill-opacity=%270.3%27/%3E%3Ccircle cx=%2765%27 cy=%2760%27 r=%2712%27 fill=%27%23B8860B%27 fill-opacity=%270.3%27/%3E%3Crect x=%2757%27 y=%2770%27 width=%2716%27 height=%275%27 rx=%272.5%27 fill=%27%238B5A2B%27 fill-opacity=%270.25%27/%3E%3Ccircle cx=%2745%27 cy=%2712%27 r=%276%27 fill=%27%23F4C542%27 fill-opacity=%270.4%27/%3E%3C/svg%3E");
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='90' height='90'%3E%3Crect width='90' height='90' fill='%23D9A520'/%3E%3Ccircle cx='18' cy='22' r='10' fill='%23B8860B' fill-opacity='0.35'/%3E%3Crect x='10' y='30' width='16' height='6' rx='3' fill='%238B5A2B' fill-opacity='0.3'/%3E%3Ccircle cx='65' cy='60' r='12' fill='%23B8860B' fill-opacity='0.3'/%3E%3Crect x='57' y='70' width='16' height='5' rx='2.5' fill='%238B5A2B' fill-opacity='0.25'/%3E%3Ccircle cx='45' cy='12' r='6' fill='%23F4C542' fill-opacity='0.4'/%3E%3C/svg%3E");
     background-size:90px 90px;
     border-bottom:2px solid #B8860B;
   }
   header p{margin:0;}
-  header .sub{color:#5A3E0A;}
-  header .title{color:#2B1D0A;text-shadow:0 1px 0 rgba(255,255,255,0.3);}
-  .sub{font-size:13px;color:var(--muted);}
-  .title{font-size:19px;font-weight:600;margin-top:2px;}
+  header .sub{font-size:13px;color:#5A3E0A;}
+  header .title{font-size:19px;font-weight:600;margin-top:2px;color:#2B1D0A;text-shadow:0 1px 0 rgba(255,255,255,0.3);}
+  #contactsBtn{background:rgba(255,255,255,0.55);border:1px solid rgba(0,0,0,0.15);border-radius:10px;padding:8px 12px;font-size:13px;font-weight:600;color:#2B1D0A;}
+
+  #contactsOverlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,0.4);z-index:100;}
+  #contactsOverlay .box{background:#fff;margin:20% 20px 0;border-radius:14px;padding:20px;}
+  #contactsOverlay .box p{margin:0 0 8px;font-size:14px;}
+  #contactsOverlay .box a{color:#2B1D14;}
+  #closeContacts{width:100%;padding:12px;border:none;border-radius:10px;background:#2B1D14;color:#fff;font-size:14px;font-weight:600;margin-top:8px;}
+
   .search{position:relative;margin:12px 16px;}
   .search input{width:100%;padding:10px 12px 10px 34px;border-radius:10px;border:1px solid var(--border);background:var(--card);font-size:15px;}
   .search span{position:absolute;left:11px;top:50%;transform:translateY(-50%);color:var(--muted);}
@@ -33,8 +41,6 @@
   .catrow{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:14px 4px;border-bottom:1px solid var(--border);font-size:14.5px;font-weight:500;}
   .catrow .catname{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;flex:1;}
   .catrow .arrow{color:var(--text);font-size:22px;font-weight:800;flex:none;line-height:1;}
-  .catrow .cnt{font-size:12px;color:var(--muted);}
-  .catrow .arrow{color:var(--muted);margin-left:8px;}
 
   .backbar{display:flex;align-items:center;gap:8px;padding:4px 16px 8px;}
   .backbar button{border:none;background:none;font-size:14px;color:var(--text);padding:6px 0;}
@@ -60,21 +66,21 @@
 </head>
 <body>
 
-<header style="display:flex;align-items:center;justify-content:space-between;">
+<header>
   <div>
     <p class="sub">Крамниця</p>
     <p class="title">Пищевик</p>
   </div>
-  <button id="contactsBtn" style="background:rgba(255,255,255,0.5);border:1px solid rgba(0,0,0,0.15);border-radius:10px;padding:8px 12px;font-size:13px;font-weight:600;color:#2B1D0A;">Контакти</button>
+  <button id="contactsBtn" type="button">Контакти</button>
 </header>
 
-<div id="contactsOverlay" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,0.4);z-index:100;">
-  <div style="background:#fff;margin:20% 20px 0;border-radius:14px;padding:20px;">
-    <p style="font-size:16px;font-weight:700;margin:0 0 12px;">Контакти</p>
-    <p style="font-size:14px;margin:0 0 8px;">📞 <a href="tel:+380973588077" style="color:#2B1D14;">+38 (097) 358-80-77</a></p>
-    <p style="font-size:14px;margin:0 0 8px;">📍 49074, м. Дніпро, вул. Батумська 11, оф. 104</p>
-    <p style="font-size:13px;color:#8A7B6C;margin:0 0 16px;">Пн–Пт: 08:00–16:00, Сб–Нд: вихідний</p>
-    <button id="closeContacts" style="width:100%;padding:12px;border:none;border-radius:10px;background:#2B1D14;color:#fff;font-size:14px;font-weight:600;">Закрити</button>
+<div id="contactsOverlay">
+  <div class="box">
+    <p style="font-size:16px;font-weight:700;">Контакти</p>
+    <p>📞 <a href="tel:+380973588077">+38 (097) 358-80-77</a></p>
+    <p>📍 49074, м. Дніпро, вул. Батумська 11, оф. 104</p>
+    <p style="color:#8A7B6C;font-size:13px;">Пн–Пт: 08:00–16:00, Сб–Нд: вихідний</p>
+    <button id="closeContacts" type="button">Закрити</button>
   </div>
 </div>
 
@@ -84,7 +90,7 @@
 </div>
 
 <div id="backbar" class="backbar" style="display:none;">
-  <button id="backBtn">← Всі категорії</button>
+  <button id="backBtn" type="button">← Всі категорії</button>
 </div>
 
 <div class="catlist" id="catlist"></div>
@@ -252,6 +258,13 @@ document.getElementById('backBtn').addEventListener('click', function(){
   state.view = 'categories'; state.cat = null; render();
 });
 
+document.getElementById('contactsBtn').addEventListener('click', function(){
+  document.getElementById('contactsOverlay').style.display = 'block';
+});
+document.getElementById('closeContacts').addEventListener('click', function(){
+  document.getElementById('contactsOverlay').style.display = 'none';
+});
+
 document.getElementById('checkout').addEventListener('click', function(){
   var items = DATA.products.filter(function(p){ return state.qty[p.id] > 0; });
   if (items.length === 0) { alert('Кошик порожній'); return; }
@@ -259,12 +272,7 @@ document.getElementById('checkout').addEventListener('click', function(){
     source: 'miniapp',
     items: items.map(function(p){
       var qty = state.qty[p.id];
-      return {
-        name: p.name,
-        qty: qty,
-        unit: unitLabel(p),
-        sum: +calcSum(p, qty).toFixed(0)
-      };
+      return { name: p.name, qty: qty, unit: unitLabel(p), sum: +calcSum(p, qty).toFixed(0) };
     }),
     total: items.reduce(function(s,p){ return s + calcSum(p, state.qty[p.id]); }, 0).toFixed(0)
   };
