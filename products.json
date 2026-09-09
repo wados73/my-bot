@@ -1,13 +1,5 @@
 {
   "categories": {
-    "93760388": "Подарочный сертификат",
-    "36468700": "Миндальная мука",
-    "38508653": "Кокосовая мука",
-    "92868476": "Глазурь Кондитерская",
-    "4754926": "Консерванты пищевые",
-    "4758971": "Усилители вкуса",
-    "96168789": "Продукты для приготовления суши",
-    "87239778": "Подсластители натуральные",
     "75262432": "Натуральный шоколад",
     "84274419": "Формы пластиковые",
     "84304920": "Кокосовый сахар и тростниковый",
@@ -32,13 +24,21 @@
     "34593334": "Кунжут",
     "60399313": "Все для кондитера",
     "61424714": "Суперфуды",
+    "93760388": "Подарочный сертификат",
     "4834758": "Какао масло",
     "4876295": "Мальтодекстрин",
     "4833828": "Какао тертое",
+    "36468700": "Миндальная мука",
+    "38508653": "Кокосовая мука",
     "34619899": "Кокосовая стружка",
     "66335282": "Водоросли и морская капуста",
+    "92868476": "Глазурь Кондитерская",
     "13894011": "Орехи",
-    "4843101": "Ванилин и специи"
+    "4754926": "Консерванты пищевые",
+    "4758971": "Усилители вкуса",
+    "4843101": "Ванилин и специи",
+    "96168789": "Продукты для приготовления суши",
+    "87239778": "Подсластители натуральные"
   },
   "products": [
     {
@@ -1758,7 +1758,7 @@
       "category_id": "13894011",
       "category_name": "Орехи",
       "picture": "https://images.prom.ua/6486106188_pekan-syrojochischennyjsshaves150gr.jpg",
-      "available": true
+      "available": false
     },
     {
       "id": "934165415",
@@ -1767,7 +1767,7 @@
       "category_id": "13894011",
       "category_name": "Орехи",
       "picture": "https://images.prom.ua/6486106188_pekan-syrojochischennyjsshaves250gr.jpg",
-      "available": true
+      "available": false
     },
     {
       "id": "934167911",
@@ -1776,7 +1776,7 @@
       "category_id": "13894011",
       "category_name": "Орехи",
       "picture": "https://images.prom.ua/6486106188_pekan-syroj-ochischennyjsshaves500gr.jpg",
-      "available": true
+      "available": false
     },
     {
       "id": "934170063",
@@ -1785,7 +1785,7 @@
       "category_id": "13894011",
       "category_name": "Орехи",
       "picture": "https://images.prom.ua/6486106188_pekan-syroj-ochischennyj.jpg",
-      "available": true
+      "available": false
     },
     {
       "id": "934635434",
@@ -2487,7 +2487,7 @@
       "category_id": "13894011",
       "category_name": "Орехи",
       "picture": "https://images.prom.ua/7453513731_kedrovyj-orehkitajves500gr.jpg",
-      "available": true
+      "available": false
     },
     {
       "id": "1044787754",
@@ -2496,7 +2496,7 @@
       "category_id": "13894011",
       "category_name": "Орехи",
       "picture": "https://images.prom.ua/7453513731_kedrovyj-orehkitajves1kg.jpg",
-      "available": true
+      "available": false
     },
     {
       "id": "1044798892",
@@ -4611,7 +4611,7 @@
       "category_id": "13894011",
       "category_name": "Орехи",
       "picture": "https://images.prom.ua/7453513731_kedrovyj-orehkitajves250gr.jpg",
-      "available": true
+      "available": false
     },
     {
       "id": "2446044447",
