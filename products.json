@@ -3663,7 +3663,7 @@
       "category_id": "4754901",
       "category_name": "Харчові барвники",
       "picture": "https://images.prom.ua/2308848581_krasitel-chernyj-chernyj-.jpg",
-      "available": true
+      "available": false
     },
     {
       "id": "1110342203",
@@ -3675,7 +3675,7 @@
       "category_id": "4754901",
       "category_name": "Харчові барвники",
       "picture": "https://images.prom.ua/2308848636_krasitel-zelenyj-zelenoe.jpg",
-      "available": true
+      "available": false
     },
     {
       "id": "1110357992",
