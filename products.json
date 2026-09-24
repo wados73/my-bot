@@ -4998,30 +4998,6 @@
       "available": true
     },
     {
-      "id": "1385874882",
-      "name": "Водорості Норі ТМ Dong Bao(Китай).10 аркушів 28 г.",
-      "price": 125.0,
-      "unit_type": "weight",
-      "package_weight_grams": 28.0,
-      "price_per_100g": 446.43,
-      "category_id": "96168789",
-      "category_name": "Продукти для приготування суші",
-      "picture": "https://images.prom.ua/3323814861_vodorosli-nori-tm.jpg",
-      "available": true
-    },
-    {
-      "id": "1385877132",
-      "name": "Водорості Норі ТМ Dong Bao(Китай).50 аркушів 140 г.",
-      "price": 400.0,
-      "unit_type": "weight",
-      "package_weight_grams": 140.0,
-      "price_per_100g": 285.71,
-      "category_id": "96168789",
-      "category_name": "Продукти для приготування суші",
-      "picture": "https://images.prom.ua/3323814861_vodorosli-nori-tm.jpg",
-      "available": true
-    },
-    {
       "id": "1393362546",
       "name": "Барвник чорний: Чорний-black (Індія).Вага:1кг.",
       "price": 2000.0,
@@ -6159,18 +6135,6 @@
       "category_id": "93810767",
       "category_name": "Ароматизатори",
       "picture": "https://images.prom.ua/7324935261_aromatizator-irlandskij-krem.jpg",
-      "available": true
-    },
-    {
-      "id": "2475699346",
-      "name": "Водорості Норі ТМ Dong Bao(Китай).100 аркушів 280г.",
-      "price": 650.0,
-      "unit_type": "weight",
-      "package_weight_grams": 280.0,
-      "price_per_100g": 232.14,
-      "category_id": "96168789",
-      "category_name": "Продукти для приготування суші",
-      "picture": "https://images.prom.ua/3323814861_vodorosli-nori-tm.jpg",
       "available": true
     },
     {
