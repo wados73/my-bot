@@ -464,10 +464,10 @@
     {
       "id": "175693379",
       "name": "Кероб Лайт (легкого обсмажування) (Іспанія).Вага:1кг.",
-      "price": 175.0,
+      "price": 150.0,
       "unit_type": "weight",
       "package_weight_grams": 1000.0,
-      "price_per_100g": 17.5,
+      "price_per_100g": 15.0,
       "category_id": "7474477",
       "category_name": "Кероб натуральний замінник кави, какао",
       "picture": "https://images.prom.ua/6321676464_kerob-lajt-slaboj.jpg",
@@ -560,10 +560,10 @@
     {
       "id": "319340657",
       "name": "Кероб Медіум (обсмажений) (Іспанія).Вага:1кг.",
-      "price": 175.0,
+      "price": 150.0,
       "unit_type": "weight",
       "package_weight_grams": 1000.0,
-      "price_per_100g": 17.5,
+      "price_per_100g": 15.0,
       "category_id": "7474477",
       "category_name": "Кероб натуральний замінник кави, какао",
       "picture": "https://images.prom.ua/6321673892_kerob-medium-obzharennyj.jpg",
@@ -1455,7 +1455,7 @@
       "category_id": "13894011",
       "category_name": "Горіхи",
       "picture": "https://images.prom.ua/7453513731_kedrovyj-orehkitajves150gr.jpg",
-      "available": true
+      "available": false
     },
     {
       "id": "727704985",
@@ -2996,10 +2996,10 @@
     {
       "id": "1030658791",
       "name": "Кероб сирий (Іспанія).Вага:1кг.",
-      "price": 175.0,
+      "price": 150.0,
       "unit_type": "weight",
       "package_weight_grams": 1000.0,
-      "price_per_100g": 17.5,
+      "price_per_100g": 15.0,
       "category_id": "7474477",
       "category_name": "Кероб натуральний замінник кави, какао",
       "picture": "https://images.prom.ua/6321675315_kerob-syroj-ispaniyaves1.jpg",
