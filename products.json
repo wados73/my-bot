@@ -1446,18 +1446,6 @@
       "available": true
     },
     {
-      "id": "727688084",
-      "name": "Кедровий горіх(Китай).Вага:150г.",
-      "price": 360.0,
-      "unit_type": "weight",
-      "package_weight_grams": 150.0,
-      "price_per_100g": 240.0,
-      "category_id": "13894011",
-      "category_name": "Горіхи",
-      "picture": "https://images.prom.ua/7453513731_kedrovyj-orehkitajves150gr.jpg",
-      "available": false
-    },
-    {
       "id": "727704985",
       "name": "Кеш'ю смажений (В'єтнам).Вага:150г.",
       "price": 100.0,
@@ -3292,30 +3280,6 @@
       "category_name": "Натуральний шоколад",
       "picture": "https://images.prom.ua/2135407915_chernyj-shokolad-73.jpg",
       "available": true
-    },
-    {
-      "id": "1044786894",
-      "name": "Кедровий горіх(Китай).Вага:500г.",
-      "price": 1000.0,
-      "unit_type": "weight",
-      "package_weight_grams": 500.0,
-      "price_per_100g": 200.0,
-      "category_id": "13894011",
-      "category_name": "Горіхи",
-      "picture": "https://images.prom.ua/7453513731_kedrovyj-orehkitajves500gr.jpg",
-      "available": false
-    },
-    {
-      "id": "1044787754",
-      "name": "Кедровий горіх(Китай).Вага:1кг.",
-      "price": 1900.0,
-      "unit_type": "weight",
-      "package_weight_grams": 1000.0,
-      "price_per_100g": 190.0,
-      "category_id": "13894011",
-      "category_name": "Горіхи",
-      "picture": "https://images.prom.ua/7453513731_kedrovyj-orehkitajves1kg.jpg",
-      "available": false
     },
     {
       "id": "1044798892",
@@ -5539,27 +5503,27 @@
     },
     {
       "id": "1502797535",
-      "name": "Полідидекстроза (Китай).Вага:500г.",
-      "price": 100.0,
+      "name": "Полідекстроза (Китай).Вага:500г.",
+      "price": 115.0,
       "unit_type": "weight",
       "package_weight_grams": 500.0,
-      "price_per_100g": 20.0,
+      "price_per_100g": 23.0,
       "category_id": "4758936",
       "category_name": "Підсолоджувачі синтетичні",
       "picture": "https://images.prom.ua/6484954539_polidekstroza-kitajves500gr.jpg",
-      "available": false
+      "available": true
     },
     {
       "id": "1502797563",
-      "name": "Полідидекстроза (Китай).Вага:1кг.",
-      "price": 180.0,
+      "name": "Полідекстроза (Китай).Вага:1кг.",
+      "price": 200.0,
       "unit_type": "weight",
       "package_weight_grams": 1000.0,
-      "price_per_100g": 18.0,
+      "price_per_100g": 20.0,
       "category_id": "4758936",
       "category_name": "Підсолоджувачі синтетичні",
       "picture": "https://images.prom.ua/6484954539_polidekstroza-kitajves1kg.jpg",
-      "available": false
+      "available": true
     },
     {
       "id": "1535547026",
@@ -6100,18 +6064,6 @@
       "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276246769_albumin-85-belka.jpg",
       "available": true
-    },
-    {
-      "id": "2420784658",
-      "name": "Кедровий горіх(Китай).Вага:250г.",
-      "price": 600.0,
-      "unit_type": "weight",
-      "package_weight_grams": 250.0,
-      "price_per_100g": 240.0,
-      "category_id": "13894011",
-      "category_name": "Горіхи",
-      "picture": "https://images.prom.ua/7453513731_kedrovyj-orehkitajves250gr.jpg",
-      "available": false
     },
     {
       "id": "2446044447",
