@@ -2427,7 +2427,7 @@
       "category_id": "13895369",
       "category_name": "Сухофрукти та ягоди",
       "picture": "https://images.prom.ua/6486103075_finik-korolevskij-iranves150gr.jpg",
-      "available": true
+      "available": false
     },
     {
       "id": "945257530",
@@ -2439,7 +2439,7 @@
       "category_id": "13895369",
       "category_name": "Сухофрукти та ягоди",
       "picture": "https://images.prom.ua/6486103075_finik-korolevskij-iranves250gr.jpg",
-      "available": true
+      "available": false
     },
     {
       "id": "945260454",
@@ -2451,7 +2451,7 @@
       "category_id": "13895369",
       "category_name": "Сухофрукти та ягоди",
       "picture": "https://images.prom.ua/6486103075_finik-korolevskij-iranves500gr.jpg",
-      "available": true
+      "available": false
     },
     {
       "id": "945261528",
@@ -2463,7 +2463,7 @@
       "category_id": "13895369",
       "category_name": "Сухофрукти та ягоди",
       "picture": "https://images.prom.ua/6486103075_finik-korolevskij-iranves1kg.jpg",
-      "available": true
+      "available": false
     },
     {
       "id": "945271893",
