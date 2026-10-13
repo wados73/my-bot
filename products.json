@@ -3884,10 +3884,10 @@
     {
       "id": "1124376138",
       "name": "Гуміарабік (Е414).Вага:500г.",
-      "price": 310.0,
+      "price": 335.0,
       "unit_type": "weight",
       "package_weight_grams": 500.0,
-      "price_per_100g": 62.0,
+      "price_per_100g": 67.0,
       "category_id": "5268576",
       "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276213551_gummiarabik-e414ves500gr.jpg",
@@ -3896,10 +3896,10 @@
     {
       "id": "1124376737",
       "name": "Гуміарабік (Е414).Вага:1кг.",
-      "price": 600.0,
+      "price": 650.0,
       "unit_type": "weight",
       "package_weight_grams": 1000.0,
-      "price_per_100g": 60.0,
+      "price_per_100g": 65.0,
       "category_id": "5268576",
       "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6276213551_gummiarabik-e414ves1kg.jpg",
@@ -5643,7 +5643,7 @@
       "category_id": "5268576",
       "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6321700750_zhelatin-listovoj-halyal.jpg",
-      "available": true
+      "available": false
     },
     {
       "id": "1666388696",
@@ -5655,7 +5655,7 @@
       "category_id": "5268576",
       "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6321700750_zhelatin-listovoj-halyal.jpg",
-      "available": true
+      "available": false
     },
     {
       "id": "1666388740",
@@ -5667,7 +5667,7 @@
       "category_id": "5268576",
       "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6321700750_zhelatin-listovoj-halyal.jpg",
-      "available": true
+      "available": false
     },
     {
       "id": "1666388772",
@@ -5679,7 +5679,7 @@
       "category_id": "5268576",
       "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6321700750_zhelatin-listovoj-halyal.jpg",
-      "available": true
+      "available": false
     },
     {
       "id": "1669610345",
@@ -6147,6 +6147,54 @@
       "category_id": "4758971",
       "category_name": "Підсилювачі смаку",
       "picture": "https://images.prom.ua/6484548092_etilmaltol-e-637kitajves1kg.jpg",
+      "available": true
+    },
+    {
+      "id": "3154680043",
+      "name": "Какао масло дезодороване(Нідерланди) ТМ Gerkens Cacao.Вага:1кг.",
+      "price": 1100.0,
+      "unit_type": "weight",
+      "package_weight_grams": 1000.0,
+      "price_per_100g": 110.0,
+      "category_id": "4834758",
+      "category_name": "Какао масло",
+      "picture": "https://images.prom.ua/6295816827_kakao-maslo-dezodorirovannoeniderlandytm.jpg",
+      "available": true
+    },
+    {
+      "id": "3155977872",
+      "name": "Какао масло дезодороване(Нідерланди) ТМ Gerkens Cacao.Вага:500г.",
+      "price": 600.0,
+      "unit_type": "weight",
+      "package_weight_grams": 500.0,
+      "price_per_100g": 120.0,
+      "category_id": "4834758",
+      "category_name": "Какао масло",
+      "picture": "https://images.prom.ua/6295816827_kakao-maslo-dezodorirovannoeniderlandytm.jpg",
+      "available": true
+    },
+    {
+      "id": "3155991801",
+      "name": "Какао масло дезодороване(Нідерланди) ТМ Gerkens Cacao.Вага:250г.",
+      "price": 300.0,
+      "unit_type": "weight",
+      "package_weight_grams": 250.0,
+      "price_per_100g": 120.0,
+      "category_id": "4834758",
+      "category_name": "Какао масло",
+      "picture": "https://images.prom.ua/6295816827_kakao-maslo-dezodorirovannoeniderlandytm.jpg",
+      "available": true
+    },
+    {
+      "id": "3156082203",
+      "name": "Какао масло дезодороване(Нідерланди) ТМ Gerkens Cacao.Вага:150г.",
+      "price": 200.0,
+      "unit_type": "weight",
+      "package_weight_grams": 150.0,
+      "price_per_100g": 133.33,
+      "category_id": "4834758",
+      "category_name": "Какао масло",
+      "picture": "https://images.prom.ua/6295816827_kakao-maslo-dezodorirovannoeniderlandytm.jpg",
       "available": true
     },
     {
