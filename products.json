@@ -4448,50 +4448,50 @@
     {
       "id": "1230133125",
       "name": "Желатин листовий 200 Bloom ТМ Ewald, (Німеччина) 50 аркушів. (1 арк/2грама)",
-      "price": 200.0,
+      "price": 300.0,
       "unit_type": "weight",
       "package_weight_grams": 100.0,
-      "price_per_100g": 200.0,
+      "price_per_100g": 300.0,
       "category_id": "5268576",
       "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6321700750_zhelatin-listovoj-200.jpg",
-      "available": false
+      "available": true
     },
     {
       "id": "1230133728",
       "name": "Желатин листовий 200 Bloom ТМ Ewald, (Німеччина) 100 аркушів.(1 арк/2грама)",
-      "price": 350.0,
+      "price": 500.0,
       "unit_type": "weight",
       "package_weight_grams": 200.0,
-      "price_per_100g": 175.0,
+      "price_per_100g": 250.0,
       "category_id": "5268576",
       "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6321700750_zhelatin-listovoj-200.jpg",
-      "available": false
+      "available": true
     },
     {
       "id": "1230134413",
       "name": "Желатин листовий 200 Bloom ТМ Ewald, (Німеччина) 200 аркушів. (1 арк/2грама)",
-      "price": 700.0,
+      "price": 1000.0,
       "unit_type": "weight",
       "package_weight_grams": 400.0,
-      "price_per_100g": 175.0,
+      "price_per_100g": 250.0,
       "category_id": "5268576",
       "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6321700750_zhelatin-listovoj-200.jpg",
-      "available": false
+      "available": true
     },
     {
       "id": "1235316020",
       "name": "Желатин листовий 200 Bloom ТМ Ewald (Німеччина) 500 аркушів. (1 арк/2грама)",
-      "price": 1600.0,
+      "price": 1900.0,
       "unit_type": "weight",
       "package_weight_grams": 1000.0,
-      "price_per_100g": 160.0,
+      "price_per_100g": 190.0,
       "category_id": "5268576",
       "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
       "picture": "https://images.prom.ua/6321700750_zhelatin-listovoj-200.jpg",
-      "available": false
+      "available": true
     },
     {
       "id": "1273159949",
@@ -5668,54 +5668,6 @@
       "category_name": "Суперфуди",
       "picture": "https://images.prom.ua/6324247572_muer-drevesnyj-grib.jpg",
       "available": true
-    },
-    {
-      "id": "1666388672",
-      "name": "Желатин листовий (Халяль) 170 bloom ТМ Ewald,(Німеччина)  50 аркушів.(1 аркуш = 2,5 грама.)",
-      "price": 200.0,
-      "unit_type": "piece",
-      "package_weight_grams": null,
-      "price_per_100g": null,
-      "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
-      "picture": "https://images.prom.ua/6321700750_zhelatin-listovoj-halyal.jpg",
-      "available": false
-    },
-    {
-      "id": "1666388696",
-      "name": "Желатин листовий (Халяль) 170 bloom ТМ Ewald,(Німеччина)  100 аркушів.(1 аркуш = 2,5 грама.)",
-      "price": 400.0,
-      "unit_type": "weight",
-      "package_weight_grams": 250.0,
-      "price_per_100g": 160.0,
-      "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
-      "picture": "https://images.prom.ua/6321700750_zhelatin-listovoj-halyal.jpg",
-      "available": false
-    },
-    {
-      "id": "1666388740",
-      "name": "Желатин листовий (Халяль) 170 bloom  ТМ Ewald,(Німеччина) 200 аркушів.(1 аркуш = 2,5 грама.)",
-      "price": 750.0,
-      "unit_type": "weight",
-      "package_weight_grams": 500.0,
-      "price_per_100g": 150.0,
-      "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
-      "picture": "https://images.prom.ua/6321700750_zhelatin-listovoj-halyal.jpg",
-      "available": false
-    },
-    {
-      "id": "1666388772",
-      "name": "Желатин листовий (Халяль)170 bloom ТМ Ewald,(Німеччина)  400 аркушів.(1 аркуш = 2,5 грама.)",
-      "price": 1400.0,
-      "unit_type": "weight",
-      "package_weight_grams": 1000.0,
-      "price_per_100g": 140.0,
-      "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
-      "picture": "https://images.prom.ua/6321700750_zhelatin-listovoj-halyal.jpg",
-      "available": false
     },
     {
       "id": "1669610345",
