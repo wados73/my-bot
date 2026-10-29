@@ -2439,7 +2439,7 @@
       "category_id": "13895369",
       "category_name": "Сухофрукти та ягоди",
       "picture": "https://images.prom.ua/6486103075_finik-korolevskij-iranves150gr.jpg",
-      "available": false
+      "available": true
     },
     {
       "id": "945257530",
@@ -2451,7 +2451,7 @@
       "category_id": "13895369",
       "category_name": "Сухофрукти та ягоди",
       "picture": "https://images.prom.ua/6486103075_finik-korolevskij-iranves250gr.jpg",
-      "available": false
+      "available": true
     },
     {
       "id": "945260454",
@@ -2463,7 +2463,7 @@
       "category_id": "13895369",
       "category_name": "Сухофрукти та ягоди",
       "picture": "https://images.prom.ua/6486103075_finik-korolevskij-iranves500gr.jpg",
-      "available": false
+      "available": true
     },
     {
       "id": "945261528",
@@ -2475,7 +2475,7 @@
       "category_id": "13895369",
       "category_name": "Сухофрукти та ягоди",
       "picture": "https://images.prom.ua/6486103075_finik-korolevskij-iranves1kg.jpg",
-      "available": false
+      "available": true
     },
     {
       "id": "945271893",
@@ -5823,54 +5823,6 @@
       "category_id": "97601300",
       "category_name": "Спеції і прянощі",
       "picture": "https://images.prom.ua/6464611922_gimalajskaya-rozovaya-sol.jpg",
-      "available": true
-    },
-    {
-      "id": "2270652974",
-      "name": "Альбумін 85% (яєчний білок) ТМ Ovopol (Польща).Вага:100г.",
-      "price": 125.0,
-      "unit_type": "weight",
-      "package_weight_grams": 100.0,
-      "price_per_100g": 125.0,
-      "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
-      "picture": "https://images.prom.ua/6276246769_albumin-85-yaichnyj.jpg",
-      "available": true
-    },
-    {
-      "id": "2270683938",
-      "name": "Альбумін 85% (яєчний білок) ТМ Ovopol (Польща).Вага:250г.",
-      "price": 300.0,
-      "unit_type": "weight",
-      "package_weight_grams": 250.0,
-      "price_per_100g": 120.0,
-      "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
-      "picture": "https://images.prom.ua/6276246769_albumin-85-yaichnyj.jpg",
-      "available": true
-    },
-    {
-      "id": "2270685427",
-      "name": "Альбумін 85% (яєчний білок) ТМ Ovopol (Польща).Вага:500г.",
-      "price": 575.0,
-      "unit_type": "weight",
-      "package_weight_grams": 500.0,
-      "price_per_100g": 115.0,
-      "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
-      "picture": "https://images.prom.ua/6276246769_albumin-85-yaichnyj.jpg",
-      "available": true
-    },
-    {
-      "id": "2270690860",
-      "name": "Альбумін 85% (яєчний білок) ТМ Ovopol (Польща).Вага:1кг.",
-      "price": 1050.0,
-      "unit_type": "weight",
-      "package_weight_grams": 1000.0,
-      "price_per_100g": 105.0,
-      "category_id": "5268576",
-      "category_name": "Агар-Агар, Альбумін, Желатин, Пектин",
-      "picture": "https://images.prom.ua/6276246769_albumin-85-yaichnyj.jpg",
       "available": true
     },
     {
